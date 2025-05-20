@@ -1,8 +1,9 @@
 # Lucas Cervera
 	- ### Formación
-	- [[IA imagen]]
+		- [[IA imagen]]
 	- ### Clientes
 		- EOI
+			- EOI-IA-1
 			-
 - # innV0
   collapsed:: true
