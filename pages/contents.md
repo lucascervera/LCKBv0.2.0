@@ -6,10 +6,8 @@
 			- EOI-IA-1
 			-
 - # innV0
-  collapsed:: true
 	- ## innV0 labs
 		- ### innV0 Projects #web
-		  collapsed:: true
 			- Projects where we experiment with artificial intelligence tools to learn firsthand.
 			- ## [[PragInn]]
 			  platform::
@@ -35,6 +33,7 @@
 				- #comming_soon
 			- ## Easy web events tracker
 				- #comming_soon
+			-
 	- ## innV0.com
 		- [[innV0]]
 		  title:: innV0
