@@ -1,5 +1,6 @@
 # Lucas Cervera
 	- ### Formación
+	- [[IA imagen]]
 	-
 - # innV0
   collapsed:: true
