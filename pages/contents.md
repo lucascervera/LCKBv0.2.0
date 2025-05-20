@@ -29,7 +29,6 @@
 			- ## Easy web events tracker
 				- #comming_soon
 	- ## innV0.com
-	  collapsed:: true
 		- [[innV0]]
 		  title:: innV0
 		  lang:: en
