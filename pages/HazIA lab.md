@@ -1,0 +1,103 @@
+### Programa de Aprendizaje en Innovación e Inteligencia Artificial
+title:: Laboratorio HazIA
+- ### Objetivos del programa
+	- El objetivo del programa es que los participantes aprendan a:
+	- Utilizar herramientas de inteligencia artificial aplicándolas en un proyecto real.
+	- Diseñar un producto o servicio Con un modelo de negocio. Viable.
+	- Conocer y utilizar las. Herramientas. Más modernas que se utilizan. En el entornos profesionales reales. (discord)
+	- Trabajar en equipo, Alinear objetivos, Asignar responsabilidades y gestionar conflictos.
+	- Comprender los aspectos más importantes para Unos distintos stakeholders y empatizar con ellos
+	- Aprender a comunicar La propuesta de valor a diferentes audiencias.
+	- Evaluar distintas alternativas Profesionales (fundador, empleado, inversor)
+- ### Principios
+	- Se trata de una experiencia de aprendizaje. (no se va a crear una start up Durante el programa).
+	- El programa intentará recrear de la forma más fiel posible El ecosistema de Proyectos innovadores. y startups.
+	- Los participantes no van a recibir todo hecho deberán buscarse la vida.
+	- Los Mentores están. Ayudar a los participantes Aportando experiencia y puntos de vista., No para tomar decisiones por ellos..
+	- No todos los participantes van a acabar contentos (Igual que pasa en El Mundo real)
+	- Exposición de elecciones aprendidas Y aprendizaje colaborativo.
+	- Networking.
+- ### Estructura del programa
+	- Preparación y convocatoria.
+	- Ejecución del programa
+		- Consta de cuatro fases.
+	- Seguimiento del programa.
+- ## Herramientas utilizadas
+	- Discord
+- ### Roles del programa
+	- Todos los participantes en el programa Asumen 1 O varios roles. Antes de participar en el programa deberán Entender Su rol.,
+	-
+	- Responsable del programa
+	- Responsable de la edición del programa
+		- Deben actuar como facilitadores del programa.
+	- Mentores
+	- Asesores
+	- Evaluadores
+	- Participantes
+		- Promotores
+			- Pueden ser 1 o varias personas.
+			- Son los que aportan una idea de proyecto.
+			- Asumen el rol de fundadores
+			- Son responsables de Crear un modelo de negocio viable.
+			- Deben mantener al equipo cohesionado y motivado.
+			- Deben preocuparse de Que los colaboradores Sepan que tienen que hacer. Y cómo pueden aportar valor.
+		- Colaboradores
+			- Deben cumplir Los Comromisos Adquiridos con el programa y con el proyecto en el que participan.
+		- Inversores
+- ### Formato del programa
+	- El programa Se desarrolla principalmente online. Mediante trabajo remoto, Aunque es posible establecer algunas actividades Presenciales (Por ejemplo, la sesión de arranque, La sesión de presentación final De proyectos)
+	- Algunas actividades del programa Se pueden llevar a cabo de forma presencial, Alguna en remotas de forma síncrona (Por ejemplo, mediante videoconferencia, webinar o streaming) Y algunas de forma remota asíncrona. (Por ejemplo Entrega de un vídeo de seguimiento y Un posterior vídeo de un mentor dando feedback)
+	- El programa está principalmente diseñado para facilitar el trabajo remoto asíncrono.
+	- Para el trabajo del equipo en el proyecto serán los propios miembros del mismo. Los que determinarán. La forma. de trabajar. (Como sucede en El Mundo real)
+- ## Preparación del Programa
+	- ### Adecuación del programa
+		- Se determina entre Los responsables del programa y los responsables de la edición del programa Y éste puede cumplir los objetivos. Y expectativas. Que los responsables de la edición. Tienen para el mismo.
+	- ### Diseño del programa.
+		-
+	- ### Configuración del Programa
+		- Definir los retos y objetivos del programa.
+		- Definir los incentivos para los participantes (Aprendizaje , participación en un programa de apoyo al emprendimiento, Premios económicos, Reconocimiento / certificación...)
+		- Definir la duración total del programa Y este establecimiento de fechas para los hitos principales.  (kick-off, sesiones intermedias, Presentación De proyectos, Anuncio de ganadores)La duración recomendada del programa es de cuatro semana (Una semana por fase) aunque existe la posibilidad de ampliar el tiempo en alguna fase.
+		- Establecer la duración y alcance de cada fase.
+		- Determinar el número de participantes y requisitos de participación (Compromiso de dedicación, Aportación al fondo, etc...).
+	- **Captación de interesados**
+		- Difusión de información sobre el programa.
+			- Información logística.
+			- Gestión de expectativas
+		- Abrir el registro para interesados.
+		- Registrar fichas de participantes (nombre, contacto, intereses, habilidades, etc...)
+	- **Registro de Proyectos:**
+		- Registro de ideas de proyectos Por parte de los participantes con rol de promotor.
+	- ### Solicitud y aceptación de participación.
+		- Publicación de las ideas y captación de solicitudes de participación.
+		- Asignación de roles por parte del promotor.
+	- **Creación de equipos**
+		- Selección de colaboradores por parte de los promotores de proyecto.
+		- Agrupación de participantes en equipos de 1-8 personas basándose en intereses y habilidades complementarias.
+	- **Sesión de kick-off:**
+		- Presentación del programa y sus objetivos.
+		- Introducción a la inteligencia artificial y su aplicación en negocios.
+- ## Ejecución del programa
+	- ## Fase 1 Definición, análisis y validación del cliente / problema
+		- **Actividades:**
+			- **Brainstorming:**
+				- Sesiones de lluvia de ideas para identificar problemas y oportunidades.
+				- Selección de las ideas más prometedoras para desarrollar.
+			- **Mentorías:**
+				- Asignación de mentores a cada equipo para guiar el proceso de definición de la idea.
+				- Sesiones de feedback con mentores y expertos en IA y negocios.
+			- **Desarrollo de la Idea:**
+				- Trabajo en equipo para definir claramente la idea del proyecto.
+				- Identificación del  público objetivo, problema a resolver, propuesta de valor.
+			- **Presentación Inicial:**
+				- Preparación de una presentación corta (pitch) para describir la idea del proyecto.
+				- Presentación de las ideas ante un panel de evaluadores y mentores para recibir feedback.
+	- ## Fase 2 Definición de la propuesta de valor, diseño de la solución y desarrollo de un prototipo
+		- Talleres sobre herramientas de IA y desarrollo de prototipos.
+		- Trabajo en equipo para construir el prototipo.
+		- Mentorías y feedback continuo.
+		- Pruebas y ajustes del prototipo.
+	- ## Fase 3 Definición del modelo de negocio, análisis de riesgos y validación de la solución
+	- ## Fase 4 Refinamiento del modelo de negocio y comunicación.
+- ## Programas temáticos
+	-
