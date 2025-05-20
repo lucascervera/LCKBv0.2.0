@@ -1,7 +1,9 @@
 # Lucas Cervera
 	- ### Formación
 	- [[IA imagen]]
-	-
+	- ### Clientes
+		- EOI
+			-
 - # innV0
   collapsed:: true
 	- ## innV0 labs
