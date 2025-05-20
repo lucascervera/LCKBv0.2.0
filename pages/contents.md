@@ -1,7 +1,8 @@
 # Lucas Cervera
 - # innV0
 	- ## innV0 labs
-		- ## innV0 Projects
+		- ## innV0 Projects #web
+		  collapsed:: true
 			- Projects where we experiment with artificial intelligence tools to learn firsthand.
 			- ## [[PragInn]]
 			  platform::
