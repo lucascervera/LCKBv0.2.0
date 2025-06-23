@@ -246,7 +246,8 @@
 		- Lucas Cervera
 			- iNNv0
 				- assessmeNNt
-				- organizatio
+				- organizatioNN
+				- iNNi
 			-
 			- modeliNNg
 			- formacióNN
