@@ -247,7 +247,7 @@
 			- iNNv0
 				- assessmeNNt
 				- organizatioNN
-				- iNNi
+				- iNNitiatives
 			-
 			- modeliNNg
 			- formacióNN
