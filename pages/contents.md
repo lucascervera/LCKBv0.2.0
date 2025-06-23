@@ -249,9 +249,9 @@
 				- organizatioNN
 				- oppotuNNities
 				- iNNitiatives
-			-
 			- modeliNNg
 			- formacióNN
 			- iNNteresante
 			- hackiNNg
 			- thiNNktank
+-
