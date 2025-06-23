@@ -246,7 +246,9 @@
 		- Lucas Cervera
 			- iNNv0
 				- assessmeNNt
-				-
+				- organizatio
+			-
+			- modeliNNg
 			- formacióNN
 			- iNNteresante
 			- hackiNNg
