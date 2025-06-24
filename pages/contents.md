@@ -247,7 +247,7 @@
 			- iNNv0
 				- assessmeNNt
 				- organizatioNN
-				- oppotuNNities
+				- opportuNNities
 				- iNNitiatives
 			- consultiNNg
 			- modeliNNg
