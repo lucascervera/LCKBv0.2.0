@@ -257,4 +257,5 @@
 			- hackiNNg
 			- thiNNktank
 - ## Videos
+	- Artículo IA en medicina
 	-
