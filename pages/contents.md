@@ -243,6 +243,7 @@
 			- EOI-IA-1
 	- GitHub
 	- ## Proyectos
+	  collapsed:: true
 		- Lucas Cervera
 			- iNNv0
 				- assessmeNNt
@@ -255,4 +256,5 @@
 			- iNNteresante
 			- hackiNNg
 			- thiNNktank
--
+- ## Videos
+	-
