@@ -257,7 +257,7 @@
 			- hackiNNg
 			- thiNNktank
 - ## Videos
-	- Artículo IA en medicina
+	- Inteligencia artificial y su aplicación en medicina
 		- ## **Inteligencia Artificial en Pediatría y Medicina Adolescente**
 		  
 		  Lucas Rodríguez Cervera  
