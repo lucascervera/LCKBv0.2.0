@@ -257,5 +257,5 @@
 			- hackiNNg
 			- thiNNktank
 - ## Videos
-	- [[Inteligencia artificial y su aplicación en medicina]]
+	- [[Inteligencia artificial y su aplicación en medicina adolescente]]
 	-

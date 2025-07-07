@@ -127,46 +127,45 @@ Actualmente, la IA se está implementando en diversas áreas de la atención mé
 La Inteligencia Artificial (IA) se erige como una fuerza transformadora con el potencial de remodelar significativamente el futuro de la medicina pediátrica y adolescente. A lo largo de este artículo, se ha explorado la amplia gama de aplicaciones de la IA, desde el diagnóstico temprano y el análisis predictivo hasta la imagenología avanzada, la documentación clínica automatizada y la robótica quirúrgica inteligente. Los beneficios de la IA en la mejora de la precisión diagnóstica, la personalización de los tratamientos, la optimización de los flujos de trabajo administrativos y la mejora de la educación médica son cada vez más evidentes.
 
 En general, la IA se está aplicando en una variedad de afecciones pediátricas y entornos de atención médica, desde la predicción de riesgos y la mejora del diagnóstico hasta el monitoreo de pacientes y la optimización de los procesos clínicos \[3\].
-
-## **Referencias**
-
-\[1\] Machine Learning in Pediatric Healthcare: Current Trends, Challenges, and Future Directions – PMC, accessed March 20, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC11818243/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11818243/)
-
-\[2\] Artificial Intelligence and Children’s Health – Children’s Hospital Association, accessed March 20, 2025, [https://www.childrenshospitals.org/content/public-policy/fact-sheet/artificial-intelligence-and-childrens-health](https://www.childrenshospitals.org/content/public-policy/fact-sheet/artificial-intelligence-and-childrens-health)
-
-\[3\] Promises, Pitfalls, and Clinical Applications of Artificial Intelligence in Pediatrics, accessed March 20, 2025,  [https://www.jmir.org/2024/1/e49022](https://www.jmir.org/2024/1/e49022)
-
-**Preguntas tipo test**
-
-**En el contexto de la IA en pediatría, ¿qué factor se considera crucial para garantizar la equidad en los algoritmos de diagnóstico?**
-
- A. Mejorar la capacidad de las máquinas para realizar diagnósticos autónomos  
- B. Asegurar que los algoritmos estén entrenados con datos representativos de diversos grupos demográficos  
- C. Reemplazar la supervisión médica con IA para reducir errores humanos  
- D. Reducir el número de datos utilizados para hacer los diagnósticos  
- E. Crear algoritmos centrados solo en enfermedades comunes
-
-**Respuesta correcta:** B. Asegurar que los algoritmos estén entrenados con datos representativos de diversos grupos demográficos  
-**Explicación:** Es fundamental que los algoritmos de IA estén entrenados con una muestra diversa de datos para evitar sesgos que puedan afectar la precisión de los diagnósticos, garantizando que todos los pacientes, independientemente de su origen, reciban atención equitativa.
-
-**¿Cuál es el papel más adecuado de la IA en el entorno clínico pediátrico?**
-
- A. Sustituir a los médicos en la toma de decisiones clínicas críticas  
- B. Ayudar a los médicos a tomar decisiones informadas mediante el análisis de grandes volúmenes de datos  
- C. Realizar diagnósticos sin supervisión médica  
- D. Limitar el contacto médico con los pacientes para reducir costes  
- E. Descartar completamente la necesidad de formación continua para los médicos
-
-**Respuesta correcta:** B. Ayudar a los médicos a tomar decisiones informadas mediante el análisis de grandes volúmenes de datos  
-**Explicación:** La IA debe ser vista como una herramienta para mejorar las capacidades cognitivas de los médicos, proporcionando análisis detallados y recomendaciones basadas en grandes volúmenes de datos, pero siempre bajo la supervisión y juicio de los profesionales de la salud.
-
-**¿Cuál de las siguientes tecnologías de IA tiene un papel fundamental en el análisis de imágenes médicas en pediatría?**
-
- A. Procesamiento de imágenes en 3D  
- B. Redes neuronales convolucionales  
- C. Modelos de predicción basada en encuestas  
- D. Reconocimiento de patrones de texto en documentos médicos  
- E. Algoritmos de cifrado de imágenes
-
-**Respuesta correcta:** B. Redes neuronales convolucionales  
-**Explicación:** Las redes neuronales convolucionales (CNN) se utilizan específicamente en el análisis de imágenes médicas, como radiografías y resonancias magnéticas, para detectar fracturas, tumores y otras condiciones en pediatría. Este tipo de IA ha demostrado ser más preciso que los métodos tradicionales en la interpretación de imágenes.
+- ## **Referencias**
+  
+  \[1\] Machine Learning in Pediatric Healthcare: Current Trends, Challenges, and Future Directions – PMC, accessed March 20, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC11818243/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11818243/)
+  
+  \[2\] Artificial Intelligence and Children’s Health – Children’s Hospital Association, accessed March 20, 2025, [https://www.childrenshospitals.org/content/public-policy/fact-sheet/artificial-intelligence-and-childrens-health](https://www.childrenshospitals.org/content/public-policy/fact-sheet/artificial-intelligence-and-childrens-health)
+  
+  \[3\] Promises, Pitfalls, and Clinical Applications of Artificial Intelligence in Pediatrics, accessed March 20, 2025,  [https://www.jmir.org/2024/1/e49022](https://www.jmir.org/2024/1/e49022)
+  
+  **Preguntas tipo test**
+  
+  **En el contexto de la IA en pediatría, ¿qué factor se considera crucial para garantizar la equidad en los algoritmos de diagnóstico?**
+  
+  A. Mejorar la capacidad de las máquinas para realizar diagnósticos autónomos  
+  B. Asegurar que los algoritmos estén entrenados con datos representativos de diversos grupos demográficos  
+  C. Reemplazar la supervisión médica con IA para reducir errores humanos  
+  D. Reducir el número de datos utilizados para hacer los diagnósticos  
+  E. Crear algoritmos centrados solo en enfermedades comunes
+  
+  **Respuesta correcta:** B. Asegurar que los algoritmos estén entrenados con datos representativos de diversos grupos demográficos  
+  **Explicación:** Es fundamental que los algoritmos de IA estén entrenados con una muestra diversa de datos para evitar sesgos que puedan afectar la precisión de los diagnósticos, garantizando que todos los pacientes, independientemente de su origen, reciban atención equitativa.
+  
+  **¿Cuál es el papel más adecuado de la IA en el entorno clínico pediátrico?**
+  
+  A. Sustituir a los médicos en la toma de decisiones clínicas críticas  
+  B. Ayudar a los médicos a tomar decisiones informadas mediante el análisis de grandes volúmenes de datos  
+  C. Realizar diagnósticos sin supervisión médica  
+  D. Limitar el contacto médico con los pacientes para reducir costes  
+  E. Descartar completamente la necesidad de formación continua para los médicos
+  
+  **Respuesta correcta:** B. Ayudar a los médicos a tomar decisiones informadas mediante el análisis de grandes volúmenes de datos  
+  **Explicación:** La IA debe ser vista como una herramienta para mejorar las capacidades cognitivas de los médicos, proporcionando análisis detallados y recomendaciones basadas en grandes volúmenes de datos, pero siempre bajo la supervisión y juicio de los profesionales de la salud.
+  
+  **¿Cuál de las siguientes tecnologías de IA tiene un papel fundamental en el análisis de imágenes médicas en pediatría?**
+  
+  A. Procesamiento de imágenes en 3D  
+  B. Redes neuronales convolucionales  
+  C. Modelos de predicción basada en encuestas  
+  D. Reconocimiento de patrones de texto en documentos médicos  
+  E. Algoritmos de cifrado de imágenes
+  
+  **Respuesta correcta:** B. Redes neuronales convolucionales  
+  **Explicación:** Las redes neuronales convolucionales (CNN) se utilizan específicamente en el análisis de imágenes médicas, como radiografías y resonancias magnéticas, para detectar fracturas, tumores y otras condiciones en pediatría. Este tipo de IA ha demostrado ser más preciso que los métodos tradicionales en la interpretación de imágenes.
