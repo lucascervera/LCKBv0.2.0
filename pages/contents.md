@@ -258,4 +258,5 @@
 			- thiNNktank
 - ## Videos
 	- [[Inteligencia Artificial en Pediatría y Medicina Adolescente]]
-	-
+- ## Prompts
+	- v
