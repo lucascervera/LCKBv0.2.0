@@ -258,7 +258,7 @@
 			- thiNNktank
 - ## Videos
 	- [[Inteligencia Artificial en Pediatría y Medicina Adolescente]]
-	-
+	- [[¿Qué es innovación?]]
 - ## Prompts
 	- Prompt para ilustraciones
 		- White background. Digital illustration with professional looking used in a business context for an adult professional audience. Avoid childlike aesthetics. The design should convey a professional, modern and corporate look, colorful, modern flat style, transparent background, with clean lines, bold shapes, and expressive characters. Pop Art, isometric minimalist approach with a twist of vibrancy, and vintage modern flat vector style with a clean and polished aesthetic. Flat, 2-dimensional visual details. Rather than detail, use interesting perspectives and movement to give the images depth and life.The design relies on bold outlines and solid color fills, avoiding gradients or complex textures. The use of flat colors and geometric shapes gives the image a contemporary and slightly retro feel. Overall, the illustration avoids childish elements and embraces a professional, modern, and corporate tone, suitable for business communication and tech-focused visual identities. Use a vivid and warm color palette, no backgrounds, and a modern illustrative aesthetic similar to tech marketing visuals. Style should emphasize emotional expression and clarity, with simplified but distinctive features and minimal shading. Do not use text.

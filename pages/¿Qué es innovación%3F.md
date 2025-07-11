@@ -1,0 +1,7 @@
+- ¿Te has preguntado alguna vez cómo pasan de la idea loca al invento que cambia tu día a día?
+- Innovar es mejorar lo que ya existe o crear algo nuevo que aporte valor. No tiene que ser algo de otro planeta: puede ser tan sencillo como un nuevo sabor de helado… o algo tan grande como un coche eléctrico.
+- Mira el Post-it®: un papel adhesivo que nació de un error en el pegamento.
+- O piensa en los smartphones: combinan teléfono, cámara y mil apps en un solo dispositivo.
+- Incluso tu cafetería de barrio puede innovar: añadiendo música en vivo o espacios de co-working.
+- La innovación impulsa progreso, resuelve problemas y añade un toque de magia a lo cotidiano.
+- Atrévete a innovar: ¿qué pequeña gran idea vas a probar hoy?
