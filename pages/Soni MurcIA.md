@@ -44,9 +44,6 @@
 	  Un hombre buscando trabajo: “¿Y cuánto me va usted a pagar?”  
 	  Gerente: “Depende de lo que trabaje.”  
 	  Solicitante: “Uh… ¿tan poquito?”
-	- ### Empujón fatal #humor #oficina #puesto
-	  Empleado: “Vengo a ocupar el puesto del señor que se acaba de ahogar.”  
-	  Jefe: “Lo siento, llega usted tarde; ya se lo dimos al que lo empujó.”
 	- ### Volver en tres meses #humor #oficina #promesa
 	  Un tío que va a buscar trabajo y le dicen: “Ahora entrarás ganando 700 euros y dentro de tres meses le subiremos a 2.000.”  
 	  Él: “Bueno pues ya volveré dentro de tres meses.”
