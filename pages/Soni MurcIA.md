@@ -12,16 +12,8 @@
 	  En la entrevista de trabajo, dije que puedo trabajar bien bajo presión. Me refería a la presión atmosférica.
 	- ### Pizza y Netflix #humor #entrevista #hábitos
 	  Al preguntarme por mis debilidades, respondí que eran la pizza y Netflix. No estoy seguro de que hayan entendido la broma.
-	- ### Perfeccionista #humor #entrevista #currículum
-	  En mi currículum dice que soy perfeccionista. Ahora solo tengo que aprender a estar a la altura de esa afirmación.
-	- ### Ver memes #humor #entrevista #objetivos
-	  Al preguntarme qué quiero lograr en el trabajo, respondí que quiero que me paguen por ver memes. Todavía estoy esperando una respuesta.
-	- ### Jefe tirano #humor #entrevista #exjefe
-	  Dije que mi jefe anterior era un tirano. Después, el entrevistador me ofreció té y la conversación se relajó mucho.
 	- ### Fracaso mayor #humor #entrevista #fracaso
 	  Cuando me preguntaron por mi mayor fracaso, comencé diciendo: Esta entrevista de trabajo. Ambos nos reímos, pero él no volvió a llamar.
-	- ### Trabajo en equipo #humor #entrevista #colaboración
-	  Querían ejemplos de trabajo en equipo. Hablé de nuestra épica victoria en una sala de escape. Dijeron que eso no contaba.
 	- ### Manejo del estrés #humor #entrevista #estrés
 	  Cuando me preguntaron cómo manejo el estrés, dije que escribo chistes divertidos sobre entrevistas de trabajo.
 	  
