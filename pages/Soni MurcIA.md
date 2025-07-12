@@ -10,17 +10,8 @@
 	  Lo más difícil en una entrevista de trabajo es cuando preguntan por mis debilidades. ¡No puedo decidirme por una sola!
 	- ### Presión atmosférica #humor #entrevista #presión
 	  En la entrevista de trabajo, dije que puedo trabajar bien bajo presión. Me refería a la presión atmosférica.
-	- ### Salida #humor #entrevista #carrera
-	  Hicieron la pregunta estándar de dónde quiero ir en mi carrera. Fue difícil no responder: A la salida.
-		- a estándar de dónde quiero ir en mi carrera. Fue difícil no responder: A la salida.
-	- ### Venta de nieve #humor #entrevista #ventas
-	  En la entrevista de trabajo me di cuenta de que puedo venderle nieve a los esquimales. Pero si consigo el trabajo, es otra historia.
-	- ### Maldivas #humor #entrevista #viajes
-	  Me preguntaron dónde me veía en cinco años. Respondí que en las Maldivas. Pero eso no les impresionó de alguna manera.
 	- ### Pizza y Netflix #humor #entrevista #hábitos
 	  Al preguntarme por mis debilidades, respondí que eran la pizza y Netflix. No estoy seguro de que hayan entendido la broma.
-	- ### Evitación #humor #entrevista #tareas
-	  Cuando me preguntaron cómo manejo las tareas difíciles, dije que simplemente las evito. La sonrisa del entrevistador desapareció rápidamente.
 	- ### Perfeccionista #humor #entrevista #currículum
 	  En mi currículum dice que soy perfeccionista. Ahora solo tengo que aprender a estar a la altura de esa afirmación.
 	- ### Ver memes #humor #entrevista #objetivos
