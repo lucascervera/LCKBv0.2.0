@@ -143,11 +143,7 @@
 	  ¿Qué santo es de otra parte? San Tomás. ¿De aquí? No.
 	- ### Mar y playa #humor #sarcasmo #naturaleza
 	  ¿Qué le dice el mar a la playa? Ola.
-	- ### Alfombra bosque #humor #sarcasmo #objetos
-	  ¿Qué hace una alfombra en un bosque? Está perdida.
-	- ### Bosques #humor #sarcasmo #naturaleza
-	  ¿Qué le dijo un bosque a otro bosque? Vos qué?
-	- ### Peces ingenieros #humor #sarcasmo #ingeniería
+	- ### Ingenieros #humor #sarcasmo #ingeniería
 	  Un ladrón encapuchado que va a robar a un transeúnte y le dice: “¡Dame todo lo que lleves encima!”  
 	  El transeúnte responde: “No tengo nada, ni un billete… soy ingeniero de telecomunicaciones.”  
 	  El ladrón se quita la capucha y dice: “¡No me digas! ¿De qué año?”
