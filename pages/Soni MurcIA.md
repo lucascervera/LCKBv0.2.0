@@ -75,17 +75,7 @@
 	- ### Trigonometría #humor #escuela #matemáticas
 	  Lo más difícil en la escuela es entender por qué necesitamos trigonometría.
 	- ### Ausencias notables #humor #escuela #profesores
-	  En la escuela era tan bueno que incluso mis ausencias despertaban el interés de los profesores.
-	- ### Recreo #humor #escuela #descanso
-	  La mejor hora de clase en la escuela es cuando suena el timbre del recreo.
-	- ### Plan fallido #humor #escuela #planes
-	  La escuela es cuando siempre tienes un plan, y siempre fracasa en el último momento.
-	- ### Cuaderno de matemáticas #humor #escuela #lágrimas
-	  Mi cuaderno de matemáticas se ve como un campo de batalla: números, fórmulas, y muchas lágrimas.
-	- ### Maratón de estudio #humor #escuela #estudio
-	  Estudiar es un maratón, no un sprint. Pero entonces, ¿por qué todo debe estar listo para mañana?
-	- ### Hibernación cerebral #humor #escuela #cerebro
-	  Cada vez que abro un libro de texto, mi cerebro decide entrar en hibernación.
+	  En la escuela era tan bueno que incluso mis ausencias despertaban el interés de los profesor
 	- ### Pánico pre-examen #humor #escuela #estrés
 	  La mejor manera de prepararse para un examen es entrar en pánico una semana antes.
 	- ### Biblioteca dormilona #humor #escuela #biblioteca
