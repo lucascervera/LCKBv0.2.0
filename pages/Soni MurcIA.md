@@ -19,24 +19,8 @@
 	  
 	  ---
 	- ## Chistes de Trabajo y Oficina
-	- ### Caos en la oficina #humor #oficina #caos
-	  Me encanta cuando un día en la oficina es caótico. Así definitivamente no me quedo dormido en el escritorio.
-	- ### Trabaja inteligentemente #humor #oficina #productividad
-	  ¿Quién inventó la frase “trabaja más inteligentemente, no más duro”? Obviamente esa persona nunca vio mi bandeja de entrada llena.
-	- ### Café diario #humor #oficina #café
-	  Todos los días en la oficina hago café. Esa es la parte más importante y constante de mi trabajo.
-	- ### Descanso del descanso #humor #oficina #descanso
-	  Tomo un descanso para el café porque necesito un descanso del descanso para almorzar.
 	- ### Líder selectivo #humor #oficina #liderazgo
 	  Mi jefe siempre habla de trabajo en equipo cuando algo no funciona. Cuando funciona, él es el único gran líder.
-	- ### Pagar facturas #humor #oficina #finanzas
-	  Cuando me preguntaron por qué quería este trabajo, respondí: Para pagar mis facturas.
-	- ### Camaradería embotellada #humor #oficina #equipo
-	  En nuestra oficina hay tanta camaradería que a veces pienso que deberíamos embotellarla y venderla.
-	- ### Misión sin manual #humor #oficina #tareas
-	  Mi trabajo es como una misión: cada día nuevas tareas y se ha perdido el manual de instrucciones.
-	- ### Colega ideal #humor #oficina #compañero
-	  Cuando me pidieron describir al colega ideal, dije: Alguien que no haga preguntas antes del primer café.
 	- ### Salir temprano #humor #oficina #horario
 	  Jefe: “¿Puedo salir dos horas antes? Mi mujer quiere que le acompañe a hacer unas compras.”  
 	  Jefe: “De ninguna manera.”  
