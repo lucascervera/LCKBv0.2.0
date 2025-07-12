@@ -19,16 +19,6 @@
 	  
 	  ---
 	- ## Chistes de Trabajo y Oficina
-	- ### Paciencia infinita #humor #oficina #paciencia
-	  Mi trabajo me ayuda a desarrollar paciencia... mucha paciencia.
-	- ### Computadora veloz #humor #oficina #tecnología
-	  Estoy seguro de que mi computadora va más rápido cuando no estoy trabajando en ella.
-	- ### Oyente profesional #humor #oficina #reuniones
-	  Tenemos tantas reuniones que siento que mi trabajo es ser un oyente profesional.
-	- ### Fechas límite #humor #oficina #plazos
-	  Las fechas límite no me dan miedo. Son solo pequeñas líneas que alguien dibujó en el calendario.
-	- ### Magia del presupuesto #humor #oficina #presupuesto
-	  Mi trabajo es como magia. ¡Hago muchos trucos y de repente el presupuesto desaparece!
 	- ### Caos en la oficina #humor #oficina #caos
 	  Me encanta cuando un día en la oficina es caótico. Así definitivamente no me quedo dormido en el escritorio.
 	- ### Trabaja inteligentemente #humor #oficina #productividad
