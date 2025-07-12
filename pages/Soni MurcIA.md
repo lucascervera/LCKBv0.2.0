@@ -109,8 +109,6 @@
 	  ¿Cómo se despiden los químicos? Ácido un placer.
 	- ### Impresoras #humor #sarcasmo #tecnología
 	  ¿Qué le dice una impresora a otra? ¿Esa hoja es tuya o es una impresión mía?
-	- ### Pollitos #humor #sarcasmo #animales
-	  ¿Cómo maldice un pollito a otro? Caldo seas.
 	- ### Primo vegano #humor #sarcasmo #nombres
 	  ¿Cómo se llama el primo vegano de Bruce Lee? Broco Lee.
 	- ### Buceo japonés #humor #sarcasmo #deportes
@@ -121,8 +119,6 @@
 	  Soy un tipo saludable. —¿Te gusta comer bien?— No, pero siempre me saludan.
 	- ### Vaca concentrada #humor #sarcasmo #leche
 	  ¿Qué hace una vaca con los ojos cerrados? Leche concentrada.
-	- ### Naranja sin jugo #humor #sarcasmo #frutas
-	  ¿Por qué la naranja no podía cruzar la calle? Porque se quedó sin jugo.
 	- ### Uvas #humor #sarcasmo #frutas
 	  ¿Qué le dijo una uva verde a una uva morada? Respira, por favor.
 	- ### Fruta divertida #humor #sarcasmo #frutas
