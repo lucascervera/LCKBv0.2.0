@@ -122,13 +122,7 @@
 	- ### Uvas #humor #sarcasmo #frutas
 	  ¿Qué le dijo una uva verde a una uva morada? Respira, por favor.
 	- ### Fruta divertida #humor #sarcasmo #frutas
-	  ¿Cuál es la fruta más divertida? La naranja ja ja ja.
-	- ### Manzana gimnasio #humor #sarcasmo #frutas
-	  ¿Qué hace una manzana en el gimnasio? Manzana-rmiento.
-	- ### Mamá-manzana #humor #sarcasmo #familia
-	  ¿Cómo se llama la mamá de todas las frutas? Mamá-manzana.
-	- ### Lápiz triste #humor #sarcasmo #escritura
-	  ¿Por qué el lápiz se deprimió? Porque estaba muy atilado.
+	  ¿Cuál es la fruta más divertida? La naranja ja ja ja..
 	- ### Pared esquina #humor #sarcasmo #edificios
 	  ¿Qué le dice una pared a otra pared? Nos vemos en la esquina.
 	- ### Computadora playa #humor #sarcasmo #playa
