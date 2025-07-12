@@ -28,8 +28,6 @@
 	- ### Prohibido beber #humor #oficina #reglas
 	  Jefe: “¡José! ¿Acaso no sabe que está prohibido beber durante el trabajo?”  
 	  José: “No se preocupe jefe, no estoy trabajando.”
-	- ### Despertar al contador #humor #oficina #contabilidad
-	  El director pregunta al nuevo empleado si el contador le dijo qué hacer por la tarde, y el empleado responde: Lo tengo que despertar cuando venga usted.
 	- ### Sueldo competitivo #humor #oficina #salario
 	  En un aviso laboral dice “Sueldo competitivo”.  
 	  Significado: Seguimos siendo competitivos pagando menos que nuestros competidores.
