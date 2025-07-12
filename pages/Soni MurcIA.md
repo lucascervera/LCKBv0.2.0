@@ -1,19 +1,11 @@
 - Chistes cortos
 	- ## Chistes de Entrevistas de Trabajo
-	- ### Persistencia #humor #entrevista #fortalezas
-	  En una entrevista de trabajo, el entrevistador le pide al entrevistado que enumere sus fortalezas y el entrevistado responde: Persistencia.
-	- ### Misterioso #humor #entrevista #currículum
-	  En una entrevista de trabajo, al revisar el currículum y ver que la fortaleza es “lo misterioso”, el entrevistador pregunta si quiere agregar algo y el entrevistado responde: Lee la respuesta en mis profundos ojos marrones.
 	- ### Triple salario #humor #entrevista #oferta
 	  En una entrevista de trabajo, tras comunicarte que no te van a contratar, el entrevistador añade: Pero te pagaremos el triple si empiezas en nuestra competencia.
 	- ### Adaptación rápida #humor #entrevista #sueño
 	  Fui a una entrevista de trabajo y me quedé dormido en el sofá. ¿Ves lo rápido que me adapto a nuevos entornos?
 	- ### Pregunta incómoda #humor #entrevista #pregunta
 	  Lo más difícil en una entrevista de trabajo es no responder “¿Puedo irme a casa ahora?” cuando preguntan: “¿Tienes alguna pregunta?”
-	- ### En cinco años: espejo #humor #entrevista #futuro
-	  En una entrevista de trabajo me preguntaron dónde me veía en cinco años. Respondí: En el espejo.
-	- ### Autopreguntas #humor #entrevista #preparación
-	  Estaba tan preparado para las preguntas de la entrevista de trabajo que comencé a hacérmelas a mí mismo.
 	- ### Debilidades indecisas #humor #entrevista #debilities
 	  Lo más difícil en una entrevista de trabajo es cuando preguntan por mis debilidades. ¡No puedo decidirme por una sola!
 	- ### Logros gamer #humor #entrevista #videojuegos
