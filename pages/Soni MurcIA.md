@@ -1,4 +1,4 @@
-# Chistes Cortos
+# Chistes Cortos Pendientes
 - ## Chistes de Entrevistas de Trabajo
 - ### Triple salario #humor #entrevista #oferta
   En una entrevista de trabajo, el entrevistador te suelta que no te van a contratar, y justo cuando ya te vas, añade: "Pero te pagaremos el triple si empiezas en nuestra competencia". ¡Te deja con la boca abierta!
@@ -69,65 +69,65 @@
   
   ---
 - ## Otros Chistes Sarcásticos
-- ### Doctor funeral #humor #sarcasmo #médico
-  Un paciente, preocupado, le pregunta al doctor: "Doctor, ¿tendré cura?". El médico, muy serio, le responde: "¡Por supuesto! Cura, misa y funeral".
-- ### Clave WiFi #humor #sarcasmo #conectividad
-  —¿Tienes Wifi? —Sí. —¿Y cuál es la clave? —Tener dinero y pagarlo.
-- ### Café peligroso #humor #sarcasmo #café
-  ¿Cuál es el café más peligroso del mundo? El ex-preso.
-- ### Rosa daltónica #humor #sarcasmo #colores
-  —Soy Rosa. —Ah, perdona, es que soy daltónico.
-- ### Renacimiento #humor #sarcasmo #arte
-  Alguien presume: "Dice que sabe de historia del arte. Soy un experto". Le preguntan: "¿Qué opinas del Renacimiento?". Y su respuesta, muy original: "Que es imposible, si te mueres, te mueres".
-- ### Plagio #humor #sarcasmo #palabras
-  Hoy he inventado una nueva palabra: plagio.
-- ### Sé tú #humor #sarcasmo #motivación
-  Con tono irónico, alguien te dice: "Haz algo productivo. Deja de ser tú mismo".
-- ### Ciego milagros #humor #sarcasmo #religión
-  Una enfermera le dice al doctor: "Doctor, un ciego quiere verlo". Y el médico, sin inmutarse, responde: "Dígale que yo no hago milagros".
-- ### Otro hijo #humor #sarcasmo #familia
-  Una pareja está hablando: "—Podríamos tener otro hijo". El otro, con un tono de fastidio, responde: "—Sí, a mí tampoco me gusta el que tenemos".
-- ### Profesor impostor #humor #sarcasmo #escuela
-  Un padre llega al colegio y le pregunta a un hombre: "¿Es usted el profesor de mi hijo?". El hombre asiente. El padre, indignado, sigue: "Vengo con él para que me diga a la cara eso de que no le dedico tiempo". El profesor, extrañado, le aclara: "Ese no es su hijo". Y el padre, sin darse por aludido, replica: "No me cambie de tema".
-- ### Abeja gimnasio #humor #sarcasmo #gym
-  ¿Qué hace una abeja en el gimnasio? ¡Zum-ba!
-- ### Despedida química #humor #sarcasmo #química
-  ¿Cómo se despiden los químicos? Ha sido un placer.
-- ### Impresoras #humor #sarcasmo #tecnología
-  ¿Qué le dice una impresora a otra? ¿Esa hoja es tuya o es una impresión mía?
-- ### Primo vegano #humor #sarcasmo #nombres
-  ¿Cómo se llama el primo vegano de Bruce Lee? Broco Lee.
-- ### Buceo japonés #humor #sarcasmo #deportes
-  ¿Cómo se llama el campeón de buceo japonés? Tokofondo.
-- ### Club vagos #humor #sarcasmo #grupos
-  Una persona se acerca a un grupo y pregunta: "¿Es este el club de los vagos?". Le responden: "Sí, es aquí". Entonces, el recién llegado, con tono de súplica, dice: "Pues que me entren, por favor".
-- ### Tipo saludable #humor #sarcasmo #salud
-  —Soy un tipo saludable. —¿Te gusta comer bien? —No, pero siempre me saludan.
-- ### Vaca concentrada #humor #sarcasmo #leche
-  ¿Qué hace una vaca con los ojos cerrados? Leche concentrada.
-- ### Uvas #humor #sarcasmo #frutas
-  ¿Qué le dijo una uva verde a una uva morada? ¡Respira, por favor!
-- ### Fruta divertida #humor #sarcasmo #frutas
-  ¿Cuál es la fruta más divertida? La naranja, ¡ja ja ja!
-- ### Pared esquina #humor #sarcasmo #edificios
-  ¿Qué le dice una pared a otra pared? Nos vemos en la esquina.
-- ### Animal antiguo #humor #sarcasmo #animales
-  ¿Cuál es el animal más antiguo? La vaca, porque está en blanco y negro.
-- ### Iguanas gemelas #humor #sarcasmo #animales
-  ¿Qué le dice una iguana a su hermana gemela? Somos iguanitas.
-- ### Delfín #humor #sarcasmo #animales
-  ¿Cuál fue el último animal que Dios creó? El delfín.
-- ### Elefante viudo #humor #sarcasmo #animales
-  Había un elefante en un circo. Su entrenador le dijo que se parara en una pata... ¡y ahora el pato es viudo!
-- ### Uno al diez #humor #sarcasmo #números
-  ¿Qué le dice el uno al diez? Para ser como yo, tienes que ser sincero.
-- ### Tamal malito #humor #sarcasmo #comida
-  ¿Por qué el tamal fue al hospital? ¡'Ta malito!
-- ### Tren y manzana #humor #sarcasmo #transporte
-  ¿Qué tienen en común un tren y una manzana? Que no espera.
-- ### Santo de otra parte #humor #sarcasmo #religión
-  —¿Qué santo es de otra parte? —San Tomás. —¿De aquí? —No.
-- ### Mar y playa #humor #sarcasmo #naturaleza
-  ¿Qué le dice el mar a la playa? ¡Ola!
-- ### Ingenieros pobres #humor #sarcasmo #ingeniería
-  Un ladrón encapuchado le para a un transeúnte y le dice: "¡Dame todo lo que lleves encima!". El otro, sin nada, responde: "No tengo nada, ni un euro… soy ingeniero de telecomunicaciones". Y el ladrón se quita la capucha y suelta: "¡No me digas! ¿De qué año?".
+	- ### Doctor funeral #humor #sarcasmo #médico
+	  Un paciente, preocupado, le pregunta al doctor: "Doctor, ¿tendré cura?". El médico, muy serio, le responde: "¡Por supuesto! Cura, misa y funeral".
+	- ### Clave WiFi #humor #sarcasmo #conectividad
+	  —¿Tienes Wifi? —Sí. —¿Y cuál es la clave? —Tener dinero y pagarlo.
+	- ### Café peligroso #humor #sarcasmo #café
+	  ¿Cuál es el café más peligroso del mundo? El ex-preso.
+	- ### Rosa daltónica #humor #sarcasmo #colores
+	  —Soy Rosa. —Ah, perdona, es que soy daltónico.
+	- ### Renacimiento #humor #sarcasmo #arte
+	  Alguien presume: "Dice que sabe de historia del arte. Soy un experto". Le preguntan: "¿Qué opinas del Renacimiento?". Y su respuesta, muy original: "Que es imposible, si te mueres, te mueres".
+	- ### Plagio #humor #sarcasmo #palabras
+	  Hoy he inventado una nueva palabra: plagio.
+	- ### Sé tú #humor #sarcasmo #motivación
+	  Con tono irónico, alguien te dice: "Haz algo productivo. Deja de ser tú mismo".
+	- ### Ciego milagros #humor #sarcasmo #religión
+	  Una enfermera le dice al doctor: "Doctor, un ciego quiere verlo". Y el médico, sin inmutarse, responde: "Dígale que yo no hago milagros".
+	- ### Otro hijo #humor #sarcasmo #familia
+	  Una pareja está hablando: "—Podríamos tener otro hijo". El otro, con un tono de fastidio, responde: "—Sí, a mí tampoco me gusta el que tenemos".
+	- ### Profesor impostor #humor #sarcasmo #escuela
+	  Un padre llega al colegio y le pregunta a un hombre: "¿Es usted el profesor de mi hijo?". El hombre asiente. El padre, indignado, sigue: "Vengo con él para que me diga a la cara eso de que no le dedico tiempo". El profesor, extrañado, le aclara: "Ese no es su hijo". Y el padre, sin darse por aludido, replica: "No me cambie de tema".
+	- ### Abeja gimnasio #humor #sarcasmo #gym
+	  ¿Qué hace una abeja en el gimnasio? ¡Zum-ba!
+	- ### Despedida química #humor #sarcasmo #química
+	  ¿Cómo se despiden los químicos? Ha sido un placer.
+	- ### Impresoras #humor #sarcasmo #tecnología
+	  ¿Qué le dice una impresora a otra? ¿Esa hoja es tuya o es una impresión mía?
+	- ### Primo vegano #humor #sarcasmo #nombres
+	  ¿Cómo se llama el primo vegano de Bruce Lee? Broco Lee.
+	- ### Buceo japonés #humor #sarcasmo #deportes
+	  ¿Cómo se llama el campeón de buceo japonés? Tokofondo.
+	- ### Club vagos #humor #sarcasmo #grupos
+	  Una persona se acerca a un grupo y pregunta: "¿Es este el club de los vagos?". Le responden: "Sí, es aquí". Entonces, el recién llegado, con tono de súplica, dice: "Pues que me entren, por favor".
+	- ### Tipo saludable #humor #sarcasmo #salud
+	  —Soy un tipo saludable. —¿Te gusta comer bien? —No, pero siempre me saludan.
+	- ### Vaca concentrada #humor #sarcasmo #leche
+	  ¿Qué hace una vaca con los ojos cerrados? Leche concentrada.
+	- ### Uvas #humor #sarcasmo #frutas
+	  ¿Qué le dijo una uva verde a una uva morada? ¡Respira, por favor!
+	- ### Fruta divertida #humor #sarcasmo #frutas
+	  ¿Cuál es la fruta más divertida? La naranja, ¡ja ja ja!
+	- ### Pared esquina #humor #sarcasmo #edificios
+	  ¿Qué le dice una pared a otra pared? Nos vemos en la esquina.
+	- ### Animal antiguo #humor #sarcasmo #animales
+	  ¿Cuál es el animal más antiguo? La vaca, porque está en blanco y negro.
+	- ### Iguanas gemelas #humor #sarcasmo #animales
+	  ¿Qué le dice una iguana a su hermana gemela? Somos iguanitas.
+	- ### Delfín #humor #sarcasmo #animales
+	  ¿Cuál fue el último animal que Dios creó? El delfín.
+	- ### Elefante viudo #humor #sarcasmo #animales
+	  Había un elefante en un circo. Su entrenador le dijo que se parara en una pata... ¡y ahora el pato es viudo!
+	- ### Uno al diez #humor #sarcasmo #números
+	  ¿Qué le dice el uno al diez? Para ser como yo, tienes que ser sincero.
+	- ### Tamal malito #humor #sarcasmo #comida
+	  ¿Por qué el tamal fue al hospital? ¡'Ta malito!
+	- ### Tren y manzana #humor #sarcasmo #transporte
+	  ¿Qué tienen en común un tren y una manzana? Que no espera.
+	- ### Santo de otra parte #humor #sarcasmo #religión
+	  —¿Qué santo es de otra parte? —San Tomás. —¿De aquí? —No.
+	- ### Mar y playa #humor #sarcasmo #naturaleza
+	  ¿Qué le dice el mar a la playa? ¡Ola!
+	- ### Ingenieros pobres #humor #sarcasmo #ingeniería
+	  Un ladrón encapuchado le para a un transeúnte y le dice: "¡Dame todo lo que lleves encima!". El otro, sin nada, responde: "No tengo nada, ni un euro… soy ingeniero de telecomunicaciones". Y el ladrón se quita la capucha y suelta: "¡No me digas! ¿De qué año?".
