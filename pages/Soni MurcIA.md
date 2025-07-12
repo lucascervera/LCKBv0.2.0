@@ -125,18 +125,8 @@
 	  ¿Cuál es la fruta más divertida? La naranja ja ja ja..
 	- ### Pared esquina #humor #sarcasmo #edificios
 	  ¿Qué le dice una pared a otra pared? Nos vemos en la esquina.
-	- ### Computadora playa #humor #sarcasmo #playa
-	  ¿Qué hace una computadora en la playa? Busca un mouse playero.
-	- ### Tomatón #humor #sarcasmo #vegetales
-	  ¿Cómo se llama el hermano mayor de un tomate? Tomatón.
-	- ### Perro cartas #humor #sarcasmo #animales
-	  ¿Por qué el perro no puede jugar a las cartas? Porque siempre se sienta sobre las barajas.
 	- ### Animal antiguo #humor #sarcasmo #animales
 	  ¿Cuál es el animal más antiguo? La vaca, porque está en blanco y negro.
-	- ### Araña excusa #humor #sarcasmo #animales
-	  ¿Qué hace una araña cuando llega tarde? Teje una excusa.
-	- ### Pañuelo japonés #humor #sarcasmo #idiomas
-	  ¿Cómo se dice pañuelo en japonés? Saka-moko.
 	- ### Historia triste #humor #sarcasmo #libros
 	  ¿Por qué el libro de historia estaba siempre deprimido? Porque tenía demasiados capítulos tristes.
 	- ### Iguanas gemelas #humor #sarcasmo #animales
