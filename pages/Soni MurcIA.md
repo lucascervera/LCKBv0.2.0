@@ -93,10 +93,6 @@
 	  Soy Rosa. Ah, perdóname, es que soy daltónico.
 	- ### Renacimiento #humor #sarcasmo #arte
 	  Dice que sabe de historia del arte. Soy un experto. ¿Qué opina del Renacimiento? Que es imposible, si te mueres, te mueres.
-	- ### Dinero y felicidad #humor #sarcasmo #riqueza
-	  El dinero no hace la felicidad, pero es mejor llorar en un Ferrari.
-	- ### Cosas pequeñas #humor #sarcasmo #favor
-	  La gente aprecia las cosas pequeñas que haces por ellas. Y así evitas que te pidan hacer algo más.
 	- ### Plagio #humor #sarcasmo #palabras
 	  Hoy he inventado una nueva palabra: plagio.
 	- ### Sé tú #humor #sarcasmo #motivation
