@@ -72,16 +72,8 @@
 	- ## Chistes de Escuela y Estudio
 	- ### Odio madrugar #humor #escuela #mañanas
 	  La escuela es el lugar donde descubres que odias levantarte temprano.
-	- ### Días cortos #humor #escuela #finesDeSemana
-	  Amo los días de escuela: son tan cortos... entre los fines de semana.
-	- ### Escribir sin mirar #humor #escuela #habilidad
-	  En la escuela aprendí algo importante: cómo escribir sin mirar el teclado.
 	- ### Trigonometría #humor #escuela #matemáticas
 	  Lo más difícil en la escuela es entender por qué necesitamos trigonometría.
-	- ### Antes y después #humor #escuela #exámenes
-	  La escuela me enseñó que la información antes y después del examen son cosas completamente diferentes.
-	- ### Multitasking #humor #escuela #gestión
-	  Mi tiempo en la escuela demostró que el 'multitasking' significa tomar notas, comer y planificar el fin de semana al mismo tiempo.
 	- ### Ausencias notables #humor #escuela #profesores
 	  En la escuela era tan bueno que incluso mis ausencias despertaban el interés de los profesores.
 	- ### Recreo #humor #escuela #descanso
