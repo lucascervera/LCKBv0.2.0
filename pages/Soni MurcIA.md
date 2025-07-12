@@ -107,8 +107,6 @@
 	  ¿Qué hace una abeja en el gimnasio? Zum-ba.
 	- ### Despedida química #humor #sarcasmo #química
 	  ¿Cómo se despiden los químicos? Ácido un placer.
-	- ### Del-fin #humor #sarcasmo #animales
-	  ¿Cuál es el último animal que subió al arca de Noé? El ex-preso.
 	- ### Impresoras #humor #sarcasmo #tecnología
 	  ¿Qué le dice una impresora a otra? ¿Esa hoja es tuya o es una impresión mía?
 	- ### Pollitos #humor #sarcasmo #animales
