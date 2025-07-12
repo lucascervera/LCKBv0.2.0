@@ -127,24 +127,18 @@
 	  ¿Qué le dice una pared a otra pared? Nos vemos en la esquina.
 	- ### Animal antiguo #humor #sarcasmo #animales
 	  ¿Cuál es el animal más antiguo? La vaca, porque está en blanco y negro.
-	- ### Historia triste #humor #sarcasmo #libros
-	  ¿Por qué el libro de historia estaba siempre deprimido? Porque tenía demasiados capítulos tristes.
 	- ### Iguanas gemelas #humor #sarcasmo #animales
 	  ¿Qué le dice una iguana a su hermana gemela? Somos iguanitas.
 	- ### Delfín #humor #sarcasmo #animales
 	  ¿Cuál fue el último animal que Dios creó? El delfín.
 	- ### Elefante viudo #humor #sarcasmo #animales
 	  Había un elefante en un circo. Su entrenador le dijo que se parara en una pata... y ahora el pato es viudo.
-	- ### Cereza espejo #humor #sarcasmo #frutas
-	  ¿Qué le dijo la cereza al espejo? ¿Seré yo?
 	- ### Uno al diez #humor #sarcasmo #números
 	  ¿Qué le dice el uno al diez? Para ser como yo, tienes que ser sincero.
 	- ### Tamal malito #humor #sarcasmo #comida
 	  ¿Por qué el tamal fue al hospital? 'Ta malito.
 	- ### Tren y manzana #humor #sarcasmo #transporte
 	  ¿Qué tienen en común un tren con una manzana? No espera.
-	- ### Bombón olvidadizo #humor #sarcasmo #olvidos
-	  Mis estudiantes me contaron un chiste muy largo sobre un bombón de chocolate el otro día, pero solo recuerdo que el remate era olvidar el chiste.
 	- ### Santo de otra parte #humor #sarcasmo #religión
 	  ¿Qué santo es de otra parte? San Tomás. ¿De aquí? No.
 	- ### Mar y playa #humor #sarcasmo #naturaleza
