@@ -8,14 +8,11 @@
 	  Lo más difícil en una entrevista de trabajo es no responder “¿Puedo irme a casa ahora?” cuando preguntan: “¿Tienes alguna pregunta?”
 	- ### Debilidades indecisas #humor #entrevista #debilities
 	  Lo más difícil en una entrevista de trabajo es cuando preguntan por mis debilidades. ¡No puedo decidirme por una sola!
-	- ### Logros gamer #humor #entrevista #videojuegos
-	  Cuando me preguntaron por mis logros, estuve a punto de contarles sobre el último nivel de mi videojuego.
 	- ### Presión atmosférica #humor #entrevista #presión
 	  En la entrevista de trabajo, dije que puedo trabajar bien bajo presión. Me refería a la presión atmosférica.
-	- ### Aprendo rápido #humor #entrevista #estudio
-	  Cada vez que digo “aprendo rápido” en una entrevista de trabajo, quiero decir que estudié toda la empresa la noche anterior.
 	- ### Salida #humor #entrevista #carrera
 	  Hicieron la pregunta estándar de dónde quiero ir en mi carrera. Fue difícil no responder: A la salida.
+		- a estándar de dónde quiero ir en mi carrera. Fue difícil no responder: A la salida.
 	- ### Venta de nieve #humor #entrevista #ventas
 	  En la entrevista de trabajo me di cuenta de que puedo venderle nieve a los esquimales. Pero si consigo el trabajo, es otra historia.
 	- ### Maldivas #humor #entrevista #viajes
