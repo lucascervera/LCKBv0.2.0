@@ -257,8 +257,10 @@
 			- hackiNNg
 			- thiNNktank
 - ## Videos
-	- [[Inteligencia Artificial en Pediatría y Medicina Adolescente]]
-	- [[¿Qué es innovación?]]
+	- ### [[NN]]
+		- [[Inteligencia Artificial en Pediatría y Medicina Adolescente]]
+		- [[¿Qué es innovación?]]
+		-
 	- ### [[Soni MurcIA]]
 - ## Prompts
 	- Prompt para ilustraciones
