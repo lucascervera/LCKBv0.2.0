@@ -260,7 +260,7 @@
 	- ### [[NN]]
 		- [[Inteligencia Artificial en Pediatría y Medicina Adolescente]]
 		- [[¿Qué es innovación?]]
-		-
+		- [[Anécdotas ingeniosas negocios]]
 	- ### [[Soni MurcIA]]
 - ## Prompts
 	- Prompt para ilustraciones
