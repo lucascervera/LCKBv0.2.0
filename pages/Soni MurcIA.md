@@ -41,16 +41,8 @@
   Un tío va a buscar trabajo y le dicen: "Ahora entrará ganando 700 euros y dentro de tres meses le subiremos a 2.000". Él, muy serio, responde: "Bueno, pues ya volveré dentro de tres meses".
 - ### Macarrones con queso #humor #oficina #gustos
   Alguien dice: "Todos seríamos más felices si trabajásemos de lo que nos gusta". Otro, suspirando, añade: "En mi caso, es muy difícil encontrar trabajo de macarrones con queso".
-- ### Amenaza de despido #humor #oficina #amenaza
-  El director general de la empresa le pregunta a un empleado: "¿Y desde cuándo estás trabajando en esta oficina?". Y el empleado, sin pelos en la lengua, le responde: "Desde que me amenazaron con echarme si seguía haciendo el vago".
-- ### Primer imbécil #humor #oficina #teléfono
-  El señor de la casa llama por teléfono y la empleada contesta, sin saber que es él: "¿Ha llamado algún imbécil, María?". El señor, con voz firme, le dice: "No, señorita, ¡usted es el primero!".
-- ### Falleció el jefe #humor #oficina #muerte
-  Dos compañeros de oficina están hablando: "—¿Supiste que falleció el jefe?". El otro pregunta: "—Sí, ¿pero quién murió con él?". Y el primero, con tono sombrío, contesta: "—Con él se fue un gran colaborador".
 - ### Simulación de buen trabajo #humor #oficina #actitud
   Mientras mi jefe actúe como si me pagara un buen sueldo, yo actuaré como si estuviera haciendo un buen trabajo.
-- ### Sueldo y boda #humor #oficina #familia
-  Un padre le dice a su hijo: "Carlos, sé que tu sueldo no te da para casarte, ¡pero algún día me lo agradecerás!".
 - ### Jueves atrasado #humor #oficina #puntualidad
   El jefe, molesto, le dice a un empleado: "—Este es el cuarto día que llega atrasado esta semana". El empleado, tranquilamente, le pregunta: "—¿Qué conclusión saca de eso?". El jefe, resignado, responde: "—Que hoy es jueves".
   
