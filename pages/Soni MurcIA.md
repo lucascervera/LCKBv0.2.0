@@ -6,8 +6,6 @@
   En una entrevista de trabajo, me quedé dormido en el sofá de la sala de espera. Cuando me despertaron, les dije: "¿Ven qué rápido me adapto a nuevos entornos?"
 - ### Pregunta incómoda #humor #entrevista #pregunta
   En una entrevista de trabajo, lo más difícil cuando te preguntan "¿Tienes alguna pregunta?" es no responder: "¿Puedo irme a casa ya?"
-- ### Debilidades indecisas #humor #entrevista #debilidades
-  En una entrevista de trabajo, cuando me preguntan por mis debilidades, lo más complicado es que no puedo decidirme por una sola. ¡Hay tantas!
 - ### Presión atmosférica #humor #entrevista #presión
   En una entrevista de trabajo, dije que puedo trabajar bien bajo presión. Obviamente, me refería a la presión atmosférica.
 - ### Pizza y Netflix #humor #entrevista #hábitos
