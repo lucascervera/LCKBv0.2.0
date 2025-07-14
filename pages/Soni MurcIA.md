@@ -12,12 +12,6 @@
   En una entrevista de trabajo, dije que puedo trabajar bien bajo presión. Obviamente, me refería a la presión atmosférica.
 - ### Pizza y Netflix #humor #entrevista #hábitos
   En una entrevista de trabajo, al preguntarme por mis debilidades, respondí que eran la pizza y Netflix. No estoy seguro de que hayan captado la broma.
-- ### Fracaso mayor #humor #entrevista #fracaso
-  En una entrevista de trabajo, cuando me preguntaron por mi mayor fracaso, empecé diciendo: "Esta entrevista de trabajo". Nos reímos los dos, pero él no volvió a llamar.
-- ### Manejo del estrés #humor #entrevista #estrés
-  En una entrevista de trabajo, cuando me preguntaron cómo manejo el estrés, dije que escribo chistes divertidos sobre entrevistas de trabajo.
-  
-  ---
 - ## Chistes de Trabajo y Oficina
 - ### Líder selectivo #humor #oficina #liderazgo
   Mi jefe siempre habla de "trabajo en equipo" cuando algo no funciona bien. Pero cuando las cosas van de maravilla, él es el único "gran líder" que se lleva todo el mérito.
@@ -26,7 +20,7 @@
 - ### Prohibido beber #humor #oficina #reglas
   El jefe pilla a José bebiendo en la oficina: "¡José! ¿Acaso no sabes que está prohibido beber durante el trabajo?". José, muy tranquilo, le contesta: "No se preocupe jefe, no estoy trabajando".
 - ### Sueldo competitivo #humor #oficina #salario
-  Has visto un anuncio de empleo que dice "Sueldo competitivo". Eso significa que la empresa es tan competitiva que te pagan menos que los demás para mantenerse a la par.
+  Has visto un anuncio de empleo que dice "Sueldo competitivo"?. Eso significa que la empresa es tan competitiva que te pagan menos que los demás para mantenerse a la par.
 - ### Navidad vs oficina #humor #oficina #festivos
   ¿Por qué la Navidad es como un día en la oficina? Porque tú haces todo el trabajo y el gordo del traje (ya sea Santa o el jefe) se lleva todo el mérito.
 - ### Certificado médico #humor #oficina #salud
