@@ -45,32 +45,11 @@
   Mientras mi jefe actúe como si me pagara un buen sueldo, yo actuaré como si estuviera haciendo un buen trabajo.
 - ### Jueves atrasado #humor #oficina #puntualidad
   El jefe, molesto, le dice a un empleado: "—Este es el cuarto día que llega atrasado esta semana". El empleado, tranquilamente, le pregunta: "—¿Qué conclusión saca de eso?". El jefe, resignado, responde: "—Que hoy es jueves".
-  
-  ---
-- ## Chistes de Escuela y Estudio
-- ### Odio madrugar #humor #escuela #mañanas
-  La escuela es ese lugar donde descubres que, por encima de todo, odias levantarte temprano.
-- ### Trigonometría #humor #escuela #matemáticas
-  Lo más difícil en la escuela no es aprobar, sino entender para qué narices necesitamos trigonometría en la vida real.
-- ### Ausencias notables #humor #escuela #profesores
-  En la escuela era tan bueno que hasta mis ausencias despertaban el interés de los profesores.
-- ### Pánico pre-examen #humor #escuela #estrés
-  La mejor manera de prepararse para un examen no es estudiar con tiempo, sino entrar en pánico una semana antes. ¡Infalible!
-- ### Biblioteca dormilona #humor #escuela #biblioteca
-  Un estudiante dice: "La biblioteca es mi segundo hogar". Su amigo le mira extrañado, y él aclara: "Bueno, solo duermo allí".
-  
-  ---
 - ## Otros Chistes Sarcásticos
 	- ### Doctor funeral #humor #sarcasmo #médico
 	  Un paciente, preocupado, le pregunta al doctor: "Doctor, ¿tendré cura?". El médico, muy serio, le responde: "¡Por supuesto! Cura, misa y funeral".
 	- ### Clave WiFi #humor #sarcasmo #conectividad
 	  —¿Tienes Wifi? —Sí. —¿Y cuál es la clave? —Tener dinero y pagarlo.
-	- ### Café peligroso #humor #sarcasmo #café
-	  ¿Cuál es el café más peligroso del mundo? El ex-preso.
-	- ### Rosa daltónica #humor #sarcasmo #colores
-	  —Soy Rosa. —Ah, perdona, es que soy daltónico.
-	- ### Renacimiento #humor #sarcasmo #arte
-	  Alguien presume: "Dice que sabe de historia del arte. Soy un experto". Le preguntan: "¿Qué opinas del Renacimiento?". Y su respuesta, muy original: "Que es imposible, si te mueres, te mueres".
 	- ### Plagio #humor #sarcasmo #palabras
 	  Hoy he inventado una nueva palabra: plagio.
 	- ### Sé tú #humor #sarcasmo #motivación
