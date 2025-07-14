@@ -70,5 +70,5 @@
 	  ¿Por qué el tamal fue al hospital? ¡'Ta malito!
 	- ### Tren y manzana #humor #sarcasmo #transporte #****
 	  ¿Qué tienen en común un tren y una manzana? Que no espera.
-	- ### Ingenieros pobres #humor #sarcasmo #abogados#*****
-	  Un ladrón encapuchado le para a un transeúnte y le dice: "¡Dame todo lo que lleves encima!". El otro, sin nada, responde: "No tengo nada, ni un euro… soy ingeniero de telecomunicaciones". Y el ladrón se quita la capucha y suelta: "¡No me digas! ¿De qué año?".
+	- ### Ingenieros pobres #humor #sarcasmo #abogados #*****
+	  Un ladrón encapuchado le para a un transeúnte y le dice: "¡Dame todo lo que lleves encima!". El otro, sin nada, responde: "No tengo nada, ni un euro… soy licenciado en derecho". Y el ladrón se quita la capucha y suelta: "¡No me digas! ¿De qué año?".
