@@ -21,14 +21,10 @@
   El jefe pilla a José bebiendo en la oficina: "¡José! ¿Acaso no sabes que está prohibido beber durante el trabajo?". José, muy tranquilo, le contesta: "No se preocupe jefe, no estoy trabajando".
 - ### Sueldo competitivo #humor #oficina #salario
   Has visto un anuncio de empleo que dice "Sueldo competitivo"?. Eso significa que la empresa es tan competitiva que te pagan menos que los demás para mantenerse a la par.
-- ### Navidad vs oficina #humor #oficina #festivos
-  ¿Por qué la Navidad es como un día en la oficina? Porque tú haces todo el trabajo y el gordo del traje (ya sea Santa o el jefe) se lleva todo el mérito.
 - ### Certificado médico #humor #oficina #salud
   Aviso para los empleados en la empresa en caso de enfermedad: "A partir de ahora, ya no podremos aceptar el certificado/comprobante del médico como prueba. Si usted puede ir al médico, usted puede venir a trabajar".
-- ### Coche nuevo #humor #oficina #averías
+- ### Coche nuevo #humor #oficina #averías #****
   El mecánico le dice al cliente después de la reparación: "Bueno, el precio final ha sido un poco más alto que el presupuesto inicial… su batería necesitaba un coche nuevo".
-- ### Amigo jefe #humor #oficina #relaciones
-  El jefe le suelta a un empleado, intentando ser cercano: "Tú no pienses en mí como tu jefe, piensa en mí como un amigo que siempre tiene la razón".
 - ### ¿Cuánto me paga? #humor #oficina #negociación
   Un hombre está buscando trabajo y le pregunta al gerente: "¿Y cuánto me va usted a pagar?". El gerente responde: "Depende de lo que trabaje". El solicitante, pensativo, murmura: "Uhm… ¿tan poquito?".
 - ### Volver en tres meses #humor #oficina #promesa
