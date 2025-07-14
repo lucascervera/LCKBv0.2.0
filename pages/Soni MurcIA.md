@@ -66,23 +66,9 @@
 	  ¿Qué hace una vaca con los ojos cerrados? Leche concentrada.
 	- ### Uvas #humor #sarcasmo #frutas
 	  ¿Qué le dijo una uva verde a una uva morada? ¡Respira, por favor!
-	- ### Fruta divertida #humor #sarcasmo #frutas
-	  ¿Cuál es la fruta más divertida? La naranja, ¡ja ja ja!
-	- ### Pared esquina #humor #sarcasmo #edificios
-	  ¿Qué le dice una pared a otra pared? Nos vemos en la esquina.
-	- ### Animal antiguo #humor #sarcasmo #animales
-	  ¿Cuál es el animal más antiguo? La vaca, porque está en blanco y negro.
-	- ### Iguanas gemelas #humor #sarcasmo #animales
-	  ¿Qué le dice una iguana a su hermana gemela? Somos iguanitas.
-	- ### Delfín #humor #sarcasmo #animales
-	  ¿Cuál fue el último animal que Dios creó? El delfín.
-	- ### Elefante viudo #humor #sarcasmo #animales
-	  Había un elefante en un circo. Su entrenador le dijo que se parara en una pata... ¡y ahora el pato es viudo!
-	- ### Uno al diez #humor #sarcasmo #números
-	  ¿Qué le dice el uno al diez? Para ser como yo, tienes que ser sincero.
 	- ### Tamal malito #humor #sarcasmo #comida
 	  ¿Por qué el tamal fue al hospital? ¡'Ta malito!
-	- ### Tren y manzana #humor #sarcasmo #transporte
+	- ### Tren y manzana #humor #sarcasmo #transporte 
 	  ¿Qué tienen en común un tren y una manzana? Que no espera.
 	- ### Santo de otra parte #humor #sarcasmo #religión
 	  —¿Qué santo es de otra parte? —San Tomás. —¿De aquí? —No.
