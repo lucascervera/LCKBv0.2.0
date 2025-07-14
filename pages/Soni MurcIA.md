@@ -68,11 +68,7 @@
 	  ¿Qué le dijo una uva verde a una uva morada? ¡Respira, por favor!
 	- ### Tamal malito #humor #sarcasmo #comida
 	  ¿Por qué el tamal fue al hospital? ¡'Ta malito!
-	- ### Tren y manzana #humor #sarcasmo #transporte 
+	- ### Tren y manzana #humor #sarcasmo #transporte #****
 	  ¿Qué tienen en común un tren y una manzana? Que no espera.
-	- ### Santo de otra parte #humor #sarcasmo #religión
-	  —¿Qué santo es de otra parte? —San Tomás. —¿De aquí? —No.
-	- ### Mar y playa #humor #sarcasmo #naturaleza
-	  ¿Qué le dice el mar a la playa? ¡Ola!
-	- ### Ingenieros pobres #humor #sarcasmo #ingeniería
+	- ### Ingenieros pobres #humor #sarcasmo #abogados#*****
 	  Un ladrón encapuchado le para a un transeúnte y le dice: "¡Dame todo lo que lleves encima!". El otro, sin nada, responde: "No tengo nada, ni un euro… soy ingeniero de telecomunicaciones". Y el ladrón se quita la capucha y suelta: "¡No me digas! ¿De qué año?".
