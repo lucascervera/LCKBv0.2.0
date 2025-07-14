@@ -257,7 +257,6 @@
 			- hackiNNg
 			- thiNNktank
 - ## Videos
-  collapsed:: true
 	- ### [[NN]]
 		- [[Inteligencia Artificial en Pediatría y Medicina Adolescente]]
 		- [[¿Qué es innovación?]]
