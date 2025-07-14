@@ -1,6 +1,7 @@
 # Chistes Cortos Pendientes
 - ## Chistes de Entrevistas de Trabajo
 - ### Relación que está enfriando.  #humor #parejas #tecnología
+  El otro día, mi mujer me envió un mensaje por WhatsApp diciendo que creía que nuestra relación se estaba enfriando. Le respondí inmediatamente... "no lo creo. Saludos cordiales".
 - ### Triple salario #humor #entrevista #oferta
   En una entrevista de trabajo, el entrevistador te suelta que no te van a contratar, y justo cuando ya te vas, añade: "Pero te pagaremos el triple si empiezas en nuestra competencia". ¡Te deja con la boca abierta!
 - ### Adaptación rápida #humor #entrevista #sueño
