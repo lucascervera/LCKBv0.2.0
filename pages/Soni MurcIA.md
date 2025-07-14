@@ -50,14 +50,10 @@
 	  Un paciente, preocupado, le pregunta al doctor: "Doctor, ¿tendré cura?". El médico, muy serio, le responde: "¡Por supuesto! Cura, misa y funeral".
 	- ### Clave WiFi #humor #sarcasmo #conectividad
 	  —¿Tienes Wifi? —Sí. —¿Y cuál es la clave? —Tener dinero y pagarlo.
-	- ### Plagio #humor #sarcasmo #palabras
+	- ### Plagio #humor #sarcasmo #palabras #*****
 	  Hoy he inventado una nueva palabra: plagio.
 	- ### Sé tú #humor #sarcasmo #motivación
 	  Con tono irónico, alguien te dice: "Haz algo productivo. Deja de ser tú mismo".
-	- ### Ciego milagros #humor #sarcasmo #religión
-	  Una enfermera le dice al doctor: "Doctor, un ciego quiere verlo". Y el médico, sin inmutarse, responde: "Dígale que yo no hago milagros".
-	- ### Otro hijo #humor #sarcasmo #familia
-	  Una pareja está hablando: "—Podríamos tener otro hijo". El otro, con un tono de fastidio, responde: "—Sí, a mí tampoco me gusta el que tenemos".
 	- ### Profesor impostor #humor #sarcasmo #escuela
 	  Un padre llega al colegio y le pregunta a un hombre: "¿Es usted el profesor de mi hijo?". El hombre asiente. El padre, indignado, sigue: "Vengo con él para que me diga a la cara eso de que no le dedico tiempo". El profesor, extrañado, le aclara: "Ese no es su hijo". Y el padre, sin darse por aludido, replica: "No me cambie de tema".
 	- ### Abeja gimnasio #humor #sarcasmo #gym
