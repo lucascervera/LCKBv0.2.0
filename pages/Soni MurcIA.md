@@ -55,17 +55,9 @@
 	- ### Sé tú #humor #sarcasmo #motivación
 	  Con tono irónico, alguien te dice: "Haz algo productivo. Deja de ser tú mismo".
 	- ### Profesor impostor #humor #sarcasmo #escuela
-	  Un padre llega al colegio y le pregunta a un hombre: "¿Es usted el profesor de mi hijo?". El hombre asiente. El padre, indignado, sigue: "Vengo con él para que me diga a la cara eso de que no le dedico tiempo". El profesor, extrañado, le aclara: "Ese no es su hijo". Y el padre, sin darse por aludido, replica: "No me cambie de tema".
-	- ### Abeja gimnasio #humor #sarcasmo #gym
-	  ¿Qué hace una abeja en el gimnasio? ¡Zum-ba!
-	- ### Despedida química #humor #sarcasmo #química
-	  ¿Cómo se despiden los químicos? Ha sido un placer.
+	  Un padre llega al colegio y le pregunta a un hombre: "¿Es usted el profesor de mi hijo?". El hombre asiente. El padre, indignado, sigue: "Vengo con él para que me diga a la cara eso de que no le dedico tiempo". El profesor, extrañado, le aclara: "Ese no es su hijo".
 	- ### Impresoras #humor #sarcasmo #tecnología
 	  ¿Qué le dice una impresora a otra? ¿Esa hoja es tuya o es una impresión mía?
-	- ### Primo vegano #humor #sarcasmo #nombres
-	  ¿Cómo se llama el primo vegano de Bruce Lee? Broco Lee.
-	- ### Buceo japonés #humor #sarcasmo #deportes
-	  ¿Cómo se llama el campeón de buceo japonés? Tokofondo.
 	- ### Club vagos #humor #sarcasmo #grupos
 	  Una persona se acerca a un grupo y pregunta: "¿Es este el club de los vagos?". Le responden: "Sí, es aquí". Entonces, el recién llegado, con tono de súplica, dice: "Pues que me entren, por favor".
 	- ### Tipo saludable #humor #sarcasmo #salud
