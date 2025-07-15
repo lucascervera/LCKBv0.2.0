@@ -102,4 +102,4 @@
 		- separar el proyecto claramente de aspectos como independencia financiera y vendehumos
 		- Incluir guías prácticas y concretas específicas que explican exactamente cómo, por ejemplo, generar un documento y compartirlo con tus seres queridos.
 		- Identificar de forma estructurada las guías, trabajo, roles y artefactos que se pueden generar, es decir, hacer una metodología.
-		-
+		- El proyecto no va orientado a personas jóvenes que están comenzando a generar un patrimonio y quieren hacerlo crecer, sino a aquellos que tienen un determinado patrimonio ya generado y quieren hacerlo crecer de forma moderada, pero sobre todo preservarlo y transmitirlo.
