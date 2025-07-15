@@ -96,3 +96,4 @@
 		- Cuidado con los perfiles de cuñado que clava todas las inversiones.
 		- Incluir los principales aspectos psicológicos que tienen que ver con este proceso de planificación de patrimonio y asesoramiento en gestión patrimonial.
 		- Incluir un apartado de sesgos cognitivos que aplican en todo este proceso.
+		- Nuestra solución no pretende actuar en el campo de configuración concreta del patrimonio en activos concretos, sino de ayudar a entender los conceptos que te van a permitir optimizar esa alocación de recursos.
