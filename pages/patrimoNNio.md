@@ -1,6 +1,7 @@
 ## Docs IA
 	- ### Plantamiento inicial de la idea
-		-
+	  collapsed:: true
+		- https://chatgpt.com/c/68761264-b018-8000-b2af-9c29ecabc334
 		- # Proyecto patrimoNNio: Resumen y Propuesta de Estructura
 		- ## 🎯 Objetivo del Proyecto
 		  
@@ -85,3 +86,5 @@
 		  ---
 		  
 		  **Conclusión**: patrimoNNio puede cubrir un vacío enorme entre la autoeducación financiera y la asesoría profesional, empoderando a quienes están entre ambos mundos y buscan cuidar lo que tanto les ha costado construir.
+	- ### Análisis del problema
+		-
