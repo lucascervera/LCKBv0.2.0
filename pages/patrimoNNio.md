@@ -104,3 +104,4 @@
 		- Identificar de forma estructurada las guías, trabajo, roles y artefactos que se pueden generar, es decir, hacer una metodología.
 		- El proyecto no va orientado a personas jóvenes que están comenzando a generar un patrimonio y quieren hacerlo crecer, sino a aquellos que tienen un determinado patrimonio ya generado y quieren hacerlo crecer de forma moderada, pero sobre todo preservarlo y transmitirlo.
 		- La planificación fiscal no debe estar solo orientada a la gestión de herencias, sino también a posibles liquidaciones de fondos y sus efectos fiscales, o venta de acciones y sus efectos fiscales, y comparativa fiscal entre distintos productos de inversión, etc.
+		- definir muy bien el alcance de patrimonio, que no es asesoramiento en productos concretos de inversión, ni en cómo llevar, ni en cómo estructurar en concreto tu cartera de inversión, sino más bien ayudar a entender cómo diseñarla.
