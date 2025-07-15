@@ -89,3 +89,4 @@
 	- ### Análisis del problema
 	- Notas
 		- Efecto Dunning-Kruger en los asesores informales.
+		- Añadir el concepto de que el público, los dueños del patrimonio son ingratos en caso de que, pese a haber recibido buenos consejos, sus inversiones vayan mal y pierdan valor y tienden a echar la culpa a los asesores.
