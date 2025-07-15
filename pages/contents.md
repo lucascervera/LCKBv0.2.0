@@ -243,13 +243,12 @@
 			- EOI-IA-1
 	- GitHub
 	- ## Proyectos
-	  collapsed:: true
 		- Lucas Cervera
 			- iNNv0
 				- assessmeNNt
 				- organizatioNN
 				- opportuNNities
-				- iNNitiatives
+				- iNNitiative
 			- consultiNNg
 			- modeliNNg
 			- formacióNN
