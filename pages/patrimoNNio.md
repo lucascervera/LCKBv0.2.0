@@ -87,4 +87,5 @@
 		  
 		  **Conclusión**: patrimoNNio puede cubrir un vacío enorme entre la autoeducación financiera y la asesoría profesional, empoderando a quienes están entre ambos mundos y buscan cuidar lo que tanto les ha costado construir.
 	- ### Análisis del problema
-		-
+	- Notas
+		- Efecto Dunning-Kruger en los asesores informales.
