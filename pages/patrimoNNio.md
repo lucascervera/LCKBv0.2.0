@@ -92,3 +92,4 @@
 		- Añadir el concepto de que el público, los dueños del patrimonio son ingratos en caso de que, pese a haber recibido buenos consejos, sus inversiones vayan mal y pierdan valor y tienden a echar la culpa a los asesores.
 		- Incluir robo-advisors como un tipo de asesor.
 		- Democratización del asesoramiento financiero con agentes de inteligencia artificial.
+		- No existen inversiones super rentables y sin riesgo.
