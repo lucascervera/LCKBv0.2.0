@@ -101,3 +101,4 @@
 		- Profundizar en el concepto de lo ineficaz que es la comunicación entre asesor y asesorado y los motivos por los que esta comunicación es ineficaz.
 		- separar el proyecto claramente de aspectos como independencia financiera y vendehumos
 		- Incluir guías prácticas y concretas específicas que explican exactamente cómo, por ejemplo, generar un documento y compartirlo con tus seres queridos.
+		- Identificar de forma estructurada las guías, trabajo, roles y artefactos que se pueden generar, es decir, hacer una metodología.
