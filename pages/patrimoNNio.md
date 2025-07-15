@@ -94,3 +94,4 @@
 		- Democratización del asesoramiento financiero con agentes de inteligencia artificial.
 		- No existen inversiones super rentables y sin riesgo.
 		- Cuidado con los perfiles de cuñado que clava todas las inversiones.
+		- Incluir un apartado de sesgos cognitivos que aplican en todo este proceso.
