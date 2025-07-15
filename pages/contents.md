@@ -248,13 +248,16 @@
 				- assessmeNNt
 				- organizatioNN
 				- opportuNNities
-				- iNNitiative
+				- iNNitiatives
 			- consultiNNg
 			- modeliNNg
 			- formacióNN
 			- iNNteresante
 			- hackiNNg
 			- thiNNktank
+			- [[patrimoNNio]]
+			-
+			-
 - ## Videos
 	- ### [[NN]]
 		- [[Inteligencia Artificial en Pediatría y Medicina Adolescente]]
