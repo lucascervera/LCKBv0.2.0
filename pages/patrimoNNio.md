@@ -99,3 +99,4 @@
 		- Incluir un apartado de sesgos cognitivos que aplican en todo este proceso.
 		- Nuestra solución no pretende actuar en el campo de configuración concreta del patrimonio en activos concretos, sino de ayudar a entender los conceptos que te van a permitir optimizar esa alocación de recursos.
 		- Profundizar en el concepto de lo ineficaz que es la comunicación entre asesor y asesorado y los motivos por los que esta comunicación es ineficaz.
+		- separar el proyecto claramente de aspectos como independencia financiera y vendehumos
