@@ -1,32 +1,20 @@
 # Chistes Cortos Pendientes
-- ## Chistes de Entrevistas de Trabajo
-- ### Relación que está enfriando.  #humor #parejas #tecnología
-  El otro día, mi mujer me envió un mensaje por WhatsApp diciendo que creía que nuestra relación se estaba enfriando. Le respondí inmediatamente... "no lo creo. Saludos cordiales".
-- ### Triple salario #humor #entrevista #oferta
-  En una entrevista de trabajo, el entrevistador te suelta que no te van a contratar, y justo cuando ya te vas, añade: "Pero te pagaremos el triple si empiezas en nuestra competencia". ¡Te deja con la boca abierta!
+- ### Relación que está enfriando #humor #parejas #tecnología
+	- El otro día, mi mujer me envió un mensaje por WhatsApp diciendo que creía que nuestra relación se estaba enfriando. Le respondí inmediatamente... "Disiento. Saludos cordiales".
+- ### Experiencia en entrevistas de trabajo #humor #trabajo #entrevista
+	- En una entrevista de trabajo, le pregunta el entrevistador al candidato: ¿Tiene usted experiencia? Responde el candidato: Sí, con esta llevan 13 entrevistas.
 - ### Adaptación rápida #humor #entrevista #sueño
-  En una entrevista de trabajo, me quedé dormido en el sofá de la sala de espera. Cuando me despertaron, les dije: "¿Ven qué rápido me adapto a nuevos entornos?"
-- ### Pregunta incómoda #humor #entrevista #pregunta
-  En una entrevista de trabajo, lo más difícil cuando te preguntan "¿Tienes alguna pregunta?" es no responder: "¿Puedo irme a casa ya?"
-- ### Presión atmosférica #humor #entrevista #presión
-  En una entrevista de trabajo, dije que puedo trabajar bien bajo presión. Obviamente, me refería a la presión atmosférica.
-- ### Pizza y Netflix #humor #entrevista #hábitos
-  En una entrevista de trabajo, al preguntarme por mis debilidades, respondí que eran la pizza y Netflix. No estoy seguro de que hayan captado la broma.
-- ## Chistes de Trabajo y Oficina
-- ### Líder selectivo #humor #oficina #liderazgo
-  Mi jefe siempre habla de "trabajo en equipo" cuando algo no funciona bien. Pero cuando las cosas van de maravilla, él es el único "gran líder" que se lleva todo el mérito.
-- ### Salir temprano #humor #oficina #horario
-  Un empleado le dice a su jefe: "Jefe, ¿puedo salir dos horas antes? Mi mujer quiere que le acompañe a hacer unas compras". El jefe, tajante, responde: "¡De ninguna manera!". El empleado, con una sonrisa, contesta: "Gracias jefe, ¡sabía que no me iba a fallar!".
+	- En una entrevista de trabajo, me quedé dormido en el sofá de la sala de espera. Cuando me despertaron, les dije: "¿Ven qué rápido me adapto a nuevos entornos?"
 - ### Prohibido beber #humor #oficina #reglas
-  El jefe pilla a José bebiendo en la oficina: "¡José! ¿Acaso no sabes que está prohibido beber durante el trabajo?". José, muy tranquilo, le contesta: "No se preocupe jefe, no estoy trabajando".
-- ### Sueldo competitivo #humor #oficina #salario
-  Has visto un anuncio de empleo que dice "Sueldo competitivo"?. Eso significa que la empresa es tan competitiva que te pagan menos que los demás para mantenerse a la par.
+	- El jefe pilla a José bebiendo en la oficina: "¡José! ¿Acaso no sabes que está prohibido beber durante el trabajo?". José, muy tranquilo, le contesta: "No se preocupe jefe, no estoy trabajando".
+	- ### Sueldo competitivo #humor #oficina #salario
+	  Has visto un anuncio de empleo que dice "Sueldo competitivo". Eso significa que la empresa es tan competitiva que te pagan menos que los demás para mantenerse a la par.
 - ### Certificado médico #humor #oficina #salud
   Aviso para los empleados en la empresa en caso de enfermedad: "A partir de ahora, ya no podremos aceptar el certificado/comprobante del médico como prueba. Si usted puede ir al médico, usted puede venir a trabajar".
 - ### Coche nuevo #humor #oficina #averías #****
   El mecánico le dice al cliente después de la reparación: "Bueno, el precio final ha sido un poco más alto que el presupuesto inicial… su batería necesitaba un coche nuevo".
 - ### ¿Cuánto me paga? #humor #oficina #negociación
-  Un hombre está buscando trabajo y le pregunta al gerente: "¿Y cuánto me va usted a pagar?". El gerente responde: "Depende de lo que trabaje". El solicitante, pensativo, murmura: "Uhm… ¿tan poquito?".
+  Un hombre está buscando trabajo y le pregunta al gerente: "¿Y cuánto me va usted a pagar?". El gerente responde: "Depende de lo que trabaje". El solicitante murmura: "Uhm… ¿esa miseria?".
 - ### Volver en tres meses #humor #oficina #promesa
   Un tío va a buscar trabajo y le dicen: "Ahora entrará ganando 700 euros y dentro de tres meses le subiremos a 2.000". Él, muy serio, responde: "Bueno, pues ya volveré dentro de tres meses".
 - ### Macarrones con queso #humor #oficina #gustos
