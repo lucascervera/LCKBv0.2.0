@@ -1,0 +1,15 @@
+## Entrevista a Marco
+- Hoy tenemos la suerte de tener con nosotros en el podcast a Marco Rossi. Aunque probablemente le conozca solamente por su nombre de pila o como el niñato llorica del mono.
+- Encantado de que me hayáis llamado. Es que últimamente no se me hace mucho caso...
+- A lo mejor es que la gente ni se acuerda de ti Marco, y es que somos muchos los de mi generación, a los que tu serie nos parecía un auténtico tostón. Disculpa si soy un poco brusco pero quiero ser claro en esto.
+- No Sony, si lo entiendo... De hecho los que no veíais la serie habéis evitado un montón de problemas psicológicos, y es que a quién se le ocurre poner a niños pequeños a ver una tragedia de ese calibre.
+- Esos niños deberían estar leyendo la tele indiscreta en la piscina municipal antes que viendo un drama de un niño qué busca su madre enferma y se tiene que ir a Argentina
+- Porque esa es otra Tucumán está a tomar por culo, que no se podía haber enfermado mi madre qn Gandía o Benalmádena
+- Por lo menos no ibas solo. Siempre estaba ahí el mono en tu hombro.
+- No me jodas Sony que esas otra. El jodido mono era insoportable. El amedio ese de los huevos Menos mal que se lo quedó Heidi cuando rompimos.
+- Háblanos de Esa etapa de tu vida Marco con Heidi tuviste una relación ¿de cuántos años?
+- Pues tampoco te creas que fue tanto, unos dos meses. El caso es que era muy cursi, y yo que venía de una relación cañera con Pipi Calzaslargas, pues necesitaba más vidilla.
+- Aunque luego me la estaba pegando con el Pedro ese que yo creía que era un pagafantas, pero resultó que sabía latín, como el niño ese de crónicas marcianas. Me enteré porque un día estaba en el parque y les vi pasar en un forfiesta blanco y jersey amarillo.
+- Total que te plantas ahí en Suiza con unos cuernos más grandes que los de la vaca esa púrpura del anuncio
+- Jajaja que bien traída esa de los cuernos... Después de Suiza participé en la Isla de los famosos donde conocí a mi actual pareja Aramis Fuster, con la que veo un futuro prometedor...
+- Gracias Marco por aburrirnos de nuevo con tus historias

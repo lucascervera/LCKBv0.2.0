@@ -1,0 +1,13 @@
+## Create avatars
+	- flux-kontext-apps/multi-image-list
+	- https://replicate.com/flux-kontext-apps/face-to-many-kontext?prediction=r9s16kpzx9rm80crmzqr4kp7jc
+	- https://replicate.com/black-forest-labs/flux-kontext-max?prediction=g0eaanaqpxrme0crn1csc1gv90
+- ## Create avatar video clips
+-
+- ## Select voice
+	- https://replicate.com/minimax/speech-02-turbo
+	- 'Voz Lucas': 'R8_85NYF2ZH',
+	- 'Voz Sony': 'R8_AAQHY0XT',
+	- 'Sony Albacete': 'R8_6IP2S0SR',
+	- 'sevaveunfollon': 'R8_A4T4J6TK'
+	- Wise_Woman, Friendly_Person, Inspirational_girl, Deep_Voice_Man, Calm_Woman, Casual_Guy, Lively_Girl, Patient_Man, Young_Knight, Determined_Man, Lovely_Girl, Decent_Boy, Imposing_Manner, Elegant_Man, Abbess, Sweet_Girl_2, Exuberant_Girl

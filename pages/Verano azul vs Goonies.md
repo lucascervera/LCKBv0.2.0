@@ -1,0 +1,45 @@
+# Config
+- #config BACKGROUND_AUDIO_FILE: ../../audio/soni_flea.mp3
+- #config BACKGROUND_AUDIO_VOLUME: 0.02
+- #config SUBTITLES_ENABLED: false
+- ## Scenes
+- #scene soni type:video, filePath: ../../clips/avatar_soni_setup.mp4, TTS_VOICE_ID: R8_A4T4J6TK
+- #scene soni2 type:video, filePath: ../../clips/avatar_soni_setup2.mp4, TTS_VOICE_ID: R8_A4T4J6TK
+- #scene mickey  type:video, filePath: ../../clips/mickey.mp4, TTS_VOICE_ID: R8_6IP2S0SR
+- #scene pancho type:video, filePath: ../../clips/pancho.mp4, TTS_VOICE_ID: R8_6IP2S0SR
+- # Sections
+- ## Verano azul vs Goonies
+	- #soni Hoy tenemos con nosotros A dos titanes, A dos ídolos de masas De los años 80 Bienvenido pancho de verano azul Y bienvenido mickey De los goonies.
+	- #mickey Muchas gracias Sony por invitarnos a esta a esta tu casa
+	- #pancho qué repelente el yankee, igual se traga el inhalador
+	- #soni Bueno, haya paz. Vamos a comenzar destacando los puntos comunes que tienen los dos grupos los goonies y la pandilla de verano azul. Ambos grupos teníais dos chicas: una fea y una guapa
+	- #mickey Yo lo llamo el efecto Abba bro, todos flipan con la rubia, y la morena se come los mocos...
+	- #pancho Pues tendrías que verlas ahora Mikey, la Bea se parece a Micky Rurki de las toneladas de botox que se ha metido y la otra que no me acuerdo cómo se llamaba, ahora de Madurita, está como un queso...
+	- #mickey Hablando de maduritas, que teníais una en la serie que a mí me ponía mazo...
+	- #pancho LA JULIA!!! Ya ves colega... una milf en toda regla. no se te escapa una tronco...
+	- #mickey por cierto, ¿qué es de Chanket? Hace tiempo que no sé nada de su vida, como no está en redes sociales...
+	- #pancho Bua! colega a ver cómo te lo cuento Digamos que chaquete estiró la pata y está más seco que la mojama criando malvas, dryer than mojama raising malvas
+	- #mickey No me jodas, Me cuesta creerlo ¿Y cómo fue?
+	- #pancho Hombre tampoco es tan raro teniendo en cuenta Que cuando yo tenía 14 años él Debía tener como 103. El caso es que unas prespiputes le echaron droga en el colacao, hizo una reacción que flipas, empezó a salir humo tóxico, con potaxio, Y Mientras tanto Ricky Martín sin saber que hacer,  bajo una nave de raticulín, vió una luz resplandeciente, se acercó ella y se nos fue...
+	- #mickey A lo mejor la luz era la data con sus rayos cegadores
+	- #pancho jaaajaja hahajaja!!! Me parto, data era el chino ese de los Inventitos ¿no?, el de condensador de Fluzo ¿no?
+	- #mickey Creo que te estás haciendo un lío con la picha, Estás mezclando cosas distintas. Data es el que cuando jugábamos al Mus siempre te decía "tu hacel tuampas"
+	- #pancho Ya me acuerdo sí, qué gracia tenía el jodío
+	- También Ambos teníais un gordo, Gordi y Piraña...
+	- #mickey es correcto soni! Ambos tenían sobrepeso y destacaban por su simpatía
+	- #pancho Vamos hacho! ¿Me vas a comparar a gordi con piraña? Que conste que me parto el culo con el supermeneo, pero luego te muestro un vídeo de piraña imitando a chiquito de la calzada jar jaaar jaaaaar Que te descojonas...
+	- #soni #mickey ¿Qué fue de tu agria polémica con Iñaki Gabilondo?
+	- #mickey quieeeeeen? who the fuck is Gabilondo?
+	- #pancho Vaya con él colega haciendose el sueco
+	- miikey Haciéndome el sueco como la Morena de Abba hahaha
+	- #pancho jajaja hhha
+	- #mickey ha ha ha ha ha gabilooooondooo hahaha
+	- #pancho jajaja hhha maiki para ya que me duele la tripa de tanto reírme
+	- #soni pancho Tú sí que tuviste una agria polémica pero con Javi... que casi llegasteis a las manos
+	- #pancho Sí coma De hecho si no llega a ser Por chanquete, que Dios lo tenga en su gloria criando malvas Jajaja jaja, perdon, ya paro... Nos hubiésemos fostiado pero a lo bestia. Le dije: Chaval, que yo he estado en 3 centros de menores... que tengo una pipa tronco ¿Quieres sentirla en el pecho? el chuki de murcia... ¿A tI te pasó algo parecido Con un pibe no mickey?
+	- #mickey Sí yo me di de hostias con brandon Waltz, el típico pijito de Beverly Hills Con un Ford Fiesta blanco y un jersey amarillo. Me había liado con una pibita, Brenda o algo así, Y empezó a llegar gente por todos lados, uno con la frente más grande que José Luis López Vázquez, otro superpijo con el pelo como harpo Marx, y para rematar una empollona insoportable era una mezcla entre greta zumber y cristina almeida. Yo para acojonarles empecé a decir que conocía al vaquilla, pero claro, al vaquilla en Veverly Hills No lo conoce ni su puta madre, Total que el jodido Brandon me metió una hostia como el príncipe de Bel Air al tío ese en los Óscar.
+	- #soni ¿Bueno y qué es de vuestra vida en la actualidad?
+	- #mickey Pues ni tan mal bro yo voy por ahí acompañando a un hobbit Y la verdad es que no me puedo quejar
+	- #pancho Yo trabajo de Repartido de globo y ya tengo casi pagada la bicicleta
+	- #soni Pues hasta aquí esta edición del podcast sobre los goonies y verano azul, qué son las 5 y no he comido. En la próxima edición hablaremos con Macauley Kulkin ¿Se sobreprotege demasiado a los niños en la actualidad?
+	- #video "../../clips/soni_outro_v0.2.0.mp4"

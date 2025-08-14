@@ -1,0 +1,14 @@
+- El condensador de fluzo
+- mirinda
+- cerebrito
+- leche de pantera
+- naranjito
+- cassete
+- vhs
+- sin gps
+- cubata en vaso de tubo
+- bar de copas petao
+- el coche fantástico
+- Tenemos chica nueva en la oficina
+- brummel en las distancias cortas
+- alucina
