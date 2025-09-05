@@ -47,6 +47,7 @@
 - ## Select voice
 	- https://replicate.com/minimax/speech-02-turbo
 	- 'Voz Lucas': 'R8_85NYF2ZH',
+	  id:: 68b5b0f2-6c36-480e-99f4-ecf4e5439890
 	- 'Voz Sony': 'R8_AAQHY0XT',
 	- 'Sony Albacete': 'R8_6IP2S0SR',
 	- 'sevaveunfollon': 'R8_A4T4J6TK'
