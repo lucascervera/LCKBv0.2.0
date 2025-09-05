@@ -252,7 +252,7 @@
 			- consultiNNg
 			- modeliNNg
 			- formacióNN
-			- iNNteresante
+			- [[iNNteresante]]
 			- hackiNNg
 			- thiNNktank
 			- [[NN_avatar_video]]
