@@ -50,8 +50,8 @@
 - Soldadito marinero, conociste a una sirena
 - Ya ves que venero tu imagen divina,
 - Su vida entera pasó buscando noches de gloria como alma en pena
-- Escogiste a la más guapa y a la menos buena
 - por esas ventas del fino Laina,
+- Escogiste a la más guapa y a la menos buena
 - Mira lo que se avecina a la vuelta de la esquina
 - Dale a tu cuerpo alegría Macarena
 -
