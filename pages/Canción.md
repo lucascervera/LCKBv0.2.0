@@ -17,7 +17,9 @@
 - Repetimos?
 -
 - ¿Quién pudiera coger un DeLorean
-- volver a ponerme la riñonera daría la vida entera
+- Dar cera y pulir cera
+- daría la vida entera
+- volver a ponerme la riñonera
 - Me encanta que los planes salgan bien
 - Y hasta aquí puedo leer.
 - Effective Wonder
