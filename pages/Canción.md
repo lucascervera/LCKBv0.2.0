@@ -23,14 +23,11 @@
 - Soldadito marinero, conociste a una sirena
 - Dale a tu cuerpo alegría Macarena
 -
+- tanto tanto la quería
 - Ave María, ¿cuándo serás mía?
 - tiene chulería y ese punto de alegría
-- suspiros y llantos y oscura pasión
-- Porque mi vida se quedó vacía
 - Noches de bohemia y de ilusión
-- el portazo, sonó como un signo de interrogación,
-- ni ser el fantoche que va, en romería,
-- tanto tanto la quería
+- suspiros y llantos y oscura pasión
 - Y un meneo que te pone juguetón
 -
 -
