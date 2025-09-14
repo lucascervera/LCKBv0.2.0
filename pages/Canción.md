@@ -24,11 +24,11 @@
 -
 - ¿Quién pudiera coger un DeLorean
 - volver a dar cera y pulir cera
-- con naranjito tatuado en la piel
 - y una cassete en la riñonera
-- Yo sigo siendo aquel
 - daría la vida entera
+- con naranjito tatuado en la piel
 - bebiendo leche de pantera
+- Yo sigo siendo aquel
 - Me encanta que los planes salgan bien
 - Soy como Jordi Hurtado, para mí el tiempo no ha pasado.
 - Y hasta aquí puedo leer.
