@@ -8,7 +8,7 @@
 	- bebiendo leche de pantera
 	- Yo sigo siendo aquel
 	- Soy como Jordi Hurtado
-	- para mí el tiempo no ha pasado.
+	- para mí el tiempo no ha pasado
 -
 - ****
 - Sigo buscando una sonrisa de repente en un bar
@@ -36,10 +36,6 @@
 - Noches de bohemia y de ilusión
 - suspiros y llantos y oscura pasión
 - Y un meneo que te pone juguetón
--
--
--
--
 -
 - Yo la miro y ella no me dice nada
 - la fui, poco a poco, dando por perdida.
