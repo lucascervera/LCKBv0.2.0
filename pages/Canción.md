@@ -21,4 +21,6 @@
 - He muerto y he resucitado.
 - La reina de la noche, la diosa del vudú
 - no te rías de mí, no me arranques la piel
-- me supo dulce como la miel.
+- me supo dulce como la miel
+- Porque ya me ha quebrado los talones
+- me echó del casino de Torrelodones.
