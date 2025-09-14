@@ -27,3 +27,8 @@
 - Diego tiene chulería y ese punto de alegría
 - Si estoy loca es cosa mía
 - Ave María, ¿cuándo serás mía?
+- Porque mi vida se quedó vacía
+- ni ser el fantoche que va, en romería,
+- tanto la quería
+- Crear, soñar, dejar todo surgir, aparcando el miedo a sufrir.
+  esa mujer no me deja vivir.
