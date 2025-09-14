@@ -8,12 +8,13 @@
 - Pa' que te fijes en mí, y entonces me quieras.
 -
 - Con las manos blancas de pintar
--
 - Imposibles de borrar
-- Y si te como a besos, sabrás.
-- Que te voy queriendo cada día un poco más
+-
 - Hace tanto que sueño su boca
+- Y si te como a besos, sabrás.
 - Y te dolerá, si de verdad te toca
+- Que te voy queriendo cada día un poco más
+-
 - Y yo la miro y ella no me dice nada
 - Y lo que pasa es que estás intoxicada
 - Devúelveme la vida
