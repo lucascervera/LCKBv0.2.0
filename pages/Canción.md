@@ -53,9 +53,9 @@
 - por esas ventas del fino Laina,
 - Escogiste a la más guapa y a la menos buena
 - Mira lo que se avecina a la vuelta de la esquina
+- La dulce niña Carolina
 - Dale a tu cuerpo alegría Macarena
 -
-- La dulce niña Carolina
 - Que se llama de apellido Vitorino
 - Y es que estás hecha de plástico fino
 - Noches de bohemia y de ilusión
