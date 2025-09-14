@@ -40,11 +40,10 @@
 - me supo dulce como la miel
 -
 - Diego tiene chulería y ese punto de alegría
-- Si estoy loca es cosa mía
 - Ave María, ¿cuándo serás mía?
 - Porque mi vida se quedó vacía
 - ni ser el fantoche que va, en romería,
-- tanto la quería
+- tanto tanto la quería
 -
 - A veces soy mala, a veces un cielo
 - Y mañana vendré con un cigarro a la cama
