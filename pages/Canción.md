@@ -49,6 +49,8 @@
 - Que se llama de apellido Vitorino
 - Y es que estás hecha de plástico fino
 - Noches de bohemia y de ilusión
-  suspiros y llantos y oscura pasión.
-  y, el portazo, sonó como un signo de interrogación,
-  Y un meneo que te pone juguetón
+- suspiros y llantos y oscura pasión.
+- y, el portazo, sonó como un signo de interrogación,
+- Y un meneo que te pone juguetón
+- Hay que comprar un tractor
+- no tiene edad para hacer el amor.
