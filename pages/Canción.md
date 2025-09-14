@@ -31,4 +31,6 @@
 - ni ser el fantoche que va, en romería,
 - tanto la quería
 - Crear, soñar, dejar todo surgir, aparcando el miedo a sufrir.
-  esa mujer no me deja vivir.
+- esa mujer no me deja vivir
+- que, tardé, en aprender a olvidarla
+- yo no puedo dejar
