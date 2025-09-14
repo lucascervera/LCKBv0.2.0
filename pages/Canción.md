@@ -24,8 +24,7 @@
 -
 - un DeLorean yo quisiera
 - para dar cera y pulir cera
--
-- a mis vinilos siempre fiel
+- En el Street Fighter subir de nivel.
 - con naranjito tatuado en la piel
 - y un talego en la riñonera
 - daría la vida entera
