@@ -31,10 +31,8 @@
 -
 - Y yo la miro y ella no me dice nada
 - la fui, poco a poco, dando por perdida.
-- Y lo que pasa es que estás intoxicada
-- La quiero a pesar de las heridas
--
-- He muerto y he resucitado.
+- lo que pasa es que está intoxicada
+- pero la quiero a pesar de las heridas
 -
 - Porque ya me ha quebrado los talones
 - no te rías de mí, no me arranques la piel
