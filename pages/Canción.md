@@ -24,6 +24,10 @@
 - Dale a tu cuerpo alegría Macarena
 - Con las manos blancas de pintar
 - Imposibles de borrar
+- Hace tanto que sueño su boca
+- Y te dolerá, si de verdad te toca
+- Y si te como a besos, sabrás.
+- Que te voy queriendo cada día un poco más
 -
 - tanto tanto la quería
 - Ave María, ¿cuándo serás mía?
@@ -36,10 +40,6 @@
 -
 -
 -
-- Hace tanto que sueño su boca
-- Y si te como a besos, sabrás.
-- Y te dolerá, si de verdad te toca
-- Que te voy queriendo cada día un poco más
 -
 - Y yo la miro y ella no me dice nada
 - la fui, poco a poco, dando por perdida.
