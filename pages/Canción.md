@@ -54,3 +54,7 @@
 - Y un meneo que te pone juguetón
 - Hay que comprar un tractor
 - no tiene edad para hacer el amor.
+- Se fue la dulce miel que probé en sus labios
+- Me dejó un neceser con agravios
+- Pensaré si queda alguna manera
+- Después de un invierno malo, una mala primavera,
