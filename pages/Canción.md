@@ -18,16 +18,16 @@
 - Buena paga y un chalet en las afueras
 - Pa' que te fijes en mí, y entonces me quieras.
 -
-- Soldadito marinero, conociste a una sirena
 - Mira lo que se avecina a la vuelta de la esquina
 - La dulce niña Carolina
+- Soldadito marinero, conociste a una sirena
 - Dale a tu cuerpo alegría Macarena
 -
-- Diego tiene chulería y ese punto de alegría
+- Ave María, ¿cuándo serás mía?
+- tiene chulería y ese punto de alegría
 - suspiros y llantos y oscura pasión
 - Porque mi vida se quedó vacía
 - Noches de bohemia y de ilusión
-- Ave María, ¿cuándo serás mía?
 - el portazo, sonó como un signo de interrogación,
 - ni ser el fantoche que va, en romería,
 - tanto tanto la quería
