@@ -9,9 +9,11 @@
 - teleindiscreta
 - break dance
 - delorean
--
+- Minicadena de doble pletina
+- riñonera
 -
 - ¿Quién pudiera coger un DeLorean
+- volver a ponerme la riñonera daría la vida entera
 - ## Todo
 - Sigo buscando una sonrisa de repente en un bar
 - Tú bailando en tu volcán
