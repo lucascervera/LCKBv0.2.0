@@ -28,6 +28,7 @@
 - volver a ponerme la riñonera
 - bebiendo leche de pantera
 - Me encanta que los planes salgan bien
+- Soy como Jordi Hurtado, para mí el tiempo no ha pasado.
 - Y hasta aquí puedo leer.
 - Effective Wonder
 - Oliver y Benji
