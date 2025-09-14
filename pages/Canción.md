@@ -44,5 +44,11 @@
 - Dale a tu cuerpo alegría Macarena
 - Mira lo que se avecina a la vuelta de la esquina
 - por esas ventas del fino Laina,
-- La dulce niña Carolina
 - Ya ves que venero tu imagen divina,
+- La dulce niña Carolina
+- Que se llama de apellido Vitorino
+- Y es que estás hecha de plástico fino
+- Noches de bohemia y de ilusión
+  suspiros y llantos y oscura pasión.
+  y, el portazo, sonó como un signo de interrogación,
+  Y un meneo que te pone juguetón
