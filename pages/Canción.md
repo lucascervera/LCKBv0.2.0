@@ -23,8 +23,8 @@
 - Como los cíngaros del desierto
 -
 - ¿Quién pudiera coger un DeLorean
-- Dar cera y pulir cera
-- Naranjito tatuado en la piel
+- volver a dar cera y pulir cera
+- con naranjito tatuado en la piel
 - daría la vida entera
 - volver a ponerme la riñonera
 - Yo sigo siendo aquel
