@@ -41,7 +41,7 @@
 -
 -
 -
-- Y yo la miro y ella no me dice nada
+- Yo la miro y ella no me dice nada
 - la fui, poco a poco, dando por perdida.
 - lo que pasa es que está intoxicada
 - pero la quiero a pesar de las heridas
@@ -53,10 +53,7 @@
 -
 -
 - A veces soy mala, a veces un cielo
-- Y mañana vendré con un cigarro a la cama
 - lo que duran dos peces de hielo
-- Macarena tiene un novio que se llama
--
 -
 - La dulce niña Carolina
 - Que se llama de apellido Vitorino
