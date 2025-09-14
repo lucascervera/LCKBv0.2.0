@@ -11,6 +11,9 @@
 - delorean
 - Minicadena de doble pletina
 - riñonera
+- calipo
+- frigodedo
+- alucina ve
 -
 - ¿Quién pudiera coger un DeLorean
 - volver a ponerme la riñonera daría la vida entera
