@@ -27,16 +27,18 @@
 -
 - Porque ya me ha quebrado los talones
 - no te rías de mí, no me arranques la piel
-- me supo dulce como la miel
 - me echó del casino de Torrelodones
+- me supo dulce como la miel
+-
 - Diego tiene chulería y ese punto de alegría
 - Si estoy loca es cosa mía
 - Ave María, ¿cuándo serás mía?
 - Porque mi vida se quedó vacía
 - ni ser el fantoche que va, en romería,
 - tanto la quería
-- Crear, soñar, dejar todo surgir, aparcando el miedo a sufrir.
+-
 - esa mujer no me deja vivir
+- Crear, soñar, dejar todo surgir, aparcando el miedo a sufrir.
 - que, tardé, en aprender a olvidarla
 - yo no puedo dejar de mirarla
 - A veces soy mala, a veces un cielo
