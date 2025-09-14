@@ -15,6 +15,8 @@
 - frigodedo
 - alucina vecina
 - Repetimos?
+- Georgie Dann
+- Naranjito
 -
 - ¿Quién pudiera coger un DeLorean
 - Dar cera y pulir cera
