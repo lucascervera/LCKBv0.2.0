@@ -10,4 +10,5 @@
 	-
 -
 - # Images
-	- ![ChatGPT Image 14 sept 2025, 12_31_41.png](../assets/ChatGPT_Image_14_sept_2025,_12_31_41_1757846031570_0.png)
+	- ![ChatGPT Image 14 sept 2025, 12_31_41.png](../assets/ChatGPT_Image_14_sept_2025,_12_31_41_1757846031570_0.png){:width 800,:height 200}
+	-
