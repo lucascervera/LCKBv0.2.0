@@ -4,7 +4,8 @@
 - aerobic
 - clicks
 - simón
--
+- VHS
+- modem
 - ## Todo
 - Sigo buscando una sonrisa de repente en un bar
 - Tú bailando en tu volcán
