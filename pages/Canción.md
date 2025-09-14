@@ -3,11 +3,13 @@
 - Bailar de lejos no es bailar
 - Así que abrázame con furia de huracán,
 - Pero primero quieres ir a cenar
+- Buena paga y un chalet en las afueras
 - Pa' ponerte guapo pa' ligar
 - Pa' que te fijes en mí, y entonces me quieras.
-- Imposibles de borrar
+-
 - Con las manos blancas de pintar
-- Buena paga y un chalet en las afueras
+-
+- Imposibles de borrar
 - Y si te como a besos, sabrás.
 - Que te voy queriendo cada día un poco más
 - Hace tanto que sueño su boca
