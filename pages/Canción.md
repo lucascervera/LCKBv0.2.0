@@ -23,8 +23,8 @@
 - Como los cíngaros del desierto
 -
 - un DeLorean yo quisiera
-- a x siempre fiel
 - volver a dar cera y pulir cera
+- a x siempre fiel
 - con naranjito tatuado en la piel
 - y una cassete en la riñonera
 - daría la vida entera
