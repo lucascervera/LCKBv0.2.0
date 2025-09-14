@@ -62,3 +62,8 @@
 - Después de un invierno malo, una mala primavera
 - Vete poniendo el disfraz de pecadora
 - Que es lo que se lleva ahora
+- Una mano en la cintura
+- Encadenada a noches de locura
+- Que tenga un automóvil extranjero
+- Y te dedicas a insultar al camarero
+- No importa lo que se venga, pa' que sepas que te quiero
