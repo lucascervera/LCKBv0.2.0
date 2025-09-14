@@ -69,3 +69,8 @@
 - No importa lo que se venga, pa' que sepas que te quiero
 - Laura no está, eso lo sé.
 - Se fue y la razón no la sé
+- ¿Cómo te olvidaste de eso?
+- Desde el taxi, y, haciendo un exceso
+- Me muero por abrazarte y que me abraces tan fuerte.
+- Unas horas jugaré a quererte.
+- quiero verte, quiero verte quiero verte,
