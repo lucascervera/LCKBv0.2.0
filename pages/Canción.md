@@ -29,6 +29,12 @@
 - La dulce niña Carolina
 - Dale a tu cuerpo alegría Macarena
 -
+- Diego tiene chulería y ese punto de alegría
+- Ave María, ¿cuándo serás mía?
+- Porque mi vida se quedó vacía
+- ni ser el fantoche que va, en romería,
+- tanto tanto la quería
+-
 - Con las manos blancas de pintar
 - Imposibles de borrar
 -
@@ -47,11 +53,6 @@
 - me echó del casino de Torrelodones
 - me supo dulce como la miel
 -
-- Diego tiene chulería y ese punto de alegría
-- Ave María, ¿cuándo serás mía?
-- Porque mi vida se quedó vacía
-- ni ser el fantoche que va, en romería,
-- tanto tanto la quería
 -
 - A veces soy mala, a veces un cielo
 - Y mañana vendré con un cigarro a la cama
