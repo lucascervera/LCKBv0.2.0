@@ -87,7 +87,6 @@
 - Tú prefieres un chico de carrera
 - Después de un invierno malo, una mala primavera
 -
-- Que tenga un automóvil extranjero
 - Y te dedicas a insultar al camarero
 - No importa lo que se venga, pa' que sepas que te quiero
 -
