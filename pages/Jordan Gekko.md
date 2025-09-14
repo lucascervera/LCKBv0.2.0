@@ -1,4 +1,5 @@
 # Inspiration
+	-
 	- ## [[Gordon Gekko]]
 	  collapsed:: true
 		- {{video https://www.youtube.com/watch?v=vziHnwB_mkM}}
