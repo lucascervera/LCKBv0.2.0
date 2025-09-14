@@ -15,4 +15,6 @@
 - Y yo la miro y ella no me dice nada
 - Y lo que pasa es que estás intoxicada
 - Devúelveme la vida
+- Porque buscando tu sonrisa estaría toda mi vida
 -
+- La quiero a pesar de las heridas
