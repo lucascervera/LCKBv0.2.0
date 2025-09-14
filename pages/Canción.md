@@ -2,7 +2,7 @@
 - Sigo buscando una sonrisa de repente en un bar
 - Bailar de lejos no es bailar
 - Pero primero quieres ir a cenar
-- Pa' ponerte guapo pa' ligar
+- Pa' ponerte guapa pa' ligar
 - Buena paga y un chalet en las afueras
 - Pa' que te fijes en mí, y entonces me quieras.
 - Mira lo que se avecina a la vuelta de la esquina
@@ -24,7 +24,7 @@
 - a mis vinilos siempre fiel
 - bebiendo leche de pantera
 - Yo sigo siendo aquel
-- Soy como Jordi Hurtado
+- Soy como iordi Hurtado
 - para mí el tiempo no ha pasado
 -
 - tanto tanto la quería
