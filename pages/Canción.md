@@ -64,19 +64,22 @@
 - Me dejó un neceser con agravios
 - Hay que comprar un tractor
 -
+- Una mano en la cintura
 - Vete poniendo el disfraz de pecadora
+- Encadenada a noches de locura
 - Que es lo que se lleva ahora
+-
 -
 - Noches de bohemia y de ilusión
 - suspiros y llantos y oscura pasión.
 - y, el portazo, sonó como un signo de interrogación,
 - Y un meneo que te pone juguetón
+-
 - Pensaré si queda alguna manera
 - Que un beso suyo era una vida entera
 - Tú prefieres un chico de carrera
 - Después de un invierno malo, una mala primavera
-- Una mano en la cintura
-- Encadenada a noches de locura
+-
 - Que tenga un automóvil extranjero
 - Y te dedicas a insultar al camarero
 - No importa lo que se venga, pa' que sepas que te quiero
