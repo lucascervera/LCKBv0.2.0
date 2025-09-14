@@ -26,7 +26,7 @@
 - para dar cera y pulir cera
 - a mis vinilos siempre fiel
 - con naranjito tatuado en la piel
-- y una cassete en la riñonera
+- y un talego en la riñonera
 - daría la vida entera
 - bebiendo leche de pantera
 - Yo sigo siendo aquel
