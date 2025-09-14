@@ -33,4 +33,7 @@
 - Crear, soñar, dejar todo surgir, aparcando el miedo a sufrir.
 - esa mujer no me deja vivir
 - que, tardé, en aprender a olvidarla
-- yo no puedo dejar
+- yo no puedo dejar de mirarla
+- A veces soy mala, a veces un cielo
+- lo que duran dos peces de hielo
+- Macarena tiene un novio que se llama
