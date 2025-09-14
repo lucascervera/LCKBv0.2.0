@@ -37,3 +37,6 @@
 - A veces soy mala, a veces un cielo
 - lo que duran dos peces de hielo
 - Macarena tiene un novio que se llama
+- Y mañana vendré con un cigarro a la cama
+- Su vida entera pasó buscando noches de gloria como alma en pena.
+- Soldadito marinero, conociste a una sirena
