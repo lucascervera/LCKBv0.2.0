@@ -9,6 +9,7 @@
 -
 - Porque buscando tu sonrisa estaría toda mi vida
 - Con las manos blancas de pintar
+- Devúelveme la vida
 - Imposibles de borrar
 -
 - Hace tanto que sueño su boca
@@ -20,13 +21,13 @@
 - la fui, poco a poco, dando por perdida.
 - Y lo que pasa es que estás intoxicada
 - La quiero a pesar de las heridas
-- Devúelveme la vida
 -
-- He muerto y he resucitado.
 - La reina de la noche, la diosa del vudú
+- He muerto y he resucitado.
+-
+- Porque ya me ha quebrado los talones
 - no te rías de mí, no me arranques la piel
 - me supo dulce como la miel
-- Porque ya me ha quebrado los talones
 - me echó del casino de Torrelodones
 - Diego tiene chulería y ese punto de alegría
 - Si estoy loca es cosa mía
