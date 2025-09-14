@@ -67,3 +67,5 @@
 - Que tenga un automóvil extranjero
 - Y te dedicas a insultar al camarero
 - No importa lo que se venga, pa' que sepas que te quiero
+- Laura no está, eso lo sé.
+- Se fue y la razón no la sé
