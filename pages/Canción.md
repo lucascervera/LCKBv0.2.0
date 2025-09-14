@@ -1,6 +1,6 @@
+- Sigo buscando una sonrisa de repente en un bar
 - Así que abrázame con furia de huracán,
 - Tú bailando en tu volcán
-- Sigo buscando una sonrisa de repente en un bar
 - Pa' ponerte guapo pa' ligar
 - Bailar de lejos no es bailar
 - Pero primero quieres ir a cenar
@@ -75,4 +75,4 @@
 - Unas horas jugaré a quererte.
 - quiero verte, quiero verte, quiero verte
 - Ven mírame a mí, tengo colorcito.
-  Bonito, todo me parece bonito.
+- Bonito, todo me parece bonito.
