@@ -19,4 +19,6 @@
 - la fui, poco a poco, dando por perdida.
 - La quiero a pesar de las heridas
 - He muerto y he resucitado.
-- La reina de la noche, la diosa del vudú.
+- La reina de la noche, la diosa del vudú
+- no te rías de mí, no me arranques la piel
+- me supo dulce como la miel.
