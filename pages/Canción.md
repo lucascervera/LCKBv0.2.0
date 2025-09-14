@@ -83,8 +83,7 @@
 -
 -
 - Pensaré si queda alguna manera
-- Que un beso suyo era una vida entera
-- Y te dedicas a insultar al camarero
+- te dedicas a insultar al camarero
 - Después de un invierno malo, una mala primavera
 - No importa lo que se venga, pa' que sepas que te quiero
 -
