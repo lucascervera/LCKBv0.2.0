@@ -24,14 +24,14 @@
 -
 - un DeLorean yo quisiera
 - para dar cera y pulir cera
-- En el Street Fighter subir de nivel.
+- en el estrit faiter subir de nivel.
 - con naranjito tatuado en la piel
 - y un talego en la riñonera
-- daría la vida entera
+- a mis vinilos siempre fiel
 - bebiendo leche de pantera
+- Soy como Jordi Hurtado, para mí el tiempo no ha pasado.
 - Yo sigo siendo aquel
 - Me encanta que los planes salgan bien
-- Soy como Jordi Hurtado, para mí el tiempo no ha pasado.
 - Y hasta aquí puedo leer.
 - Effective Wonder
 - Oliver y Benji
