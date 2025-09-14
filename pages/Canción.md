@@ -84,11 +84,10 @@
 -
 - Pensaré si queda alguna manera
 - Que un beso suyo era una vida entera
-- Tú prefieres un chico de carrera
-- Después de un invierno malo, una mala primavera
--
 - Y te dedicas a insultar al camarero
+- Después de un invierno malo, una mala primavera
 - No importa lo que se venga, pa' que sepas que te quiero
+-
 -
 - Laura no está, eso lo sé.
 - Bonito, todo me parece bonito.
