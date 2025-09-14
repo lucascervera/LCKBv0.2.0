@@ -61,19 +61,20 @@
 -
 - Se fue la dulce miel que probé en sus labios
 - no tiene edad para hacer el amor.
+- Me dejó un neceser con agravios
 - Hay que comprar un tractor
+-
+- Vete poniendo el disfraz de pecadora
+- Que es lo que se lleva ahora
 -
 - Noches de bohemia y de ilusión
 - suspiros y llantos y oscura pasión.
 - y, el portazo, sonó como un signo de interrogación,
 - Y un meneo que te pone juguetón
-- Me dejó un neceser con agravios
 - Pensaré si queda alguna manera
 - Que un beso suyo era una vida entera
 - Tú prefieres un chico de carrera
 - Después de un invierno malo, una mala primavera
-- Vete poniendo el disfraz de pecadora
-- Que es lo que se lleva ahora
 - Una mano en la cintura
 - Encadenada a noches de locura
 - Que tenga un automóvil extranjero
