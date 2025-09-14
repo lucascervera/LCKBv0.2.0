@@ -18,7 +18,10 @@
 -
 - ¿Quién pudiera coger un DeLorean
 - volver a ponerme la riñonera daría la vida entera
-- Me encanta que los planes salgan bien.
+- Me encanta que los planes salgan bien
+- Y hasta aquí puedo leer.
+- Effective Wonder
+-
 - ## Todo
 - Sigo buscando una sonrisa de repente en un bar
 - Tú bailando en tu volcán
