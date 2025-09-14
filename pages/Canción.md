@@ -24,7 +24,7 @@
 -
 - un DeLorean yo quisiera
 - para dar cera y pulir cera
-- a los goonies siempre fiel
+- a mis vinilos siempre fiel
 - con naranjito tatuado en la piel
 - y una cassete en la riñonera
 - daría la vida entera
