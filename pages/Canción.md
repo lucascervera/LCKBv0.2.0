@@ -73,4 +73,6 @@
 - Desde el taxi, y, haciendo un exceso
 - Me muero por abrazarte y que me abraces tan fuerte.
 - Unas horas jugaré a quererte.
-- quiero verte, quiero verte quiero verte,
+- quiero verte, quiero verte, quiero verte
+- Ven mírame a mí, tengo colorcito.
+  Bonito, todo me parece bonito.
