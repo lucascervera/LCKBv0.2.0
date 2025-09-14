@@ -35,6 +35,11 @@
 - ni ser el fantoche que va, en romería,
 - tanto tanto la quería
 -
+- Noches de bohemia y de ilusión
+- suspiros y llantos y oscura pasión
+- y, el portazo, sonó como un signo de interrogación,
+- Y un meneo que te pone juguetón
+-
 - Con las manos blancas de pintar
 - Imposibles de borrar
 -
@@ -65,7 +70,7 @@
 - Y es que estás hecha de plástico fino
 -
 - Se fue la dulce miel que probé en sus labios
-- no tiene edad para hacer el amor.
+- no tiene edad para hacer el amor
 - Me dejó un neceser con agravios
 - Hay que comprar un tractor
 -
@@ -75,10 +80,6 @@
 - Que es lo que se lleva ahora
 -
 -
-- Noches de bohemia y de ilusión
-- suspiros y llantos y oscura pasión.
-- y, el portazo, sonó como un signo de interrogación,
-- Y un meneo que te pone juguetón
 -
 - Pensaré si queda alguna manera
 - Que un beso suyo era una vida entera
