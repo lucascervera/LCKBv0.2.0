@@ -25,9 +25,9 @@
 - ¿Quién pudiera coger un DeLorean
 - volver a dar cera y pulir cera
 - con naranjito tatuado en la piel
-- daría la vida entera
-- volver a ponerme la riñonera
+- y una cassete en la riñonera
 - Yo sigo siendo aquel
+- daría la vida entera
 - bebiendo leche de pantera
 - Me encanta que los planes salgan bien
 - Soy como Jordi Hurtado, para mí el tiempo no ha pasado.
