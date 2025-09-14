@@ -37,10 +37,11 @@
 - ni ser el fantoche que va, en romería,
 - tanto la quería
 -
-- esa mujer no me deja vivir
-- Crear, soñar, dejar todo surgir, aparcando el miedo a sufrir.
 - que, tardé, en aprender a olvidarla
+- esa mujer no me deja vivir
 - yo no puedo dejar de mirarla
+- aparcando el miedo a sufrir
+-
 - A veces soy mala, a veces un cielo
 - lo que duran dos peces de hielo
 - Macarena tiene un novio que se llama
