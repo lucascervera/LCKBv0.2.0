@@ -8,4 +8,7 @@
 - Con las manos blancas de pintar
 - Pa' que te fijes en mí, y entonces me quieras.
 - Buena paga y un chalet en las afueras
--
+- Y si te como a besos, sabrás.
+- Que te voy queriendo cada día un poco más
+- Hace tanto que sueño su boca
+- Y te dolerá, si de verdad te toca.
