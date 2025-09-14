@@ -1,6 +1,7 @@
 <<<<<<< HEAD
-# Chistes Cortos
-collapsed:: true
+
+- # Chistes Cortos
+  collapsed:: true
 	- ### Relación que está enfriando #humor #parejas #tecnología
 		- El otro día, mi mujer me envió un mensaje por WhatsApp diciendo que creía que nuestra relación se estaba enfriando. Le respondí inmediatamente... "Disiento. Saludos cordiales".
 	- ### Experiencia en entrevistas de trabajo #humor #trabajo #entrevista
@@ -58,6 +59,7 @@ collapsed:: true
 - ## [[Verano azul vs Goonies]]
 - ## [[Regreso al pasado]]
 - ## [[Entrevista a Macaulay Culkin]]
+  collapsed:: true
 	- #soni Hoy tenemos con nosotros a un titán de los años 80, Maculin ehh Macali no, Macaulay Culkin. bueno, el niño ese de Solo en casa. Bienvenido Maclingo...
 	- Gracias a ti, Soni, por invitarme.
 	- Tu carrera comienza de forma trágica siendo abandonado por tu familia
@@ -70,8 +72,10 @@ collapsed:: true
 	- ¿Puedes hacer el gesto ese del cartel de la peli con las dos manos en la cara?
 	-
 	-
-	-
-=======
+	- =======
+- ## [[Canción]]
+-
+-
 -
 - # Chistes
 	- ## Chistes de Entrevistas de Trabajo
@@ -137,4 +141,4 @@ collapsed:: true
 			  ¿Qué tienen en común un tren y una manzana? Que no espera.
 			- ### Ingenieros pobres #humor #sarcasmo #abogados #*****
 			  Un ladrón encapuchado le para a un transeúnte y le dice: "¡Dame todo lo que lleves encima!". El otro, sin nada, responde: "No tengo nada, ni un euro… soy licenciado en derecho". Y el ladrón se quita la capucha y suelta: "¡No me digas! ¿De qué año?".
->>>>>>> e9012a5 (Auto saved by Logseq)
+			  >>>>>>> e9012a5 (Auto saved by Logseq)
