@@ -1,3 +1,5 @@
-- | Así que abrázame con furia de huracán, |
-  | Tú bailando en tu volcán |
--
+- Así que abrázame con furia de huracán,
+- Tú bailando en tu volcán
+- Sigo buscando una sonrisa de repente en un bar
+- Pa' ponerte guapo pa' ligar
+- Bailar de lejos no es bailar
