@@ -6,3 +6,6 @@
 - Pero primero quieres ir a cenar
 - Imposibles de borrar
 - Con las manos blancas de pintar
+- Pa' que te fijes en mí, y entonces me quieras.
+- Buena paga y un chalet en las afueras
+-
