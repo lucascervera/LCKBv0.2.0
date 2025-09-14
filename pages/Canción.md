@@ -22,7 +22,6 @@
 - Y lo que pasa es que estás intoxicada
 - La quiero a pesar de las heridas
 -
-- La reina de la noche, la diosa del vudú
 - He muerto y he resucitado.
 -
 - Porque ya me ha quebrado los talones
@@ -57,14 +56,17 @@
 - Dale a tu cuerpo alegría Macarena
 -
 - Que se llama de apellido Vitorino
+- La reina de la noche, la diosa del vudú
 - Y es que estás hecha de plástico fino
+-
+- Se fue la dulce miel que probé en sus labios
+- no tiene edad para hacer el amor.
+- Hay que comprar un tractor
+-
 - Noches de bohemia y de ilusión
 - suspiros y llantos y oscura pasión.
 - y, el portazo, sonó como un signo de interrogación,
 - Y un meneo que te pone juguetón
-- Hay que comprar un tractor
-- no tiene edad para hacer el amor.
-- Se fue la dulce miel que probé en sus labios
 - Me dejó un neceser con agravios
 - Pensaré si queda alguna manera
 - Que un beso suyo era una vida entera
