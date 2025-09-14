@@ -11,4 +11,8 @@
 - Y si te como a besos, sabrás.
 - Que te voy queriendo cada día un poco más
 - Hace tanto que sueño su boca
-- Y te dolerá, si de verdad te toca.
+- Y te dolerá, si de verdad te toca
+- Y yo la miro y ella no me dice nada
+- Y lo que pasa es que estás intoxicada
+- Devúelveme la vida
+-
