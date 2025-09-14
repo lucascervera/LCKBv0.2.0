@@ -243,7 +243,6 @@
 			- EOI-IA-1
 	- GitHub
 	- ## Proyectos
-	  collapsed:: true
 		- Lucas Cervera
 			- iNNv0
 				- assessmeNNt
@@ -253,12 +252,11 @@
 			- consultiNNg
 			- modeliNNg
 			- formacióNN
-			- [[iNNteresante]]
+			- iNNteresante
 			- hackiNNg
 			- thiNNktank
-			- [[NN_avatar_video]]
+			- [[coNNtent]]
 			- [[patrimoNNio]]
-			- [[AI risk]]
 			-
 			-
 - ## Videos
