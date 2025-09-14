@@ -6,6 +6,8 @@
 		- ![image.png](../assets/image_1757841784611_0.png)
 		-
 	- ## [[Jordan Beltfort]]
+	- ## [[ss]]
+	-
 -
 - # Images
 	-
