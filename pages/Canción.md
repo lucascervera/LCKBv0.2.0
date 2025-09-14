@@ -20,9 +20,8 @@
 - Pa' ponerte guapo pa' ligar
 - Pa' que te fijes en mí, y entonces me quieras.
 -
-- Porque buscando tu sonrisa estaría toda mi vida
+-
 - Con las manos blancas de pintar
-- Devúelveme la vida
 - Imposibles de borrar
 -
 - Hace tanto que sueño su boca
