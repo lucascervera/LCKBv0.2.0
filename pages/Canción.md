@@ -30,15 +30,16 @@
 - Dale a tu cuerpo alegría Macarena
 -
 - Diego tiene chulería y ese punto de alegría
+- suspiros y llantos y oscura pasión
 - Ave María, ¿cuándo serás mía?
 - Porque mi vida se quedó vacía
+- Noches de bohemia y de ilusión
+- y, el portazo, sonó como un signo de interrogación,
 - ni ser el fantoche que va, en romería,
 - tanto tanto la quería
--
-- Noches de bohemia y de ilusión
-- suspiros y llantos y oscura pasión
-- y, el portazo, sonó como un signo de interrogación,
 - Y un meneo que te pone juguetón
+-
+-
 -
 - Con las manos blancas de pintar
 - Imposibles de borrar
