@@ -57,4 +57,8 @@
 - Se fue la dulce miel que probé en sus labios
 - Me dejó un neceser con agravios
 - Pensaré si queda alguna manera
-- Después de un invierno malo, una mala primavera,
+- Que un beso suyo era una vida entera
+- Tú prefieres un chico de carrera
+- Después de un invierno malo, una mala primavera
+- Vete poniendo el disfraz de pecadora
+- Que es lo que se lleva ahora
