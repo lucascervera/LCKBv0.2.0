@@ -6,7 +6,6 @@
 		-
 	- ## [[Jordan Beltfort]]
 	- ## [[Patrick Bateman]]
-	- ## [[Blake]]
 	-
 -
 - # Images
