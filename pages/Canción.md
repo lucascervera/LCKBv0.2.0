@@ -10,7 +10,104 @@
 	- Soy como Jordi Hurtado
 	- para mí el tiempo no ha pasado.
 -
+- ****
+- Sigo buscando una sonrisa de repente en un bar
+- Tú bailando en tu volcán
+- Bailar de lejos no es bailar
+- Así que abrázame con furia de huracán,
+- Pero primero quieres ir a cenar
+- Buena paga y un chalet en las afueras
+- Pa' ponerte guapo pa' ligar
+- Pa' que te fijes en mí, y entonces me quieras.
 -
+- Porque buscando tu sonrisa estaría toda mi vida
+- Con las manos blancas de pintar
+- Devúelveme la vida
+- Imposibles de borrar
+-
+- Hace tanto que sueño su boca
+- Y si te como a besos, sabrás.
+- Y te dolerá, si de verdad te toca
+- Que te voy queriendo cada día un poco más
+-
+- Y yo la miro y ella no me dice nada
+- la fui, poco a poco, dando por perdida.
+- Y lo que pasa es que estás intoxicada
+- La quiero a pesar de las heridas
+-
+- He muerto y he resucitado.
+-
+- Porque ya me ha quebrado los talones
+- no te rías de mí, no me arranques la piel
+- me echó del casino de Torrelodones
+- me supo dulce como la miel
+-
+- Diego tiene chulería y ese punto de alegría
+- Si estoy loca es cosa mía
+- Ave María, ¿cuándo serás mía?
+- Porque mi vida se quedó vacía
+- ni ser el fantoche que va, en romería,
+- tanto la quería
+-
+- que, tardé, en aprender a olvidarla
+- esa mujer no me deja vivir
+- yo no puedo dejar de mirarla
+- aparcando el miedo a sufrir
+-
+- A veces soy mala, a veces un cielo
+- Y mañana vendré con un cigarro a la cama
+- lo que duran dos peces de hielo
+- Macarena tiene un novio que se llama
+-
+- Soldadito marinero, conociste a una sirena
+- Ya ves que venero tu imagen divina,
+- Su vida entera pasó buscando noches de gloria como alma en pena
+- por esas ventas del fino Laina,
+- Escogiste a la más guapa y a la menos buena
+- Mira lo que se avecina a la vuelta de la esquina
+- La dulce niña Carolina
+- Dale a tu cuerpo alegría Macarena
+-
+- Que se llama de apellido Vitorino
+- La reina de la noche, la diosa del vudú
+- Y es que estás hecha de plástico fino
+-
+- Se fue la dulce miel que probé en sus labios
+- no tiene edad para hacer el amor.
+- Me dejó un neceser con agravios
+- Hay que comprar un tractor
+-
+- Una mano en la cintura
+- Vete poniendo el disfraz de pecadora
+- Encadenada a noches de locura
+- Que es lo que se lleva ahora
+-
+-
+- Noches de bohemia y de ilusión
+- suspiros y llantos y oscura pasión.
+- y, el portazo, sonó como un signo de interrogación,
+- Y un meneo que te pone juguetón
+-
+- Pensaré si queda alguna manera
+- Que un beso suyo era una vida entera
+- Tú prefieres un chico de carrera
+- Después de un invierno malo, una mala primavera
+-
+- Que tenga un automóvil extranjero
+- Y te dedicas a insultar al camarero
+- No importa lo que se venga, pa' que sepas que te quiero
+-
+- Laura no está, eso lo sé.
+- Bonito, todo me parece bonito.
+- Se fue y la razón no la sé
+- Ven mírame a mí, tengo colorcito.
+-
+- ¿Cómo te olvidaste de eso?
+- Desde el taxi, y, haciendo un exceso
+-
+- Me muero por abrazarte y que me abraces tan fuerte.
+- Unas horas jugaré a quererte.
+- quiero verte, quiero verte, quiero verte
 -
 -
 -
