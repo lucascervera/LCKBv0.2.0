@@ -83,12 +83,15 @@
 - Que tenga un automóvil extranjero
 - Y te dedicas a insultar al camarero
 - No importa lo que se venga, pa' que sepas que te quiero
+-
 - Laura no está, eso lo sé.
+- Bonito, todo me parece bonito.
 - Se fue y la razón no la sé
+- Ven mírame a mí, tengo colorcito.
+-
 - ¿Cómo te olvidaste de eso?
 - Desde el taxi, y, haciendo un exceso
+-
 - Me muero por abrazarte y que me abraces tan fuerte.
 - Unas horas jugaré a quererte.
 - quiero verte, quiero verte, quiero verte
-- Ven mírame a mí, tengo colorcito.
-- Bonito, todo me parece bonito.
