@@ -16,5 +16,7 @@
 - Y lo que pasa es que estás intoxicada
 - Devúelveme la vida
 - Porque buscando tu sonrisa estaría toda mi vida
--
+- la fui, poco a poco, dando por perdida.
 - La quiero a pesar de las heridas
+- He muerto y he resucitado.
+- La reina de la noche, la diosa del vudú.
