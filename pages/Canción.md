@@ -5,7 +5,6 @@
 - Pa' ponerte guapo pa' ligar
 - Buena paga y un chalet en las afueras
 - Pa' que te fijes en mí, y entonces me quieras.
--
 - Mira lo que se avecina a la vuelta de la esquina
 - La dulce niña Carolina
 - Soldadito marinero, conociste a una sirena
@@ -27,11 +26,9 @@
 - Yo sigo siendo aquel
 - Soy como Jordi Hurtado
 - para mí el tiempo no ha pasado
--
 - tanto tanto la quería
 - Ave María, ¿cuándo serás mía?
 - tiene chulería y ese punto de alegría
--
 - Noches de bohemia y de ilusión
 - suspiros y llantos y oscura pasión
 - Y un meneo que te pone juguetón
