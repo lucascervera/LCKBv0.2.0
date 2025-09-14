@@ -1,3 +1,19 @@
+## Lyrics
+	- Un DeLorean yo quisiera
+	- para dar cera y pulir cera
+	- en el estrit faiter subir de nivel
+	- con naranjito tatuado en la piel
+	- un talego en la riñonera
+	- a mis vinilos siempre fiel
+	- bebiendo leche de pantera
+	- Yo sigo siendo aquel
+	- Soy como Jordi Hurtado
+	- para mí el tiempo no ha pasado.
+-
+-
+-
+-
+-
 - cassetes
 - vinilos
 - hombreras
@@ -22,16 +38,6 @@
 - Cubatas en vaso de tubo
 - Como los cíngaros del desierto
 -
-- Un DeLorean yo quisiera
-- para dar cera y pulir cera
-- en el estrit faiter subir de nivel
-- con naranjito tatuado en la piel
-- un talego en la riñonera
-- a mis vinilos siempre fiel
-- bebiendo leche de pantera
-- Yo sigo siendo aquel
-- Soy como Jordi Hurtado
-- para mí el tiempo no ha pasado.
 - Me encanta que los planes salgan bien
 - Y hasta aquí puedo leer.
 - Effective Wonder
