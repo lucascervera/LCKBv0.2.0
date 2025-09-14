@@ -18,6 +18,8 @@
 - Georgie Dann
 - Naranjito
 - Tigretón
+- Chiquito de la Calzada
+- Cubatas en vaso de tubo.
 -
 - ¿Quién pudiera coger un DeLorean
 - Dar cera y pulir cera
