@@ -19,12 +19,14 @@
 - Naranjito
 - Tigretón
 - Chiquito de la Calzada
-- Cubatas en vaso de tubo.
+- Cubatas en vaso de tubo
+- Como los cíngaros del desierto
 -
 - ¿Quién pudiera coger un DeLorean
 - Dar cera y pulir cera
 - daría la vida entera
 - volver a ponerme la riñonera
+- bebiendo leche de pantera
 - Me encanta que los planes salgan bien
 - Y hasta aquí puedo leer.
 - Effective Wonder
