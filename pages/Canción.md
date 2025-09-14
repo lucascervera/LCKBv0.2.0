@@ -22,6 +22,8 @@
 - La dulce niña Carolina
 - Soldadito marinero, conociste a una sirena
 - Dale a tu cuerpo alegría Macarena
+- Con las manos blancas de pintar
+- Imposibles de borrar
 -
 - tanto tanto la quería
 - Ave María, ¿cuándo serás mía?
@@ -33,8 +35,6 @@
 -
 -
 -
-- Con las manos blancas de pintar
-- Imposibles de borrar
 -
 - Hace tanto que sueño su boca
 - Y si te como a besos, sabrás.
