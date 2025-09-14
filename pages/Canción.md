@@ -1,16 +1,4 @@
 ## Lyrics
-	- Un DeLorean yo quisiera
-	- para dar cera y pulir cera
-	- en el estrit faiter subir de nivel
-	- con naranjito tatuado en la piel
-	- un talego en la riñonera
-	- a mis vinilos siempre fiel
-	- bebiendo leche de pantera
-	- Yo sigo siendo aquel
-	- Soy como Jordi Hurtado
-	- para mí el tiempo no ha pasado
--
-- ****
 - Sigo buscando una sonrisa de repente en un bar
 - Bailar de lejos no es bailar
 - Pero primero quieres ir a cenar
