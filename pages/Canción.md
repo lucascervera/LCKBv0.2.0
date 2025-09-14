@@ -66,9 +66,10 @@
 - Macarena tiene un novio que se llama
 -
 -
+- La dulce niña Carolina
 - Que se llama de apellido Vitorino
 - La reina de la noche, la diosa del vudú
-- Y es que estás hecha de plástico fino
+- Y es que está hecha de plástico fino
 -
 - Se fue la dulce miel que probé en sus labios
 - no tiene edad para hacer el amor
