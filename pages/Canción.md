@@ -17,6 +17,17 @@
 - Y si te como a besos, sabrás.
 - Que te voy queriendo cada día un poco más
 -
+- Un DeLorean yo quisiera
+- para dar cera y pulir cera
+- en el estrit faiter subir de nivel
+- con naranjito tatuado en la piel
+- un talego en la riñonera
+- a mis vinilos siempre fiel
+- bebiendo leche de pantera
+- Yo sigo siendo aquel
+- Soy como Jordi Hurtado
+- para mí el tiempo no ha pasado
+-
 - tanto tanto la quería
 - Ave María, ¿cuándo serás mía?
 - tiene chulería y ese punto de alegría
@@ -52,6 +63,17 @@
 - Me muero por abrazarte y que me abraces tan fuerte.
 - Unas horas jugaré a quererte.
 - quiero verte, quiero verte
+-
+- Un DeLorean yo quisiera
+- para dar cera y pulir cera
+- en el estrit faiter subir de nivel
+- con naranjito tatuado en la piel
+- un talego en la riñonera
+- a mis vinilos siempre fiel
+- bebiendo leche de pantera
+- Yo sigo siendo aquel
+- Soy como Jordi Hurtado
+- para mí el tiempo no ha pasado
 -
 -
 -
