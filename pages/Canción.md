@@ -24,7 +24,7 @@
 - a mis vinilos siempre fiel
 - bebiendo leche de pantera
 - Yo sigo siendo aquel
-- Soy como iordi Hurtado
+- Soy como Yordi Hurtado
 - para mí el tiempo no ha pasado
 -
 - tanto tanto la quería
@@ -63,7 +63,7 @@
 - a mis vinilos siempre fiel
 - bebiendo leche de pantera
 - Yo sigo siendo aquel
-- Soy como Jordi Hurtado
+- Soy como Yordi Hurtado
 - para mí el tiempo no ha pasado
 -
 -
