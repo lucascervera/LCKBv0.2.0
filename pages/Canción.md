@@ -47,9 +47,8 @@
 - pero la quiero a pesar de las heridas
 -
 - Porque ya me ha quebrado los talones
-- no te rías de mí, no me arranques la piel
+-
 - me echó del casino de Torrelodones
-- me supo dulce como la miel
 -
 - La dulce niña Carolina
 - Que se llama de apellido Vitorino
