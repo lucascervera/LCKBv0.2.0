@@ -1,2 +1,2 @@
 - {{video https://www.youtube.com/watch?v=ndTbiDQjbiE}}
--
+- ![image.png](../assets/image_1757842481023_0.png)
