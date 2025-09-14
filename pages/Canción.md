@@ -42,3 +42,7 @@
 - Su vida entera pasó buscando noches de gloria como alma en pena
 - Escogiste a la más guapa y a la menos buena
 - Dale a tu cuerpo alegría Macarena
+- Mira lo que se avecina a la vuelta de la esquina
+- por esas ventas del fino Laina,
+- La dulce niña Carolina
+- Ya ves que venero tu imagen divina,
