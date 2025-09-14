@@ -3,3 +3,6 @@
 - Sigo buscando una sonrisa de repente en un bar
 - Pa' ponerte guapo pa' ligar
 - Bailar de lejos no es bailar
+- Pero primero quieres ir a cenar
+- Imposibles de borrar
+- Con las manos blancas de pintar
