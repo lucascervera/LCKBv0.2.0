@@ -48,12 +48,13 @@
 - Macarena tiene un novio que se llama
 -
 - Soldadito marinero, conociste a una sirena
+- Ya ves que venero tu imagen divina,
 - Su vida entera pasó buscando noches de gloria como alma en pena
 - Escogiste a la más guapa y a la menos buena
-- Dale a tu cuerpo alegría Macarena
-- Mira lo que se avecina a la vuelta de la esquina
 - por esas ventas del fino Laina,
-- Ya ves que venero tu imagen divina,
+- Mira lo que se avecina a la vuelta de la esquina
+- Dale a tu cuerpo alegría Macarena
+-
 - La dulce niña Carolina
 - Que se llama de apellido Vitorino
 - Y es que estás hecha de plástico fino
