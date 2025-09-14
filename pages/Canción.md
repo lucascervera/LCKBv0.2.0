@@ -20,6 +20,14 @@
 - Pa' ponerte guapo pa' ligar
 - Pa' que te fijes en mí, y entonces me quieras.
 -
+- Soldadito marinero, conociste a una sirena
+- Ya ves que venero tu imagen divina,
+- Su vida entera pasó buscando noches de gloria como alma en pena
+- por esas ventas del fino Laina,
+- Escogiste a la más guapa y a la menos buena
+- Mira lo que se avecina a la vuelta de la esquina
+- La dulce niña Carolina
+- Dale a tu cuerpo alegría Macarena
 -
 - Con las manos blancas de pintar
 - Imposibles de borrar
@@ -50,14 +58,6 @@
 - lo que duran dos peces de hielo
 - Macarena tiene un novio que se llama
 -
-- Soldadito marinero, conociste a una sirena
-- Ya ves que venero tu imagen divina,
-- Su vida entera pasó buscando noches de gloria como alma en pena
-- por esas ventas del fino Laina,
-- Escogiste a la más guapa y a la menos buena
-- Mira lo que se avecina a la vuelta de la esquina
-- La dulce niña Carolina
-- Dale a tu cuerpo alegría Macarena
 -
 - Que se llama de apellido Vitorino
 - La reina de la noche, la diosa del vudú
