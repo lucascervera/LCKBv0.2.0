@@ -22,7 +22,7 @@
 - Cubatas en vaso de tubo
 - Como los cíngaros del desierto
 -
-- ¿Quién pudiera coger un DeLorean
+- un DeLorean yo quisiera
 - volver a dar cera y pulir cera
 - y una cassete en la riñonera
 - daría la vida entera
