@@ -23,4 +23,7 @@
 - no te rías de mí, no me arranques la piel
 - me supo dulce como la miel
 - Porque ya me ha quebrado los talones
-- me echó del casino de Torrelodones.
+- me echó del casino de Torrelodones
+- Diego tiene chulería y ese punto de alegría
+- Si estoy loca es cosa mía
+- Ave María, ¿cuándo serás mía?
