@@ -8,7 +8,7 @@
 -
 -
 - Bailar de lejos no es bailar
-- Noches de bohemia y de insurrección
+- noches de bohemia y de insurrección
 - las manos blancas de pintar
 - Imposibles de borrar
 - suspiros y llantos y oscura pasión
@@ -16,8 +16,8 @@
 - Yo quiero verte quiero verte bailar
 - Sufre mamón
 - al calor del amor en un bar
-- Qué difícil es pedir perdón
 - Pa ponerte guapa para ligar
+- Qué difícil es pedir perdón
 -
 - ¿Qué me has dado? Soy como Yordi Hurtado hago chas y aparezco a tu lado
 - que la detengan
