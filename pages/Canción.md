@@ -89,6 +89,11 @@
 - ¿Qué sabe nadie?
 - No dudaría.
 - Enamorado de la moda juvenil.
+- Ese raro diciembre.
+- Tanto amor guardado para ti.
+- Maneras de vivir
+- No controles.
+-
 -
 -
 -
