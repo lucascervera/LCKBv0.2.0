@@ -26,130 +26,128 @@
 -
 -
 - ## Lyrics
-- una sonrisa de repente en un bar
-- Bailar de lejos no es bailar
-- primero quieres ir a cenar
-- Pa' ponerte guapa pa' ligar
-- Buena paga y un chalet en las afueras
-- Pa' que te fijes en mí, y entonces me quieras.
-- Mira lo que se avecina a la vuelta de la esquina
-- Soldadito marinero, conociste a una sirena
-- alegría Macarena
-- te como a besos
--
-- Un DeLorean yo quisiera
-- para dar cera y pulir cera
-- en el estrit faiter subir de nivel
-- con naranjito tatuado en la piel
-- un talego en la riñonera
-- a mis vinilos siempre fiel
-- bebiendo leche de pantera
-- Yo sigo siendo aquel
-- Soy como Yordi Hurtado
-- para mí el tiempo no ha pasado
--
-- tanto tanto la quería
-- Ave María, ¿cuándo serás mía?
-- Noches de bohemia y de ilusión
-- suspiros y llantos y oscura pasión
-- Y un meneo que te pone juguetón
-- Yo la miro y ella no me dice nada
-- la fui, poco a poco, dando por perdida.
-- lo que pasa es que está intoxicada
-- pero la quiero a pesar de las heridas
-- Porque ya me ha quebrado los talones
-- me echó del casino de Torrelodones
-- La dulce niña Carolina
-- Que se llama de apellido Vitorino
-- La reina de la noche, la diosa del vudú
-- Y es que está hecha de plástico fino
-- Una mano en la cintura
-- Vete poniendo el disfraz de pecadora
-- Encadenada a noches de locura
-- Que es lo que se lleva ahora
-- Pensaré si queda alguna manera
-- te dedicas a insultar al camarero
-- Después de un invierno malo, una mala primavera
-- No importa lo que se venga, pa' que sepas que te quiero
-- Me muero por abrazarte y que me abraces tan fuerte.
-- Unas horas jugaré a quererte.
-- quiero verte, quiero verte
--
-- Un DeLorean yo quisiera
-- qué no daría yo por dar cera y pulir cera
-- en el estrit faiter subir de nivel
-- con naranjito tatuado en la piel
-- un talego en la riñonera
-- a mis vinilos siempre fiel
-- bebiendo leche de pantera
-- Yo sigo siendo aquel
-- ¿Qué me has dado? Soy como Yordi Hurtado
-- hago chas y aparezco a tu lado
--
-- Venezia tiene un color especial
-- Cuando zarpa el amor, los chicos se enamoran
-- Sigo buscando una sonrisa al calor del amor en un bar
-- Entre dos tierras estás
-- La raja de tu falda
-- baila baila bailando va
-- de qué depende?
-- Yo no quiero ser tu amante.
-- amante bandido
-- morreo
-- Voy a pasarmelo bien
-- ¿Quién me va a entregar sus emociones?
-- No me claves tus puñales.
-- 19 días y 500 noches
-- Soy así y así seguiré
-- Quiero tener tu presencia.
-- Camino Soria
-- Esa chica es mía
-- Yo quiero verte bailar
--
-- Corazón partío
-- ¿Qué sabe nadie?
-- No dudaría.
-- Enamorado de la moda juvenil.
-- Ese raro diciembre.
-- Tanto amor guardado para ti.
-- Maneras de vivir
-- No controles.
-- Fui a la orilla del río.
-- ¿Quién me tapará esta noche si hace frío?
-- lobo hombre
-- En tu fiesta me colé.
-- Es un escándalo.
-- En la plaza del pueblo.
-- Hace calor. Hace calor.
-- un beso y una negra flor en la escuela de calor.
-- un truhan, un señor
-- es morir de sabor de amor
-- Sin documentos
-- no estamos locos
-- Búscate un hombre que te quiera.
-- Me falta el aire.
-- El 7 de septiembre.
-- Insurrección
-- ¿Dónde estabas entonces?
-- Que la detengan.
-- En tu fiesta me colé.
-- La madre de José
-- Fijando fuerte.
-- Cuéntame un cuento.
-- Y que no te digan en la esquina.
-- Folou de líder
-- La camisa negra.
-- Devuélveme a mi chica
-- Paquito Chocolatero
-- Soldadito marinero
-- O te pego con el mechero
--
-- en un barco.
-- Chiquilla
-- Partiendo la pana
-- Cuando brilla el sol
-- Sufre mamón.
-- Qué difícil es pedir perdón.
+	- una sonrisa de repente en un bar
+	- Bailar de lejos no es bailar
+	- primero quieres ir a cenar
+	- Pa' ponerte guapa pa' ligar
+	- Buena paga y un chalet en las afueras
+	- Pa' que te fijes en mí, y entonces me quieras.
+	- Mira lo que se avecina a la vuelta de la esquina
+	- Soldadito marinero, conociste a una sirena
+	- alegría Macarena
+	- te como a besos
+	-
+	- Un DeLorean yo quisiera
+	- para dar cera y pulir cera
+	- en el estrit faiter subir de nivel
+	- con naranjito tatuado en la piel
+	- un talego en la riñonera
+	- a mis vinilos siempre fiel
+	- bebiendo leche de pantera
+	- Yo sigo siendo aquel
+	- Soy como Yordi Hurtado
+	- para mí el tiempo no ha pasado
+	-
+	- tanto tanto la quería
+	- Ave María, ¿cuándo serás mía?
+	- Noches de bohemia y de ilusión
+	- suspiros y llantos y oscura pasión
+	- Y un meneo que te pone juguetón
+	- Yo la miro y ella no me dice nada
+	- la fui, poco a poco, dando por perdida.
+	- lo que pasa es que está intoxicada
+	- pero la quiero a pesar de las heridas
+	- Porque ya me ha quebrado los talones
+	- me echó del casino de Torrelodones
+	- La dulce niña Carolina
+	- Que se llama de apellido Vitorino
+	- La reina de la noche, la diosa del vudú
+	- Y es que está hecha de plástico fino
+	- Una mano en la cintura
+	- Vete poniendo el disfraz de pecadora
+	- Encadenada a noches de locura
+	- Que es lo que se lleva ahora
+	- Pensaré si queda alguna manera
+	- te dedicas a insultar al camarero
+	- Después de un invierno malo, una mala primavera
+	- No importa lo que se venga, pa' que sepas que te quiero
+	- Me muero por abrazarte y que me abraces tan fuerte.
+	- Unas horas jugaré a quererte.
+	- quiero verte, quiero verte
+	-
+	- Un DeLorean yo quisiera
+	- qué no daría yo por dar cera y pulir cera
+	- en el estrit faiter subir de nivel
+	- con naranjito tatuado en la piel
+	- un talego en la riñonera
+	- a mis vinilos siempre fiel
+	- bebiendo leche de pantera
+	- Yo sigo siendo aquel
+	- ¿Qué me has dado? Soy como Yordi Hurtado
+	- hago chas y aparezco a tu lado
+	-
+	- Venezia tiene un color especial
+	- Cuando zarpa el amor, los chicos se enamoran
+	- Sigo buscando una sonrisa al calor del amor en un bar
+	- Entre dos tierras estás
+	- La raja de tu falda
+	- baila baila bailando va
+	- de qué depende?
+	- Yo no quiero ser tu amante.
+	- amante bandido
+	- morreo
+	- Voy a pasarmelo bien
+	- ¿Quién me va a entregar sus emociones?
+	- No me claves tus puñales.
+	- 19 días y 500 noches
+	- Soy así y así seguiré
+	- Quiero tener tu presencia.
+	- Camino Soria
+	- Esa chica es mía
+	- Yo quiero verte bailar
+	-
+	- Corazón partío
+	- ¿Qué sabe nadie?
+	- No dudaría.
+	- Enamorado de la moda juvenil.
+	- Ese raro diciembre.
+	- Tanto amor guardado para ti.
+	- Maneras de vivir
+	- No controles.
+	- Fui a la orilla del río.
+	- ¿Quién me tapará esta noche si hace frío?
+	- lobo hombre
+	- En tu fiesta me colé.
+	- Es un escándalo.
+	- En la plaza del pueblo.
+	- Hace calor. Hace calor.
+	- un beso y una negra flor en la escuela de calor.
+	- un truhan, un señor
+	- es morir de sabor de amor
+	- Sin documentos
+	- no estamos locos
+	- Búscate un hombre que te quiera.
+	- Me falta el aire.
+	- El 7 de septiembre.
+	- Insurrección
+	- ¿Dónde estabas entonces?
+	- Que la detengan.
+	- En tu fiesta me colé.
+	- La madre de José
+	- Fijando fuerte.
+	- Cuéntame un cuento.
+	- Y que no te digan en la esquina.
+	- Folou de líder
+	- La camisa negra.
+	- Devuélveme a mi chica
+	- Paquito Chocolatero
+	- Soldadito marinero
+	- O te pego con el mechero
+	-
+	- en un barco.
+	- Chiquilla
+	- Partiendo la pana
+	- Cuando brilla el sol
 -
 -
 -
