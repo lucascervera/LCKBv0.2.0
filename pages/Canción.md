@@ -101,8 +101,9 @@
 - En la plaza del pueblo.
 - Hace calor. Hace calor.
 - un beso y una negra flor en la escuela de calor.
+- un truhan, un señor
 - es morir de sabor de amor
--
+- Sin documentos.
 - Devuélveme a mi chica
 - Paquito Chocolatero
 - Soldadito marinero
