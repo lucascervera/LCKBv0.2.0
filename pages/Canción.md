@@ -16,7 +16,7 @@
 - alegría Macarena
 - Un raro diciembre en tu fiesta me colé
 - Lobo hombre conoce sirena
-- y yo sigo aquí baila baila bailando va con la madre de Jose, que la detengan bailando el aserejé, un yo Soy así y así seguiré
+- baila baila bailando la madre de Jose, que la detengan bailando el aserejé, yo sigo aquí y así seguiré
   
   Cuando zarpa el amor ¿Dónde estabas entonces?
   me muero por abrazarte Pisando fuerte
