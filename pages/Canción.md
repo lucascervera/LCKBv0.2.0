@@ -8,7 +8,7 @@
 -
 - Venezia tiene un color especial
 - Cuando zarpa el amor, los chicos se enamoran
--
+- tanto tanto la quería Ave María, ¿cuándo serás mía? poco a poco, dando por perdía
 - Yo no quiero ser tu amante bandido Corazón partío
 -
 - Noches de bohemia y de ilusión suspiros y llantos y oscura pasión
@@ -62,7 +62,6 @@
 	- Soy como Yordi Hurtado
 	- para mí el tiempo no ha pasado
 	-
-	- tanto tanto la quería Ave María, ¿cuándo serás mía? poco a poco, dando por perdida.
 	- lo que pasa es que está intoxicada
 	- a pesar de las heridas
 	- la diosa del vudú
