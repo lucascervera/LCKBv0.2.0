@@ -108,6 +108,11 @@
 - Búscate un hombre que te quiera.
 - Me falta el aire.
 - El 7 de septiembre.
+- Insurrección
+- ¿Dónde estabas entonces?
+- Que la detengan.
+- En tu fiesta me colé.
+- La madre de José
 -
 - La camisa negra.
 - Devuélveme a mi chica
