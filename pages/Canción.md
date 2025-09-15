@@ -100,8 +100,11 @@
 - En la plaza del pueblo.
 - es morir de amor
 - Devuélveme a mi chica
--
+- Paquito Chocolatero
+- Soldadito marinero
 - O te pego con el mechero
+- Partiendo la pana.
+-
 -
 -
 -
