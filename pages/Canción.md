@@ -9,11 +9,11 @@
 - un talego en la riñonera
 - bebiendo leche de pantera
 -
-- Buena paga y un chalet en las afueras
-- Pa' que te fijes en mí, y entonces me quieras
+- me despierten besos
 -
-- alegría Macarena
-- conociste a una sirena
+- y yo sigo aquí
+-
+- alegría Macarena conociste a una sirena
 -
 - de apellido Vitorin hecha de plástico fino
 - racatanga
