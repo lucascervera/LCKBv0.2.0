@@ -1,4 +1,5 @@
--
+- Yo quiero verte bailar, de lejos no es bailar
+- Pa ponerte guapa para ligar al calor del amor en un bar.
 -
 - ## Lyrics
 - Sigo buscando una sonrisa de repente en un bar
