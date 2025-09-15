@@ -98,7 +98,236 @@
 - Goonies
 - V
 -
--
+- Mil campanas suenan en mi corazón
+- Te voy a escribir la canción más bonita del mundo
+- Como un lobo voy detrás de ti
+- La raja de tu falda
+- Si tú no estás aquí, me falta el aire
+- Besos de tu boca, de tu boquita
+- Por la boca vive el pez
+- Cuando zarpa el amor, los chicos se enamoran
+- Yo te quiero con limón y sal, yo te quiero tal y como estás
+- Qué no daría yo por tener tu mirada
+- Sigo buscando una sonrisa de repente en un bar
+- Devuélveme a mi chica, o te meto con la vecina
+- Voy a pasármelo bien
+- Insurrección, ¿a dónde estabas entonces?
+- Déjame, no juegues más conmigo
+- Chica de ayer, te tengo que dejar
+- El roce de tu cuerpo es todo lo que quiero
+- Antes de que cuente diez
+- Nada valgo sin tu amor
+- Si no te hubiera conocido
+- Qué difícil es pedir perdón
+- Quisiera ser el sueño que jamás compartirías
+- Si te vas, si te vas, si te marchas
+- Quién me va a entregar sus emociones
+- Quién me va a pedir que nunca le abandone
+- La gasolina que tú me das
+- Torero, pon el alma en el ruedo
+- Depende, ¿de qué depende? De según cómo se mire todo depende
+- Eres la luz que alumbra mi vida
+- Sueño contigo, que me has dado
+- Maldito duende
+- Entre dos tierras estás
+- Héroe de leyenda
+- Hace calor, hace calor
+- A quién le importa lo que yo haga
+- Bailando, me paso el día bailando
+- Ni tú ni nadie puede cambiarme
+- Me cuesta tanto olvidarte
+- Hijo de la luna
+- Cruz de navajas por una mujer
+- Mujer contra mujer
+- Ay, qué pesado, qué pesado
+- Hoy no me puedo levantar
+- Barco a Venus
+- No controles mi forma de vestir
+- En algún lugar de un gran país
+- Escuela de calor
+- Veneno en la piel
+- Camino Soria
+- Cuéntame un cuento
+- La negra flor
+- Cómo pudiste hacerme esto a mí
+- Carolina, trátame bien
+- Flaca, no me claves tus puñales
+- Llamando a la Tierra
+- Insoportable, qué suerte la mía
+- Te quiero igual que se quiere por primera vez
+- Copenhague, qué lejos se ve
+- Sin ti no soy nada
+- El universo sobre mí
+- Moriría por vos
+- Sin documentos
+- Salir corriendo
+- Días de verano
+- Estrella de mar
+- Quiero vivir
+- Lobo hombre en París
+- Al calor del amor en un bar
+- Sabor de amor
+- Cien gaviotas dónde irán
+- Chiquilla, dime por qué
+- Para no verte más
+- La chica ye-yé
+- Salta, salta conmigo
+- Vivir así es morir de amor
+- Jamás
+- Se me enamora el alma
+- Libre
+- Fiesta
+- El sitio de mi recreo
+- La chispa adecuada
+- Sirena varada
+- Mar adentro
+- Me gusta ser una zorra
+- Quiero tener tu presencia
+- Escuela de calor en el cuerpo
+- Cadillac solitario
+- El ritmo del garaje
+- Rock and roll en la plaza del pueblo
+- Venezia tiene un color especial
+- El fin del mundo llegará
+- Grita devórame otra vez
+- Devórame otra vez que esta noche tengo ganas
+- Y no amanece, y no amanece
+- Quiero besarte lentamente
+- Amante bandido
+- Linda flor de un día
+- Colgado en tus manos
+- Te regalo mi amor
+- Si tú me miras me llevas al cielo
+- Corazón partío
+- Y si fuera ella
+- Pisando fuerte
+- Lo noto, lo noto en mi cabeza
+- La madre de José
+- Besos en la frente
+- Nunca el tiempo es perdido
+- Se dejaba llevar por ti
+- Qué bonito es querer
+- Con la frente marchita
+- 19 días y 500 noches
+- Nos sobran los motivos
+- Pacto entre caballeros
+- Y nos dieron las diez
+- Contigo me voy
+- Princesa, no hay mejor manera de decir te quiero
+- Pongamos que hablo de Madrid
+- Calle Melancolía
+- Peor para el sol
+- Ruido, ruido, quiero más ruido
+- No hay nada mejor que escribir una canción
+- Rosita, qué será de ti
+- Al alba
+- Si tú me dices ven lo dejo todo
+- Paraíso de las islas
+- El toro y la luna
+- Enamorado de la moda juvenil
+- Voy en mi coche y no puedo parar
+- La culpa fue del cha-cha-chá
+- Voy a ser el rey del glam
+- Pégame con tu bolso
+- Chas y aparezco a tu lado
+- Me enamoré de un ser extraño
+- Esta es mi banda
+- En tu fiesta me colé
+- Me colé en una fiesta
+- Cruz de Navajas, por una mujer
+- Mecano en mi vida
+- Hoy es el día perfecto
+- Cosas de la edad
+- Me huele a soledad
+- No hay marcha en Nueva York
+- El 7 de septiembre
+- Hijo de la luna lloraba
+- Perdido en mi habitación
+- Ay qué pesado, siempre pensando
+- Más que nada en la vida
+- El blues del autobús
+- Esa chica es mía
+- Y cómo es él
+- Toda la casa es un volcán
+- No estamos locos, que sabemos lo que queremos
+- Paquito el chocolatero en la verbena
+- Y volar, volar
+- Búscate un hombre que te quiera
+- Cuando brille el sol
+- Vuelvo a traficar
+- Perdido en mis sueños
+- La culpa fue mía por no seguir la corriente
+- Tu calorro
+- Partiendo la pana
+- Vino tinto y carcajadas
+- Besos con lengua y sin cuidado
+- Que la detengan es una mentirosa
+- No estarás más sola
+- Cuánto más me llenas, más vacío me dejas
+- Te echo de menos
+- Volver a empezar
+- Los abrazos rotos
+- Eres tonto, tío
+- Besos de mentira
+- Puede ser que la respuesta sea no preguntarse por qué
+- La lista de la compra
+- Pienso en aquella tarde
+- El del medio de los Chichos
+- Te envío poemas de mi puño y letra
+- La flaca se marchó
+- Fui a la orilla del río
+- Verde que te quiero verde
+- La marea de la vida nos arrastra
+- Vivir para sentir que la vida es un juego
+- Soldadito marinero conociste a una sirena
+- Por las noches
+- Me estás atrapando otra vez
+- Abrazado a la tristeza
+- Feo, fuerte y formal
+- El ritmo del mundo me lleva
+- Maneras de vivir
+- Siempre hay por qué vivir
+- El rompeolas de mi corazón
+- Todo a pulmón
+- Quiero gritar que te quiero
+- Te pintaron pajaritos en el aire
+- Suavecito, suavecito
+- La camisa negra
+- Volverte a ver
+- Me enamora que me hables con tu boca
+- A Dios le pido
+- Camisa de fuerza para este loco
+- Te extraño más que nunca
+- Que nadie calle tu verdad
+- Color esperanza
+- Sueña el mundo
+- Que canten los niños
+- Por el amor de esa mujer
+- Ella se fue
+- Lluvia de mayo en el balcón
+- María se fue en la lluvia
+- Por el bulevar de los sueños rotos
+- No dudaría
+- Mediterráneo, qué bonito es tu mar
+- Penélope con su bolso de piel marrón
+- Para la libertad
+- Mi querida España
+- Qué sabe nadie
+- Escándalo es un escándalo
+- Y nos dieron las doce
+- Y cayó rendida
+- Un beso y una flor
+- Libre como el viento
+- Te quiero, te quiero
+- Un velero llamado libertad
+- Soy un truhán, soy un señor
+- El amor es azul
+- Será porque te amo
+- Sufre mamón
+- Voy a pasármelo bien esta noche
+- Qué bien me lo paso cuando estoy contigo
+- Me enamoré de ti y qué
+- Me muero por besarte
 -
 -
 -
