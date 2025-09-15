@@ -75,6 +75,9 @@
 - Yo no quiero ser tu amante.
 - amante bandido
 - morreo
+- Voy a pasarmelo bien
+- ¿Quién me va a entregar sus emociones?
+- No me claves tus puñales.
 -
 -
 -
