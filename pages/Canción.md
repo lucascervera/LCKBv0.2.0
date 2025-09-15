@@ -18,6 +18,8 @@
 - me ha quebrado los talones
 - me echó del casino de Torrelodones
 -
+- un beso y una negra flor en la escuela de calor
+-
 - ## Lyrics
 - Sigo buscando una sonrisa de repente en un bar
 - Bailar de lejos no es bailar
