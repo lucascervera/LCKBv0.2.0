@@ -65,6 +65,10 @@
 - Soy como Yordi Hurtado
 - para mí el tiempo no ha pasado
 -
+- Venezia tiene un color especial
+-
+-
+-
 -
 -
 - cassetes
