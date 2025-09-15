@@ -1,8 +1,9 @@
-- Un raro diciembre en tu fiesta me colé
+- Aquel raro diciembre en tu fiesta me colé
 - Lobo hombre conoce sirena
 - baila baila bailando el aserejé
 - la madre de Jose
-- que la detengan bailando el aserejé, yo sigo aquí y así seguiré
+- que la detengan
+- yo sigo aquí y así seguiré
 -
 - Noches de bohemia y de insurrección
 - suspiros y llantos y oscura pasión
