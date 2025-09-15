@@ -78,6 +78,10 @@
 - Voy a pasarmelo bien
 - ¿Quién me va a entregar sus emociones?
 - No me claves tus puñales.
+- 19 días y 500 noches
+- Soy así y así seguiré
+- Quiero tener tu presencia.
+-
 -
 -
 -
