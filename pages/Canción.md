@@ -2,6 +2,8 @@
 - Pa ponerte guapa para ligar al calor del amor en un bar
 -
 - Cuando zarpa el amor, los chicos se enamoran
+- un beso y una negra flor en la escuela de calor
+- Un Ford Fiesta blanco y un tractor amarillo.
 -
 - una mala primavera
 - un talego en la riñonera
@@ -13,14 +15,11 @@
 - alegría Macarena
 - conociste a una sirena
 -
-- de apellido Vitorino
-- de plástico fino
+- de apellido Vitorin hecha de plástico fino
 -
 -
 -
-- un beso y una negra flor en la escuela de calor
 -
-- Un Ford Fiesta blanco y un tractor amarillo.
 -
 - ## Lyrics
 - una sonrisa de repente en un bar
