@@ -15,6 +15,9 @@
 -
 - conociste a una sirena
 -
+- me ha quebrado los talones
+- me echó del casino de Torrelodones
+-
 - ## Lyrics
 - Sigo buscando una sonrisa de repente en un bar
 - Bailar de lejos no es bailar
