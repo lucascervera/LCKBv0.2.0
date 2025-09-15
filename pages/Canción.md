@@ -8,7 +8,7 @@
 -
 - Venezia tiene un color especial
 - Cuando zarpa el amor, los chicos se enamoran
-- tanto tanto la quería Ave María, ¿cuándo serás mía? poco a poco, dando por perdía
+- Ave María Esa chica es mía tanto tanto la quería  poco a poco, dando por perdía
 - Yo no quiero ser tu amante bandido Corazón partío
 -
 - Noches de bohemia y de ilusión suspiros y llantos y oscura pasión
@@ -97,7 +97,7 @@
 	- Soy así y así seguiré
 	- Quiero tener tu presencia.
 	- Camino Soria
-	- Esa chica es mía
+	-
 	- Yo quiero verte bailar
 	-
 	-
