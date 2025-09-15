@@ -8,10 +8,13 @@
 - Imposibles de borrar
 - Pa ponerte guapa para ligar al calor del amor en un bar
 - Yo quiero verte quiero verte bailar de lejos no es bailar
-  ¿Qué me has dado? Soy como Yordi Hurtado hago chas y aparezco a tu lado
-  ¿Qué sabe nadie?
-  Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
-  En la plaza del pueblo conociste a una sirena con su ritmo racatanga, alegría Macarena
+-
+- ¿Qué me has dado? Soy como Yordi Hurtado hago chas y aparezco a tu lado
+-
+- ¿Qué sabe nadie?
+- Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
+- En la plaza del pueblo conociste a una sirena
+- alegría Macarena
   
   Un raro diciembre En tu fiesta me colé,y yo sigo aquí baila baila bailando va con la madre de Jose, que la detengan bailando el aserejé, un lobo hombre, yo Soy así y así seguiré
   
