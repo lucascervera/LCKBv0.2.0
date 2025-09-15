@@ -81,6 +81,9 @@
 - 19 días y 500 noches
 - Soy así y así seguiré
 - Quiero tener tu presencia.
+- Camino Soria
+- Esa chica es mía
+- Yo quiero verte bailar
 -
 -
 -
