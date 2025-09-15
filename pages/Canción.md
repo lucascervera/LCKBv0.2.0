@@ -20,6 +20,8 @@
 -
 - un beso y una negra flor en la escuela de calor
 -
+- Un Ford Fiesta blanco y un tractor amarillo.
+-
 - ## Lyrics
 - una sonrisa de repente en un bar
 - Bailar de lejos no es bailar
