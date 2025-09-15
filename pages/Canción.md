@@ -1,3 +1,51 @@
+- Noches de bohemia y de insurrección
+- suspiros y llantos y oscura pasión
+- Sufre mamón
+- Qué difícil es pedir perdón
+-
+- Bailar de lejos no es bailar
+- las manos blancas de pintar
+- Imposibles de borrar
+- Pa ponerte guapa para ligar al calor del amor en un bar
+- Yo quiero verte quiero verte bailar de lejos no es bailar
+  ¿Qué me has dado? Soy como Yordi Hurtado hago chas y aparezco a tu lado
+  ¿Qué sabe nadie?
+  Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
+  En la plaza del pueblo conociste a una sirena con su ritmo racatanga, alegría Macarena
+  
+  Un raro diciembre En tu fiesta me colé,y yo sigo aquí baila baila bailando va con la madre de Jose, que la detengan bailando el aserejé, un lobo hombre, yo Soy así y así seguiré
+  
+  Cuando zarpa el amor ¿Dónde estabas entonces?
+  me muero por abrazarte Pisando fuerte
+  No controles entregar tus emociones No me claves tus puñales
+  quiero verte, quiero verte
+  
+  Chiquilla, Yo no quiero ser tu amante bandío
+  No importa lo que se venga Quiero tener tu presencia
+  Sin documentos, Con el Corazón partío
+  con un For Fiesta blanco y un tractor amarillo
+  disparando pan de higo Fui a la orilla del río
+  
+  es morir de sabor de amor
+  Venezia tiene un color especial
+  camisa negra, un beso y una negra flor,
+  soy un truhán soy un señor
+  
+  Camino Soria los chicos se enamoran de la moda juvenil
+  
+  Y que no le digan en la esquina a La dulce niña Carolina de apellido Vitorino hecha de plástico fino Búscate un hombre que te quiera con la camisa negra una mala primavera
+  
+  Esa chica es mía
+  y yo la quiero
+  tanto tanto la quería que no dudaría
+  Soldadito marinero Paquito Chocolatero O te pego con el mechero
+  Ave María 
+   tanto tanto la quería No dudaría
+-
+-
+-
+-
+-
 -
 - ¿de qué depende? El 7 de septiembre Ese raro diciembre
 -
