@@ -93,8 +93,15 @@
 - Tanto amor guardado para ti.
 - Maneras de vivir
 - No controles.
+- Fui a la orilla del río.
+- lobo hombre
+- En tu fiesta me colé.
+- Es un escándalo.
+- En la plaza del pueblo.
+- es morir de amor
+- Devuélveme a mi chica
 -
--
+- O te pego con el mechero
 -
 -
 -
