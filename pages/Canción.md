@@ -47,7 +47,9 @@
 -
 - Y que no le digan en la esquina
 - dulce niña Carolina de apellido Vitorino
-- hecha de plástico fino Búscate un hombre que te quiera con la camisa negra una mala primavera
+- Búscate un hombre que te quiera
+- hecha de plástico fino
+- con camisa negra una mala primavera
   
   Esa chica es mía
   y yo la quiero
