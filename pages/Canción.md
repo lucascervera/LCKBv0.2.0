@@ -29,7 +29,6 @@
 -
 - tanto tanto la quería
 - Ave María, ¿cuándo serás mía?
-- tiene chulería y ese punto de alegría
 - Noches de bohemia y de ilusión
 - suspiros y llantos y oscura pasión
 - Y un meneo que te pone juguetón
