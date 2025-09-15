@@ -14,9 +14,9 @@
 - Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
 - En la plaza del pueblo conociste a una sirena
 - alegría Macarena
-- Un raro diciembre En tu fiesta me colé
-- Lobo o hombre, conoces sirena
-- y yo sigo aquí baila baila bailando va con la madre de Jose, que la detengan bailando el aserejé, un lobo hombre, yo Soy así y así seguiré
+- Un raro diciembre en tu fiesta me colé
+- Lobo hombre conoce sirena
+- y yo sigo aquí baila baila bailando va con la madre de Jose, que la detengan bailando el aserejé, un yo Soy así y así seguiré
   
   Cuando zarpa el amor ¿Dónde estabas entonces?
   me muero por abrazarte Pisando fuerte
