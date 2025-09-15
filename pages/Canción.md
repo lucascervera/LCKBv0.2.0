@@ -26,6 +26,7 @@
 - Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
 -
 - Aún recuerdo aquel pasado
+-
 - Hago chas y aparezco a tu lado
 - Soy como Jordi Hurtado
 - Yo sigo siendo aquel
