@@ -11,14 +11,12 @@
 - Pa' que te fijes en mí, y entonces me quieras
 -
 - alegría Macarena
+- conociste a una sirena
 -
 - de apellido Vitorino
 - de plástico fino
 -
-- conociste a una sirena
 -
-- me ha quebrado los talones
-- me echó del casino de Torrelodones
 -
 - un beso y una negra flor en la escuela de calor
 -
