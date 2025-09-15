@@ -62,7 +62,7 @@
 - a mis vinilos siempre fiel
 - bebiendo leche de pantera
 - Yo sigo siendo aquel
-- ¿QSoy como Yordi Hurtado
+- ¿Qué me has dado? Soy como Yordi Hurtado
 - para mí el tiempo no ha pasado
 -
 - Venezia tiene un color especial
@@ -73,6 +73,7 @@
 - baila baila bailando va
 - de qué depende?
 - Yo no quiero ser tu amante.
+- amante bandido
 -
 -
 -
