@@ -19,6 +19,8 @@
 - racatanga
 - aserejé
 - las manos blancas de pintar Imposibles de borrar
+- sueño su boca si de verdad te toca
+- La dulce niña Carolina
 -
 -
 -
@@ -31,12 +33,9 @@
 - Buena paga y un chalet en las afueras
 - Pa' que te fijes en mí, y entonces me quieras.
 - Mira lo que se avecina a la vuelta de la esquina
-- La dulce niña Carolina
 - Soldadito marinero, conociste a una sirena
 - alegría Macarena
-- sueño su boca si de verdad te toca
 - te como a besos
-- Que te voy queriendo cada día un poco más
 -
 - Un DeLorean yo quisiera
 - para dar cera y pulir cera
