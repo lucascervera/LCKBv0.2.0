@@ -115,12 +115,16 @@
 - La madre de José
 - Fijando fuerte.
 - Cuéntame un cuento.
--
+- Y que no te digan en la esquina.
+- Folou de líder
 - La camisa negra.
 - Devuélveme a mi chica
 - Paquito Chocolatero
 - Soldadito marinero
 - O te pego con el mechero
+-
+- en un barco.
+- Chiquilla
 - Partiendo la pana
 - Cuando brilla el sol
 - Sufre mamón.
