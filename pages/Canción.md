@@ -42,8 +42,7 @@
 - Yo no quiero ser tu amante bandío
 - No importa lo que se venga Quiero tener tu presencia
 - Sin documentos, Con el Corazón partío
-- con un For Fiesta blanco y un tractor amarillo
-- disparando pan de higo Fui a la orilla del río
+- en tractor amarillo fui a la orilla del río
 -
 - es morir de sabor de amor
 - Venezia tiene un color especial
