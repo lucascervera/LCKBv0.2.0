@@ -6,14 +6,14 @@
 -
 - yo sigo aquí y así seguiré
 -
-- Noches de bohemia y de insurrección
-- suspiros y llantos y oscura pasión
 - Sufre mamón
 - Qué difícil es pedir perdón
 -
 - Bailar de lejos no es bailar
+- Noches de bohemia y de insurrección
 - las manos blancas de pintar
 - Imposibles de borrar
+- suspiros y llantos y oscura pasión
 - Pa ponerte guapa para ligar al calor del amor en un bar
 - Yo quiero verte quiero verte bailar de lejos no es bailar
 -
