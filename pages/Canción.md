@@ -70,18 +70,13 @@
 	- pero la quiero a pesar de las heridas
 	- Porque ya me ha quebrado los talones
 	- me echó del casino de Torrelodones
-	- La dulce niña Carolina
-	- Que se llama de apellido Vitorino
-	- La reina de la noche, la diosa del vudú
-	- Y es que está hecha de plástico fino
+	- la diosa del vudú
 	- Una mano en la cintura
 	- Vete poniendo el disfraz de pecadora
 	- Encadenada a noches de locura
 	- Que es lo que se lleva ahora
-	- Pensaré si queda alguna manera
-	- te dedicas a insultar al camarero
-	- Después de un invierno malo, una mala primavera
-	- No importa lo que se venga, pa' que sepas que te quiero
+	- una mala primavera
+	- No importa lo que se venga
 	- Me muero por abrazarte y que me abraces tan fuerte.
 	- Unas horas jugaré a quererte.
 	- quiero verte, quiero verte
