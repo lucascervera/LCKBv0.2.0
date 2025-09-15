@@ -12,7 +12,6 @@
 - ¿Qué me has dado? Soy como Yordi Hurtado hago chas y aparezco a tu lado
 -
 - Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
-- En la plaza del pueblo conociste a una sirena
 - alegría Macarena
 - Un raro diciembre en tu fiesta me colé
 - Lobo hombre conoce sirena
