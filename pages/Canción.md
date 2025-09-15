@@ -27,24 +27,27 @@
 -
 -
 - Cuando zarpa el amor ¿Dónde estabas entonces?
-- me muero por abrazarte Pisando fuerte
+- me muero por conocerte
+- Pisando fuerte
 - No controles entregar tus emociones No me claves tus puñales
 - quiero verte, quiero verte
-  
-  Chiquilla, Yo no quiero ser tu amante bandío
-  No importa lo que se venga Quiero tener tu presencia
-  Sin documentos, Con el Corazón partío
-  con un For Fiesta blanco y un tractor amarillo
-  disparando pan de higo Fui a la orilla del río
-  
-  es morir de sabor de amor
-  Venezia tiene un color especial
-  camisa negra, un beso y una negra flor,
-  soy un truhán soy un señor
-  
-  Camino Soria los chicos se enamoran de la moda juvenil
-  
-  Y que no le digan en la esquina a La dulce niña Carolina de apellido Vitorino hecha de plástico fino Búscate un hombre que te quiera con la camisa negra una mala primavera
+-
+- Chiquilla, Yo no quiero ser tu amante bandío
+- No importa lo que se venga Quiero tener tu presencia
+- Sin documentos, Con el Corazón partío
+- con un For Fiesta blanco y un tractor amarillo
+- disparando pan de higo Fui a la orilla del río
+-
+- es morir de sabor de amor
+- Venezia tiene un color especial
+- camisa negra, un beso y una negra flor,
+- soy un truhán soy un señor
+-
+- los chicos se enamoran de la moda juvenil
+-
+- Y que no le digan en la esquina
+- dulce niña Carolina de apellido Vitorino
+- hecha de plástico fino Búscate un hombre que te quiera con la camisa negra una mala primavera
   
   Esa chica es mía
   y yo la quiero
