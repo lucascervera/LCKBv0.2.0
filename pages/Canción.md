@@ -63,7 +63,7 @@
 - bebiendo leche de pantera
 - Yo sigo siendo aquel
 - ¿Qué me has dado? Soy como Yordi Hurtado
-- para mí el tiempo no ha pasado chas y aparezco a tu lado
+- hago chas y aparezco a tu lado
 -
 - Venezia tiene un color especial
 - Cuando zarpa el amor, los chicos se enamoran
@@ -74,6 +74,7 @@
 - de qué depende?
 - Yo no quiero ser tu amante.
 - amante bandido
+- morreo
 -
 -
 -
