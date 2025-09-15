@@ -6,16 +6,17 @@
 -
 - yo sigo aquí y así seguiré
 -
-- Sufre mamón
-- Qué difícil es pedir perdón
 -
 - Bailar de lejos no es bailar
 - Noches de bohemia y de insurrección
 - las manos blancas de pintar
 - Imposibles de borrar
 - suspiros y llantos y oscura pasión
+-
+- Yo quiero verte quiero verte bailar
+- Sufre mamón
 - Pa ponerte guapa para ligar al calor del amor en un bar
-- Yo quiero verte quiero verte bailar de lejos no es bailar
+	- Qué difícil es pedir perdón
 -
 - ¿Qué me has dado? Soy como Yordi Hurtado hago chas y aparezco a tu lado
 - que la detengan
