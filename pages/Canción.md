@@ -47,10 +47,9 @@
 -
 - es morir de sabor de amor
 - Venezia tiene un color especial
+- los chicos se enamoran de la moda juvenil
 - camisa negra, un beso y una negra flor,
 - soy un truhán soy un señor
--
-- los chicos se enamoran de la moda juvenil
 -
 - Y que no le digan en la esquina
 - dulce niña Carolina de apellido Vitorino
