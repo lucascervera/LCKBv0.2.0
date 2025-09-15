@@ -39,7 +39,7 @@
 - No me claves tus puñales
 - quiero verte, quiero verte
 -
-- Chiquilla, Yo no quiero ser tu amante bandío
+- Yo no quiero ser tu amante bandío
 - No importa lo que se venga Quiero tener tu presencia
 - Sin documentos, Con el Corazón partío
 - con un For Fiesta blanco y un tractor amarillo
@@ -48,14 +48,13 @@
 - es morir de sabor de amor
 - Venezia tiene un color especial
 - camisa negra, un beso y una negra flor,
+- son maneras de vivir
 - soy un truhán soy un señor
--
-- los chicos se enamoran de la moda juvenil
 -
 - Y que no te digan en la esquina
 - Búscate un hombre que te quiera
-- tanto tanto la quería que no dudaría
-- con camisa negra una mala primavera
+- tanto tanto la quería
+- vivo una mala primavera
 - Ave María Esa chica es mía
 -
 -
