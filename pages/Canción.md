@@ -31,8 +31,8 @@
 - Soy como Jordi Hurtado
 - Yo sigo siendo aquel
 -
-- Cuando zarpa el amor ¿Dónde estabas entonces?
 - me muero por conocerte
+- Cuando zarpa el amor ¿Dónde estabas entonces?
 - Pisando fuerte
 - No controles entregar tus emociones No me claves tus puñales
 - quiero verte, quiero verte
