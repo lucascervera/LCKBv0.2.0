@@ -26,11 +26,10 @@
 - Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
 -
 - Aún recuerdo aquel pasado
--
+- naranjito tatuado en la piel
 - Hago chas y aparezco a tu lado
 - Soy como Jordi Hurtado
 - Yo sigo siendo aquel
--
 -
 - Cuando zarpa el amor ¿Dónde estabas entonces?
 - me muero por conocerte
