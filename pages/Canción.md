@@ -99,6 +99,8 @@
 - En tu fiesta me colé.
 - Es un escándalo.
 - En la plaza del pueblo.
+- Hace calor. Hace calor.
+- La negra flor en la escuela de calor.
 - es morir de amor
 - Devuélveme a mi chica
 - Paquito Chocolatero
@@ -106,6 +108,7 @@
 - O te pego con el mechero
 - Partiendo la pana
 - Cuando brilla el sol
+- Sufre mamón.
 - Qué difícil es pedir perdón.
 -
 -
