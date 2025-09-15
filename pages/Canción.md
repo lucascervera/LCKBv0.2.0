@@ -26,8 +26,10 @@
 - me muero por conocerte
 - Cuando zarpa el amor
 - zarpa pisando fuerte
+-
 - No controles entregar tus emociones
 - No me claves tus puñales
+- yo sigo aquí y así seguiré
 - quiero verte, quiero verte
 -
 - Yo no quiero ser tu amante bandío
