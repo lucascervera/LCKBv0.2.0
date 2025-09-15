@@ -5,6 +5,9 @@
 - un beso y una negra flor en la escuela de calor
 - Un Ford Fiesta blanco y un tractor amarillo.
 -
+- Venezia tiene un color especial
+- Cuando zarpa el amor, los chicos se enamoran
+-
 - una mala primavera
 - un talego en la riñonera
 - bebiendo leche de pantera
@@ -120,9 +123,6 @@
 	- Es un escándalo.
 	- En la plaza del pueblo.
 	- Hace calor. Hace calor.
-	- un beso y una negra flor en la escuela de calor.
-	- un truhan, un señor
-	- es morir de sabor de amor
 	- Sin documentos
 	- no estamos locos
 	- Búscate un hombre que te quiera.
