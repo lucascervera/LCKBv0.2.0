@@ -45,8 +45,14 @@
 - Y que no te digan en la esquina
 - Búscate un hombre que te quiera
 - tanto tanto la quería
-- vivo una mala primavera
+- es una mala primavera
 - Ave María Esa chica es mía
+-
+- Aún recuerdo aquel pasado
+- naranjito tatuado en la piel
+- Hago chas y aparezco a tu lado
+- Soy como Jordi Hurtado
+- Yo sigo siendo aquel
 -
 -
 -
