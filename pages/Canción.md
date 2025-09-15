@@ -105,7 +105,11 @@
 - es morir de sabor de amor
 - Sin documentos
 - no estamos locos
+- Búscate un hombre que te quiera.
+- Me falta el aire.
+- El 7 de septiembre.
 -
+- La camisa negra.
 - Devuélveme a mi chica
 - Paquito Chocolatero
 - Soldadito marinero
