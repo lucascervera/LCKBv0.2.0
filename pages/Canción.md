@@ -18,6 +18,7 @@
 - de apellido Vitorin hecha de plástico fino
 - racatanga
 - aserejé
+- las manos blancas de pintar Imposibles de borrar
 -
 -
 -
@@ -32,12 +33,9 @@
 - Mira lo que se avecina a la vuelta de la esquina
 - La dulce niña Carolina
 - Soldadito marinero, conociste a una sirena
-- Dale a tu cuerpo alegría Macarena
-- Hace tanto que sueño su boca
-- Y te dolerá, si de verdad te toca
-- Con las manos blancas de pintar
-- Imposibles de borrar
-- Y si te como a besos, sabrás.
+- alegría Macarena
+- sueño su boca si de verdad te toca
+- te como a besos
 - Que te voy queriendo cada día un poco más
 -
 - Un DeLorean yo quisiera
