@@ -70,6 +70,8 @@
 - Sigo buscando una sonrisa al calor del amor en un bar
 - Entre dos tierras estás
 - La raja de tu falda
+- baila baila bailando va
+- de qué depende?
 -
 -
 -
