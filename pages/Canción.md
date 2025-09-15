@@ -52,15 +52,11 @@
 -
 - los chicos se enamoran de la moda juvenil
 -
-- tanto tanto la quería que no dudaría
-- Y que no le digan en la esquina
+- Y que no te digan en la esquina
 - Búscate un hombre que te quiera
+- tanto tanto la quería que no dudaría
 - con camisa negra una mala primavera
 - Ave María Esa chica es mía
-- y yo la quiero
-- Soldadito marinero Paquito Chocolatero O te pego con el mechero
-  
-   tanto tanto la quería No dudaría
 -
 -
 -
