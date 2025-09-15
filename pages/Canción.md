@@ -2,6 +2,7 @@
 - Pa ponerte guapa para ligar al calor del amor en un bar
 -
 - Cuando zarpa el amor, los chicos se enamoran
+- No me claves tus puñales
 - un beso y una negra flor en la escuela de calor
 - Un Ford Fiesta blanco y un tractor amarillo.
 -
@@ -11,7 +12,7 @@
 - Yo no quiero ser tu amante bandido Corazón partío
 -
 - Noches de bohemia y de ilusión suspiros y llantos y oscura pasión
--
+- entregar sus emociones
 - un beso y una negra flor en la escuela de calor.
 - un truhan, un señor es morir de sabor de amor
 -
@@ -61,9 +62,7 @@
 	- Soy como Yordi Hurtado
 	- para mí el tiempo no ha pasado
 	-
-	- tanto tanto la quería
-	- Ave María, ¿cuándo serás mía?
-	- la fui, poco a poco, dando por perdida.
+	- tanto tanto la quería Ave María, ¿cuándo serás mía? poco a poco, dando por perdida.
 	- lo que pasa es que está intoxicada
 	- a pesar de las heridas
 	- la diosa del vudú
