@@ -1,6 +1,10 @@
 - Yo quiero verte quiero verte bailar de lejos no es bailar
-- Pa ponerte guapa para ligar al calor del amor en un bar.
+- Pa ponerte guapa para ligar al calor del amor en un bar
+-
 - Cuando zarpa el amor, los chicos se enamoran
+-
+- Buena paga y un chalet en las afueras
+- Pa' que te fijes en mí, y entonces me quieras
 -
 - ## Lyrics
 - Sigo buscando una sonrisa de repente en un bar
