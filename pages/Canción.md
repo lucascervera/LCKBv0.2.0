@@ -25,6 +25,9 @@
   id:: 68c7e865-17ca-400b-9701-d89c2f79af0c
 - Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
 -
+- Aún recuerdo aquel pasado
+- Hago chas y aparezco a tu lado
+-
 -
 -
 - Cuando zarpa el amor ¿Dónde estabas entonces?
