@@ -8,6 +8,9 @@
 - Venezia tiene un color especial
 - Cuando zarpa el amor, los chicos se enamoran
 -
+- un beso y una negra flor en la escuela de calor.
+- un truhan, un señor es morir de sabor de amor
+-
 - una mala primavera
 - un talego en la riñonera
 - bebiendo leche de pantera
@@ -91,6 +94,7 @@
 	- Yo sigo siendo aquel
 	- ¿Qué me has dado? Soy como Yordi Hurtado
 	- hago chas y aparezco a tu lado
+	-
 	- Entre dos tierras estás
 	- La raja de tu falda
 	- baila baila bailando va
