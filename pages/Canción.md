@@ -55,7 +55,7 @@
 - quiero verte, quiero verte
 -
 - Un DeLorean yo quisiera
-- para dar cera y pulir cera
+- qué no daría yo por dar cera y pulir cera
 - en el estrit faiter subir de nivel
 - con naranjito tatuado en la piel
 - un talego en la riñonera
@@ -69,6 +69,7 @@
 - Cuando zarpa el amor, los chicos se enamoran
 - Sigo buscando una sonrisa al calor del amor en un bar
 - Entre dos tierras estás
+- La raja de tu falda
 -
 -
 -
