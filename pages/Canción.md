@@ -4,9 +4,6 @@
 - la madre de Jose
 - dale a tu cuerpo, alegría macarena.
 -
-- yo sigo aquí y así seguiré
--
--
 - Bailar de lejos no es bailar
 - noches de bohemia y de insurrección
 - las manos blancas de pintar
