@@ -27,7 +27,8 @@
 -
 - Aún recuerdo aquel pasado
 - Hago chas y aparezco a tu lado
--
+- Soy como Jordi Hurtado
+- Yo sigo siendo aquel
 -
 -
 - Cuando zarpa el amor ¿Dónde estabas entonces?
