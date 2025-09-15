@@ -8,6 +8,8 @@
 - Venezia tiene un color especial
 - Cuando zarpa el amor, los chicos se enamoran
 -
+- Yo no quiero ser tu amante bandido Corazón partío
+-
 - un beso y una negra flor en la escuela de calor.
 - un truhan, un señor es morir de sabor de amor
 -
@@ -99,8 +101,7 @@
 	- La raja de tu falda
 	- baila baila bailando va
 	- de qué depende?
-	- Yo no quiero ser tu amante.
-	- amante bandido
+	-
 	- morreo
 	- Voy a pasarmelo bien
 	- ¿Quién me va a entregar sus emociones?
@@ -112,7 +113,7 @@
 	- Esa chica es mía
 	- Yo quiero verte bailar
 	-
-	- Corazón partío
+	-
 	- ¿Qué sabe nadie?
 	- No dudaría.
 	- Enamorado de la moda juvenil.
