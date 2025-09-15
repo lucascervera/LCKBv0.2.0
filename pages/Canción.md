@@ -10,6 +10,11 @@
 - Buena paga y un chalet en las afueras
 - Pa' que te fijes en mí, y entonces me quieras
 -
+- de apellido Vitorino
+- de plástico fino
+-
+- Doña Sirena
+-
 - ## Lyrics
 - Sigo buscando una sonrisa de repente en un bar
 - Bailar de lejos no es bailar
