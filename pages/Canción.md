@@ -1,4 +1,4 @@
-- Yo quiero verte bailar, de lejos no es bailar
+- Yo quiero verte quiero verte bailar de lejos no es bailar
 - Pa ponerte guapa para ligar al calor del amor en un bar.
 -
 - ## Lyrics
