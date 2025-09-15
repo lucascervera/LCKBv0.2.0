@@ -51,7 +51,7 @@
 - Aún recuerdo aquel pasado
 - naranjito tatuado en la piel
 - Hago chas y aparezco a tu lado
-- Soy como Jordi Hurtado
+- Soy como Yordi Hurtado
 - Yo sigo siendo aquel
 -
 -
