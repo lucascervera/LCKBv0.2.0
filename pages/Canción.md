@@ -61,15 +61,10 @@
 	-
 	- tanto tanto la quería
 	- Ave María, ¿cuándo serás mía?
-	- Noches de bohemia y de ilusión
-	- suspiros y llantos y oscura pasión
-	- Y un meneo que te pone juguetón
-	- Yo la miro y ella no me dice nada
+	- Noches de bohemia y de ilusión suspiros y llantos y oscura pasión
 	- la fui, poco a poco, dando por perdida.
 	- lo que pasa es que está intoxicada
-	- pero la quiero a pesar de las heridas
-	- Porque ya me ha quebrado los talones
-	- me echó del casino de Torrelodones
+	- a pesar de las heridas
 	- la diosa del vudú
 	- Una mano en la cintura
 	- Vete poniendo el disfraz de pecadora
@@ -77,7 +72,7 @@
 	- Que es lo que se lleva ahora
 	- una mala primavera
 	- No importa lo que se venga
-	- Me muero por abrazarte y que me abraces tan fuerte.
+	- Me muero por abrazarte
 	- Unas horas jugaré a quererte.
 	- quiero verte, quiero verte
 	-
