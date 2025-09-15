@@ -21,9 +21,9 @@
 - un beso y una negra flor en la escuela de calor
 -
 - ## Lyrics
-- Sigo buscando una sonrisa de repente en un bar
+- una sonrisa de repente en un bar
 - Bailar de lejos no es bailar
-- Pero primero quieres ir a cenar
+- primero quieres ir a cenar
 - Pa' ponerte guapa pa' ligar
 - Buena paga y un chalet en las afueras
 - Pa' que te fijes en mí, y entonces me quieras.
