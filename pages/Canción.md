@@ -31,10 +31,12 @@
 - Soy como Jordi Hurtado
 - Yo sigo siendo aquel
 -
+- ¿Dónde estabas entonces?
 - me muero por conocerte
-- Cuando zarpa el amor ¿Dónde estabas entonces?
-- Pisando fuerte
-- No controles entregar tus emociones No me claves tus puñales
+- Cuando zarpa el amor
+- zarpa pisando fuerte
+- No controles entregar tus emociones
+- No me claves tus puñales
 - quiero verte, quiero verte
 -
 - Chiquilla, Yo no quiero ser tu amante bandío
