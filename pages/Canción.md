@@ -13,7 +13,7 @@
 - de apellido Vitorino
 - de plástico fino
 -
-- Doña Sirena
+- conociste a una sirena
 -
 - ## Lyrics
 - Sigo buscando una sonrisa de repente en un bar
