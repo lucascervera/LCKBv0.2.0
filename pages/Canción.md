@@ -16,6 +16,9 @@
 - alegría Macarena conociste a una sirena
 -
 - de apellido Vitorin hecha de plástico fino
+-
+- Sufre mamón Qué difícil es pedir perdón.
+-
 - racatanga
 - aserejé
 - las manos blancas de pintar Imposibles de borrar
@@ -85,10 +88,6 @@
 	- Yo sigo siendo aquel
 	- ¿Qué me has dado? Soy como Yordi Hurtado
 	- hago chas y aparezco a tu lado
-	-
-	- Venezia tiene un color especial
-	- Cuando zarpa el amor, los chicos se enamoran
-	- Sigo buscando una sonrisa al calor del amor en un bar
 	- Entre dos tierras estás
 	- La raja de tu falda
 	- baila baila bailando va
