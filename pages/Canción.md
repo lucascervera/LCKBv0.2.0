@@ -53,9 +53,7 @@
 - los chicos se enamoran de la moda juvenil
 -
 - Y que no le digan en la esquina
-- dulce niña Carolina de apellido Vitorino
 - Búscate un hombre que te quiera
-- hecha de plástico fino
 - con camisa negra una mala primavera
   
   Esa chica es mía
