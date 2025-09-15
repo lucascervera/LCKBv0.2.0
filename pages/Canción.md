@@ -40,8 +40,7 @@
 - es morir de sabor de amor
 - Venezia tiene un color especial
 - camisa negra, un beso y una negra flor,
-- son maneras de vivir
-- soy un truhán soy un señor
+- maneras de vivir, soy un truhán soy un señor
 -
 - Y que no te digan en la esquina
 - Búscate un hombre que te quiera
