@@ -85,6 +85,10 @@
 - Esa chica es mía
 - Yo quiero verte bailar
 -
+- Corazón partío
+- ¿Qué sabe nadie?
+- No dudaría.
+- Enamorado de la moda juvenil.
 -
 -
 -
