@@ -19,16 +19,17 @@
 - Pa ponerte guapa para ligar
 - Qué difícil es pedir perdón
 -
+-
 - ¿Qué me has dado? Soy como Yordi Hurtado hago chas y aparezco a tu lado
 - que la detengan
   id:: 68c7e865-17ca-400b-9701-d89c2f79af0c
 - Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
-- alegría Macarena
+-
 -
 - Cuando zarpa el amor ¿Dónde estabas entonces?
-  me muero por abrazarte Pisando fuerte
-  No controles entregar tus emociones No me claves tus puñales
-  quiero verte, quiero verte
+- me muero por abrazarte Pisando fuerte
+- No controles entregar tus emociones No me claves tus puñales
+- quiero verte, quiero verte
   
   Chiquilla, Yo no quiero ser tu amante bandío
   No importa lo que se venga Quiero tener tu presencia
