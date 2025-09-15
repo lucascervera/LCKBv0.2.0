@@ -1,3 +1,9 @@
+- Un raro diciembre en tu fiesta me colé
+- Lobo hombre conoce sirena
+- baila baila bailando el aserejé
+- la madre de Jose
+- que la detengan bailando el aserejé, yo sigo aquí y así seguiré
+-
 - Noches de bohemia y de insurrección
 - suspiros y llantos y oscura pasión
 - Sufre mamón
@@ -13,13 +19,8 @@
 -
 - Yo sigo siendo aquel con naranjito tatuado en la piel en el estrit faiter subir de nivel
 - alegría Macarena
-- Un raro diciembre en tu fiesta me colé
-- Lobo hombre conoce sirena
-- baila baila bailando el aserejé
-- la madre de Jose
-- que la detengan bailando el aserejé, yo sigo aquí y así seguiré
-  
-  Cuando zarpa el amor ¿Dónde estabas entonces?
+-
+- Cuando zarpa el amor ¿Dónde estabas entonces?
   me muero por abrazarte Pisando fuerte
   No controles entregar tus emociones No me claves tus puñales
   quiero verte, quiero verte
