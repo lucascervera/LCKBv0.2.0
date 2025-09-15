@@ -94,6 +94,7 @@
 - Maneras de vivir
 - No controles.
 - Fui a la orilla del río.
+- ¿Quién me tapará esta noche si hace frío?
 - lobo hombre
 - En tu fiesta me colé.
 - Es un escándalo.
@@ -103,7 +104,9 @@
 - Paquito Chocolatero
 - Soldadito marinero
 - O te pego con el mechero
-- Partiendo la pana.
+- Partiendo la pana
+- Cuando brilla el sol
+- Qué difícil es pedir perdón.
 -
 -
 -
