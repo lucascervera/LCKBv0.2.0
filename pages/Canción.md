@@ -15,8 +15,9 @@
 -
 - Yo quiero verte quiero verte bailar
 - Sufre mamón
-- Pa ponerte guapa para ligar al calor del amor en un bar
-	- Qué difícil es pedir perdón
+- al calor del amor en un bar
+- Qué difícil es pedir perdón
+- Pa ponerte guapa para ligar
 -
 - ¿Qué me has dado? Soy como Yordi Hurtado hago chas y aparezco a tu lado
 - que la detengan
