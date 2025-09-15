@@ -113,6 +113,8 @@
 - Que la detengan.
 - En tu fiesta me colé.
 - La madre de José
+- Fijando fuerte.
+- Cuéntame un cuento.
 -
 - La camisa negra.
 - Devuélveme a mi chica
