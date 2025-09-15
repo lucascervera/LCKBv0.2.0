@@ -100,8 +100,9 @@
 - Es un escándalo.
 - En la plaza del pueblo.
 - Hace calor. Hace calor.
-- La negra flor en la escuela de calor.
-- es morir de amor
+- un beso y una negra flor en la escuela de calor.
+- es morir de sabor de amor
+-
 - Devuélveme a mi chica
 - Paquito Chocolatero
 - Soldadito marinero
